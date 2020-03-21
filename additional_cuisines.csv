@@ -1,0 +1,9283 @@
+1,"['Asian', 'Nepali']"
+3,
+5,"['European', 'Bar', 'Portuguese']"
+8,"['European', 'Cafe']"
+10,['Spanish']
+21,
+26,"['Spanish', 'Bar', 'Wine Bar']"
+27,
+28,
+29,['Spanish']
+30,"['American', 'Cafe', 'Diner']"
+32,
+39,"['Bar', 'Italian', 'Vegetarian Friendly']"
+51,
+57,
+59,
+60,['German']
+61,
+65,"['European', 'Hungarian']"
+68,"['Gluten Free Options', 'Vegetarian Friendly', 'Vegan Options']"
+73,
+75,
+86,"['European', 'Cafe', 'Dutch']"
+89,"['French', 'European']"
+90,"['French', 'Vegetarian Friendly']"
+96,['Fast Food']
+106,
+107,
+115,
+118,
+119,
+121,"['Italian', 'Vegetarian Friendly']"
+127,"['French', 'European']"
+129,['Vegetarian Friendly']
+142,
+144,
+152,
+154,['Cafe']
+156,['Indian']
+160,"['Chinese', 'Asian', 'International']"
+164,
+167,"['Japanese', 'Asian']"
+169,"['French', 'Bar', 'Cafe']"
+180,
+181,"['European', 'Fast Food', 'Portuguese']"
+184,"['Indian', 'Vegetarian Friendly', 'Asian']"
+185,"['American', 'Fast Food']"
+186,
+187,
+192,
+199,
+208,['Fast Food']
+216,
+220,
+221,
+222,"['European', 'Cafe', 'Portuguese']"
+225,['Italian']
+228,
+235,
+241,
+249,['Spanish']
+255,['Fast Food']
+262,"['American', 'Fast Food']"
+265,"['Italian', 'Vegetarian Friendly', 'Pizza']"
+269,
+275,
+277,
+278,"['Spanish', 'Vegetarian Friendly']"
+281,
+283,"['British', 'Bar', 'Barbecue']"
+288,
+297,['French']
+304,"['European', 'Vegetarian Friendly']"
+322,
+325,['International']
+326,
+336,
+348,['Cafe']
+358,['Spanish']
+367,"['Spanish', 'Seafood']"
+369,"['Bar', 'Pub']"
+372,
+375,"['Italian', 'Vegetarian Friendly', 'Mediterranean']"
+381,
+384,
+390,['Mediterranean']
+394,['Italian']
+396,
+398,
+403,['Spanish']
+405,
+408,"['French', 'Cafe']"
+413,"['French', 'American', 'Vegetarian Friendly']"
+417,
+418,
+423,
+424,
+427,
+431,"['European', 'Portuguese']"
+435,
+438,
+440,
+444,
+449,
+467,
+470,['German']
+473,
+475,
+477,
+481,
+486,"['Italian', 'Vegetarian Friendly']"
+487,
+492,
+494,
+497,"['Seafood', 'Pizza']"
+499,['Greek']
+503,['Spanish']
+505,['Italian']
+512,"['French', 'European', 'Bar']"
+524,['International']
+526,
+533,
+536,
+539,['Diner']
+540,
+543,
+548,"['European', 'Portuguese']"
+553,"['Bar', 'Cafe', 'Pub', 'Grill']"
+565,['Italian']
+576,
+583,
+590,"['Italian', 'Vegetarian Friendly', 'Pizza']"
+594,"['Vegetarian Friendly', 'Chinese', 'Asian']"
+602,"['Thai', 'Chinese', 'Asian']"
+604,
+609,
+611,
+613,
+616,"['Lebanese', 'Mediterranean']"
+623,
+630,"['Bar', 'Pub']"
+631,
+634,"['Spanish', 'Mediterranean']"
+636,['American']
+638,
+642,
+646,
+655,"['Japanese', 'Chinese', 'Sushi']"
+660,
+662,"['American', 'Cafe', 'Armenian']"
+665,
+669,
+673,
+675,
+676,
+681,
+692,"['British', 'Cafe', 'Vegetarian Friendly']"
+698,"['European', 'Cafe', 'Vegan Options']"
+699,"['European', 'Portuguese']"
+705,
+708,
+715,['Vegetarian Friendly']
+726,
+728,['Spanish']
+731,"['Bar', 'Barbecue']"
+732,"['European', 'Central European']"
+734,
+736,"['French', 'European', 'Belgian']"
+737,['Italian']
+739,
+742,['Spanish']
+749,
+755,['Turkish']
+757,
+760,['Vegetarian Friendly']
+765,"['Greek', 'Bar', 'Mediterranean']"
+767,['Vietnamese']
+770,
+771,"['Spanish', 'Mediterranean']"
+776,"['Bar', 'Barbecue']"
+780,"['Indian', 'Vegetarian Friendly', 'Asian']"
+786,
+789,['Cafe']
+790,
+792,"['European', 'Italian', 'Pizza']"
+794,"['Thai', 'Asian']"
+795,['Cafe']
+798,
+801,
+807,
+827,"['Asian', 'Vietnamese']"
+830,['Spanish']
+831,"['European', 'Cafe', 'Scandinavian', 'Danish']"
+832,"['Italian', 'Vegetarian Friendly']"
+834,['French']
+837,
+852,
+853,"['Italian', 'Vegetarian Friendly', 'Pizza']"
+868,"['European', 'Swiss']"
+869,['French']
+872,"['Lebanese', 'Moroccan', 'Mediterranean']"
+877,['Chinese']
+880,
+884,['Spanish']
+889,"['Italian', 'Pizza', 'Mediterranean']"
+890,
+898,['Cafe']
+906,
+910,
+913,"['European', 'Portuguese']"
+916,
+917,
+924,
+929,"['British', 'European', 'Bar']"
+931,['International']
+936,['African']
+939,"['French', 'Seafood']"
+941,
+942,
+951,
+958,
+961,
+966,['Cafe']
+972,
+974,"['Italian', 'Argentinean', 'Fast Food']"
+981,
+984,
+993,
+996,['Cafe']
+999,
+1021,
+1029,
+1033,
+1037,
+1043,"['European', 'Vegetarian Friendly', 'German']"
+1047,['Irish']
+1051,
+1052,
+1054,
+1057,
+1059,
+1072,
+1076,['Italian']
+1079,['French']
+1082,
+1084,
+1094,"['Cafe', 'Vegetarian Friendly', 'Fast Food']"
+1095,
+1097,
+1104,
+1106,"['European', 'German']"
+1111,"['Italian', 'Pizza']"
+1113,"['European', 'Czech']"
+1115,['Vegetarian Friendly']
+1117,
+1123,
+1127,
+1129,
+1131,
+1133,"['Bar', 'Pub']"
+1139,"['Gastropub', 'Cafe', 'Pub']"
+1143,
+1147,
+1148,"['Healthy', 'Vegetarian Friendly', 'Vegan Options']"
+1152,"['Italian', 'Vegetarian Friendly']"
+1154,
+1158,
+1167,
+1169,['Turkish']
+1175,"['Thai', 'Asian']"
+1184,
+1191,['Japanese']
+1198,['Cafe']
+1209,"['European', 'Cafe', 'Central European', 'German']"
+1210,
+1213,
+1216,
+1218,
+1241,"['Bar', 'Pub']"
+1245,
+1247,"['Bar', 'Cafe', 'German']"
+1250,
+1252,
+1258,['Cafe']
+1267,
+1269,['Cafe']
+1273,
+1275,['Italian']
+1282,"['American', 'Spanish', 'Fast Food']"
+1284,"['European', 'Dutch', 'Fast Food']"
+1291,['Spanish']
+1293,"['Bar', 'Asian', 'Pub']"
+1294,
+1300,
+1310,['Fast Food']
+1316,['Cafe']
+1322,"['Cafe', 'Vegetarian Friendly']"
+1323,"['Italian', 'Pub', 'Fast Food']"
+1331,['Cafe']
+1333,
+1335,['Spanish']
+1336,"['Italian', 'Pizza']"
+1339,['Fast Food']
+1346,
+1356,
+1359,
+1372,"['European', 'Portuguese']"
+1377,
+1392,
+1398,
+1407,
+1413,
+1416,['Cafe']
+1421,
+1425,"['European', 'Central European', 'Czech']"
+1435,"['European', 'Portuguese']"
+1439,
+1440,
+1448,"['European', 'Central European', 'Polish']"
+1451,"['Fast Food', 'Turkish']"
+1457,"['British', 'Scottish']"
+1458,
+1459,"['European', 'Gluten Free Options']"
+1462,['Cafe']
+1465,
+1475,
+1485,['French']
+1489,['Spanish']
+1492,
+1497,"['European', 'Dutch']"
+1499,['Fast Food']
+1500,"['Spanish', 'Mediterranean']"
+1503,['Cafe']
+1504,
+1516,"['Croatian', 'European']"
+1518,['Cafe']
+1519,
+1520,"['Spanish', 'Mediterranean']"
+1523,
+1527,['French']
+1528,"['Moroccan', 'Middle Eastern', 'Mediterranean']"
+1538,
+1550,"['European', 'Portuguese']"
+1560,"['French', 'Moroccan', 'Mediterranean']"
+1564,
+1565,
+1568,
+1569,['Fast Food']
+1584,"['Italian', 'Pizza']"
+1585,
+1592,
+1594,"['European', 'Austrian', 'Central European']"
+1599,
+1603,"['Chinese', 'Asian', 'Vietnamese']"
+1608,
+1611,['Fast Food']
+1616,
+1625,
+1630,['Spanish']
+1631,['Cafe']
+1639,['Sushi']
+1640,"['Vegetarian Friendly', 'Vegan Options']"
+1645,
+1657,"['Cafe', 'Vegetarian Friendly']"
+1658,"['European', 'Bar', 'Mediterranean']"
+1659,['Spanish']
+1660,
+1661,
+1666,
+1672,"['Japanese', 'Chinese', 'Sushi']"
+1676,"['Thai', 'Chinese', 'Asian']"
+1677,
+1679,
+1685,"['French', 'European', 'Vegetarian Friendly']"
+1687,
+1688,
+1689,"['Japanese', 'Sushi', 'Asian']"
+1693,"['European', 'Polish']"
+1694,"['Vegetarian Friendly', 'Fast Food']"
+1696,
+1699,"['Japanese', 'Sushi', 'Asian']"
+1705,
+1706,
+1711,
+1715,['Cafe']
+1716,['Chinese']
+1719,
+1720,"['European', 'Dutch']"
+1730,"['Indian', 'Vegetarian Friendly', 'Halal']"
+1731,
+1734,
+1737,"['Cafe', 'Vegetarian Friendly']"
+1741,"['Italian', 'Vegetarian Friendly', 'Fast Food']"
+1746,
+1748,
+1751,['Steakhouse']
+1755,['Mediterranean']
+1757,['French']
+1759,['Vegetarian Friendly']
+1791,
+1795,['Vegetarian Friendly']
+1797,
+1804,
+1809,"['Japanese', 'Sushi', 'Asian']"
+1814,['French']
+1815,['Spanish']
+1818,"['European', 'Italian', 'Pizza']"
+1819,
+1820,
+1828,
+1829,"['Italian', 'Vegetarian Friendly']"
+1832,
+1834,
+1837,
+1841,['Spanish']
+1843,
+1846,
+1848,
+1849,
+1853,"['Bar', 'Italian', 'Pub']"
+1860,
+1861,
+1864,
+1876,"['British', 'Cafe', 'Vegetarian Friendly']"
+1877,
+1878,
+1888,
+1889,"['Italian', 'Vegetarian Friendly', 'Pizza']"
+1894,
+1898,
+1899,
+1901,['German']
+1903,
+1904,
+1911,"['Spanish', 'Mediterranean']"
+1912,
+1915,
+1918,
+1919,
+1931,
+1933,['Japanese']
+1937,['International']
+1940,"['European', 'Belgian']"
+1945,
+1949,['Cafe']
+1952,"['Spanish', 'Mediterranean']"
+1961,['Cafe']
+1968,
+1973,"['Spanish', 'Vegetarian Friendly', 'Mediterranean']"
+1975,['Thai']
+1980,
+1984,
+1986,"['European', 'Brazilian', 'Portuguese']"
+1987,
+1991,
+1992,"['European', 'Portuguese']"
+1993,"['European', 'Polish']"
+1995,
+1997,
+2000,"['Vegetarian Friendly', 'German']"
+2001,
+2005,
+2008,
+2010,"['Italian', 'Vegetarian Friendly']"
+2012,
+2014,"['Cafe', 'Portuguese']"
+2017,"['Italian', 'Pizza', 'Fast Food']"
+2019,
+2033,['Italian']
+2034,['Turkish']
+2040,
+2043,"['European', 'Portuguese']"
+2048,
+2053,"['Asian', 'Middle Eastern']"
+2057,
+2059,['Cafe']
+2060,"['European', 'Portuguese']"
+2064,
+2066,
+2074,['American']
+2077,"['Healthy', 'Cafe']"
+2082,
+2087,
+2088,
+2089,
+2100,"['French', 'Cafe']"
+2101,['Cafe']
+2103,"['European', 'Swiss', 'German']"
+2105,
+2106,
+2113,
+2119,
+2120,
+2131,"['European', 'Italian']"
+2134,"['French', 'Cafe']"
+2136,
+2142,['Italian']
+2145,"['Cafe', 'Vegetarian Friendly', 'Vegan Options']"
+2148,
+2149,"['Bar', 'Italian', 'Wine Bar']"
+2158,"['Italian', 'Vegetarian Friendly', 'Pizza']"
+2163,"['European', 'Cafe', 'Vegetarian Friendly']"
+2168,['French']
+2177,
+2179,['French']
+2182,"['Cafe', 'Vegetarian Friendly']"
+2188,"['European', 'Danish']"
+2193,['Italian']
+2195,
+2196,
+2198,
+2202,
+2215,
+2236,
+2240,"['European', 'Portuguese']"
+2242,
+2247,['Spanish']
+2249,"['European', 'Central European']"
+2253,
+2254,
+2259,
+2260,['Cafe']
+2261,['Spanish']
+2263,
+2266,
+2270,
+2278,
+2283,
+2287,
+2296,
+2299,"['French', 'Vegetarian Friendly']"
+2309,"['European', 'Dutch', 'International']"
+2312,
+2314,['European']
+2317,
+2320,
+2321,
+2334,['Chinese']
+2335,
+2339,
+2347,"['Cafe', 'Vegetarian Friendly']"
+2348,
+2349,
+2352,"['Spanish', 'Bar', 'Pub', 'Mediterranean']"
+2364,
+2372,"['French', 'Bar', 'Cafe']"
+2378,['Cafe']
+2386,
+2388,['Italian']
+2394,['Cafe']
+2399,"['European', 'Vegetarian Friendly', 'Belgian']"
+2400,
+2401,
+2408,
+2411,
+2416,"['Vegetarian Friendly', 'German']"
+2417,
+2426,
+2431,
+2435,"['Japanese', 'Vegetarian Friendly', 'Vegan Options']"
+2439,"['European', 'Hungarian', 'Cafe']"
+2440,"['Spanish', 'Gluten Free Options', 'Vegetarian Friendly']"
+2442,"['American', 'Pizza']"
+2445,['French']
+2446,
+2447,['European']
+2456,
+2465,['Spanish']
+2468,"['Thai', 'Chinese', 'Sushi', 'Asian']"
+2472,"['Italian', 'Pizza']"
+2475,
+2482,
+2489,"['European', 'Bar', 'Barbecue']"
+2501,"['Lebanese', 'Middle Eastern', 'Mediterranean']"
+2503,
+2506,
+2509,
+2510,"['European', 'Scandinavian', 'Swedish']"
+2515,"['Italian', 'Vegetarian Friendly']"
+2518,
+2530,
+2539,['Cafe']
+2541,['Vegetarian Friendly']
+2543,"['European', 'Central European', 'Vegetarian Friendly']"
+2548,
+2560,
+2572,
+2574,
+2575,"['Greek', 'Vegetarian Friendly']"
+2584,['Italian']
+2589,
+2590,['Vegetarian Friendly']
+2591,
+2593,['French']
+2596,
+2598,"['European', 'Cafe', 'Portuguese']"
+2599,
+2602,['Cafe']
+2605,['Fast Food']
+2607,"['European', 'Bar', 'Dutch', 'Pub']"
+2617,['Healthy']
+2618,"['American', 'Bar', 'Steakhouse', 'Barbecue']"
+2621,"['Spanish', 'Latin']"
+2623,
+2626,
+2630,
+2640,
+2646,['French']
+2652,
+2653,
+2656,
+2660,['Cafe']
+2676,"['American', 'South American']"
+2677,
+2681,
+2685,"['Italian', 'Pizza']"
+2694,['Cafe']
+2696,['Turkish']
+2701,['Fast Food']
+2705,
+2711,
+2713,['Fast Food']
+2714,['Asian']
+2720,
+2724,['Austrian']
+2727,['Spanish']
+2735,"['Italian', 'Vegetarian Friendly', 'German']"
+2742,
+2743,"['Italian', 'Pizza']"
+2754,"['Indian', 'Vegetarian Friendly']"
+2760,
+2762,['Greek']
+2765,
+2774,"['Bar', 'Cafe', 'Swiss']"
+2779,
+2781,"['Vegetarian Friendly', 'Vegan Options']"
+2784,['Italian']
+2789,
+2794,"['American', 'Fast Food']"
+2796,
+2797,
+2800,
+2801,
+2803,
+2810,
+2811,['Indian']
+2812,"['Italian', 'Vegetarian Friendly', 'Mediterranean']"
+2814,['Cafe']
+2830,['Italian']
+2833,['Soups']
+2836,
+2848,
+2852,
+2857,['Vegetarian Friendly']
+2861,['Chinese']
+2871,"['European', 'International', 'Contemporary']"
+2879,
+2884,['Cafe']
+2895,
+2898,
+2900,"['European', 'Portuguese']"
+2901,['Cafe']
+2909,"['European', 'Austrian']"
+2910,
+2915,
+2926,
+2936,"['Spanish', 'Bar', 'Wine Bar', 'Mediterranean']"
+2937,
+2938,
+2939,"['Croatian', 'European', 'German']"
+2941,
+2949,['French']
+2957,"['French', 'Italian']"
+2961,
+2962,
+2963,
+2964,['Italian']
+2967,"['Japanese', 'Sushi', 'Asian']"
+2968,
+2981,['Japanese']
+2986,
+2992,
+3005,"['Italian', 'German']"
+3006,"['Austrian', 'Cafe', 'Fast Food']"
+3010,"['Cajun & Creole', 'Caribbean', 'International']"
+3019,
+3021,['Spanish']
+3026,['Italian']
+3027,"['Japanese', 'Sushi', 'Asian']"
+3033,['Mediterranean']
+3036,
+3037,['Pizza']
+3038,
+3042,['Vegetarian Friendly']
+3044,['Spanish']
+3045,
+3046,
+3062,['Greek']
+3064,
+3070,['Vegetarian Friendly']
+3078,
+3082,"['Thai', 'Vegetarian Friendly']"
+3083,
+3106,
+3107,"['French', 'European', 'Contemporary']"
+3124,['Italian']
+3134,
+3141,
+3142,['Steakhouse']
+3144,"['French', 'Vegetarian Friendly']"
+3145,
+3150,
+3170,"['Steakhouse', 'Fast Food']"
+3174,
+3178,['Cafe']
+3192,['French']
+3194,"['Italian', 'Pizza']"
+3197,['Italian']
+3200,
+3204,
+3210,
+3215,['Vegetarian Friendly']
+3219,
+3220,
+3221,"['French', 'Bar', 'Pub']"
+3231,
+3235,
+3237,"['Cafe', 'Italian']"
+3238,
+3246,
+3253,
+3260,"['Vegetarian Friendly', 'Asian', 'Vietnamese']"
+3263,
+3270,
+3273,['French']
+3274,"['Cafe', 'Italian', 'International']"
+3276,"['Vegetarian Friendly', 'Fast Food', 'Turkish']"
+3282,['Cafe']
+3289,
+3296,
+3299,['Vegetarian Friendly']
+3303,['Middle Eastern']
+3305,"['European', 'Portuguese']"
+3306,"['Vegetarian Friendly', 'Turkish']"
+3308,
+3314,
+3325,['Cafe']
+3326,
+3327,
+3329,
+3333,
+3341,
+3343,['German']
+3354,
+3359,
+3360,
+3361,['Vegetarian Friendly']
+3367,
+3371,"['European', 'Scandinavian']"
+3372,
+3378,"['Chinese', 'Vietnamese']"
+3381,
+3385,
+3389,['Fast Food']
+3397,['Cafe']
+3398,"['Cafe', 'Fast Food']"
+3399,
+3401,
+3403,
+3411,['French']
+3420,"['Cafe', 'Mediterranean']"
+3422,['Spanish']
+3424,
+3425,
+3427,"['European', 'Cafe', 'Fast Food']"
+3429,"['Spanish', 'Bar', 'Wine Bar', 'Grill']"
+3432,['Spanish']
+3440,['Mediterranean']
+3443,['Seafood']
+3451,"['Italian', 'Pizza']"
+3456,
+3466,
+3468,['French']
+3472,
+3483,
+3490,
+3497,
+3503,
+3504,"['Italian', 'Pizza']"
+3506,
+3508,
+3512,
+3513,['Chinese']
+3527,"['Greek', 'European', 'Mediterranean']"
+3529,
+3533,"['European', 'Austrian', 'Central European']"
+3538,"['Vegetarian Friendly', 'Vegan Options']"
+3546,
+3552,
+3553,"['European', 'Portuguese']"
+3559,
+3568,"['Spanish', 'Steakhouse']"
+3572,['American']
+3580,
+3586,"['Italian', 'Seafood', 'Pizza']"
+3591,
+3597,['Mexican']
+3599,"['Italian', 'Mediterranean']"
+3600,
+3605,"['European', 'Brazilian', 'Fast Food']"
+3606,
+3611,['Turkish']
+3618,
+3620,['European']
+3625,"['Cafe', 'German']"
+3627,"['British', 'Fast Food']"
+3632,['Turkish']
+3633,
+3634,['French']
+3635,
+3640,
+3644,
+3647,"['European', 'Scandinavian', 'Danish']"
+3648,"['Vegetarian Friendly', 'German']"
+3650,['Fast Food']
+3653,
+3655,['Italian']
+3659,
+3660,
+3662,['Turkish']
+3664,"['American', 'Spanish', 'South American']"
+3665,
+3671,
+3673,"['Spanish', 'Bar', 'Pub']"
+3676,
+3686,"['Spanish', 'Mediterranean']"
+3687,['Italian']
+3694,['Chinese']
+3717,['French']
+3721,['Dutch']
+3723,"['European', 'Scandinavian']"
+3725,
+3726,
+3739,
+3741,['Cafe']
+3743,
+3753,
+3755,
+3757,"['Chinese', 'Asian']"
+3759,['Pizza']
+3760,"['Bar', 'Pub']"
+3762,['Cafe']
+3767,
+3778,"['Spanish', 'Bar', 'Cafe']"
+3803,"['Japanese', 'Sushi', 'Asian']"
+3809,
+3810,
+3812,['Vegetarian Friendly']
+3818,
+3831,"['European', 'Swedish']"
+3838,
+3845,
+3847,
+3848,
+3854,['Italian']
+3861,"['Italian', 'Vegetarian Friendly']"
+3864,
+3882,
+3888,
+3894,
+3896,
+3897,
+3899,"['Italian', 'Pizza', 'Fast Food']"
+3900,
+3909,['Spanish']
+3910,
+3916,"['Indian', 'Vegetarian Friendly']"
+3918,"['European', 'Belgian']"
+3920,['Caribbean']
+3927,['Healthy']
+3940,"['Cafe', 'Steakhouse', 'German']"
+3941,['Cafe']
+3953,
+3955,
+3956,"['Italian', 'Vegetarian Friendly']"
+3960,
+3962,
+3963,
+3966,"['European', 'Swiss']"
+3967,['Cafe']
+3968,['Cafe']
+3981,"['Spanish', 'Vegetarian Friendly']"
+3982,['Cafe']
+3984,
+3994,
+3997,
+4002,"['European', 'Polish']"
+4007,['Cafe']
+4009,
+4010,
+4018,"['Indian', 'Fast Food', 'Pakistani']"
+4023,
+4024,
+4025,
+4036,
+4039,['Cafe']
+4042,
+4051,['French']
+4055,
+4058,
+4065,['Vegetarian Friendly']
+4067,['Fast Food']
+4074,['Spanish']
+4075,
+4081,"['Spanish', 'Vegetarian Friendly']"
+4085,"['European', 'Swedish']"
+4088,['Seafood']
+4092,"['Spanish', 'Pizza', 'Mediterranean']"
+4095,
+4096,
+4097,
+4100,
+4104,
+4105,['Pizza']
+4109,"['Italian', 'Vegetarian Friendly', 'Vegan Options']"
+4112,['Cafe']
+4115,
+4117,"['Japanese', 'Sushi']"
+4118,
+4124,['Spanish']
+4128,"['European', 'Swedish']"
+4134,
+4136,
+4140,['Vegetarian Friendly']
+4154,
+4161,"['Thai', 'Asian', 'Vietnamese']"
+4169,"['Chinese', 'Asian']"
+4176,['French']
+4179,"['Bar', 'Pub']"
+4181,"['Sushi', 'Asian']"
+4187,['German']
+4194,"['Bar', 'Cafe', 'Wine Bar']"
+4201,['French']
+4206,
+4208,
+4209,
+4213,
+4218,
+4227,['Spanish']
+4234,['Italian']
+4236,"['American', 'Fast Food']"
+4237,
+4238,
+4239,['Cafe']
+4241,
+4244,
+4251,"['French', 'European']"
+4252,
+4257,
+4259,
+4261,"['European', 'Polish']"
+4262,"['British', 'Cafe']"
+4263,['German']
+4266,
+4268,['Italian']
+4277,"['Gluten Free Options', 'Vegetarian Friendly']"
+4279,"['Pub', 'Pizza']"
+4282,
+4292,"['Cafe', 'Vegetarian Friendly', 'German']"
+4296,"['European', 'Seafood', 'Dutch']"
+4304,"['Fast Food', 'Turkish', 'Middle Eastern']"
+4305,
+4311,['Cafe']
+4312,"['Bar', 'Vegetarian Friendly', 'Pub']"
+4315,['Cafe']
+4318,"['European', 'Cafe', 'Polish']"
+4320,"['French', 'Bar', 'Vegetarian Friendly', 'Wine Bar']"
+4321,
+4324,
+4328,"['French', 'Italian', 'Pizza']"
+4330,"['European', 'Portuguese']"
+4333,['Cafe']
+4335,"['American', 'Peruvian', 'South American']"
+4339,['Seafood']
+4340,"['European', 'Austrian']"
+4341,['Vegetarian Friendly']
+4346,"['European', 'Bar', 'Czech']"
+4348,"['Cafe', 'Vegetarian Friendly', 'German']"
+4351,"['British', 'European', 'International']"
+4352,
+4358,
+4360,
+4363,['Spanish']
+4370,['Vegetarian Friendly']
+4375,['Chinese']
+4377,['Spanish']
+4382,"['Bar', 'Cafe', 'Italian']"
+4383,
+4387,"['Halal', 'Fast Food', 'Middle Eastern']"
+4392,
+4393,['European']
+4396,
+4399,"['European', 'Bar', 'Pub']"
+4408,
+4409,
+4414,
+4418,"['French', 'Mediterranean']"
+4423,['French']
+4425,"['European', 'Portuguese']"
+4427,
+4446,"['European', 'Austrian', 'Fast Food']"
+4457,
+4475,"['Spanish', 'Mediterranean']"
+4476,['Cafe']
+4478,['Healthy']
+4481,
+4485,
+4486,
+4487,
+4492,['Fast Food']
+4494,
+4501,
+4502,['French']
+4503,"['European', 'International', 'Fusion']"
+4506,"['Pizza', 'International']"
+4513,['Fast Food']
+4518,"['Spanish', 'Fast Food']"
+4525,
+4526,"['European', 'Bar', 'Czech']"
+4533,"['Sushi', 'Asian']"
+4536,
+4544,
+4551,"['Italian', 'Vegetarian Friendly', 'Pizza']"
+4556,
+4558,"['Cafe', 'Fast Food']"
+4559,['French']
+4560,"['European', 'Diner']"
+4568,['Indian']
+4570,['Cafe']
+4571,"['Bar', 'Cafe', 'Italian']"
+4589,"['French', 'European']"
+4600,
+4605,['Cafe']
+4611,"['Halal', 'Turkish']"
+4613,
+4614,
+4616,['Cafe']
+4621,['Healthy']
+4623,['Italian']
+4634,
+4637,
+4644,['Spanish']
+4655,"['Bar', 'Pub']"
+4657,
+4658,"['Fast Food', 'Turkish', 'Middle Eastern']"
+4661,
+4662,
+4667,
+4671,['Cafe']
+4679,['Gluten Free Options']
+4681,
+4686,"['Vegetarian Friendly', 'Fast Food']"
+4688,
+4689,"['Fast Food', 'Turkish']"
+4696,"['European', 'Central European', 'Czech']"
+4697,['Pub']
+4699,
+4701,['Chinese']
+4703,"['French', 'Fast Food']"
+4705,
+4706,
+4718,['Fast Food']
+4724,
+4729,
+4731,
+4737,
+4740,['Spanish']
+4742,
+4750,
+4752,"['Bar', 'Pub']"
+4756,"['Gluten Free Options', 'Vegetarian Friendly']"
+4758,
+4759,"['European', 'Central European']"
+4761,"['Eastern European', 'European', 'Polish']"
+4762,"['Fast Food', 'Turkish', 'Middle Eastern']"
+4764,
+4766,
+4769,
+4774,
+4780,
+4785,
+4788,
+4791,"['Italian', 'Pizza']"
+4793,['Pizza']
+4802,
+4805,
+4806,
+4807,['Seafood']
+4811,['American']
+4812,"['Italian', 'Vegetarian Friendly', 'Vegan Options']"
+4813,
+4816,
+4820,
+4824,['French']
+4830,['French']
+4831,
+4833,
+4841,"['French', 'Bar', 'Wine Bar']"
+4845,
+4858,
+4863,"['Indonesian', 'Asian']"
+4866,['Fast Food']
+4869,
+4873,"['European', 'German']"
+4874,['Japanese']
+4877,['Cafe']
+4879,"['Seafood', 'Chinese', 'Asian']"
+4885,['Seafood']
+4888,"['Italian', 'Vegetarian Friendly']"
+4891,"['Bar', 'Italian', 'Pub']"
+4897,
+4898,"['French', 'European']"
+4900,"['Lebanese', 'Middle Eastern', 'Mediterranean']"
+4901,
+4903,"['French', 'European', 'Italian']"
+4906,"['European', 'Cafe', 'Vegetarian Friendly']"
+4909,['Spanish']
+4911,
+4918,"['Spanish', 'Mediterranean']"
+4920,
+4932,
+4933,
+4941,"['Italian', 'Vegetarian Friendly', 'Mediterranean']"
+4947,
+4950,"['Japanese', 'Sushi', 'Asian']"
+4954,
+4955,"['European', 'Vegetarian Friendly', 'Belgian']"
+4962,
+4969,['Spanish']
+4974,
+4977,['Cafe']
+4978,
+4982,"['European', 'Soups', 'Fast Food']"
+4984,['Cafe']
+4987,
+4990,
+4992,['Cafe']
+4994,"['Chinese', 'Asian']"
+4999,"['Thai', 'Chinese', 'Asian']"
+5001,"['French', 'Cafe', 'Vegetarian Friendly']"
+5011,
+5019,
+5036,"['Cafe', 'Vegetarian Friendly', 'Swedish']"
+5040,"['Bar', 'Brazilian', 'Barbecue', 'Portuguese']"
+5044,
+5049,
+5053,
+5054,
+5063,"['Moroccan', 'Middle Eastern', 'Mediterranean']"
+5065,
+5066,
+5076,
+5077,
+5078,
+5090,"['Bar', 'Irish', 'Pub']"
+5095,"['Moroccan', 'Fast Food', 'Turkish']"
+5097,['French']
+5103,
+5104,
+5106,"['Cafe', 'Chinese']"
+5107,"['Lebanese', 'Middle Eastern', 'Mediterranean']"
+5108,"['Vegetarian Friendly', 'Chinese']"
+5110,"['Spanish', 'Colombian', 'Latin']"
+5115,
+5117,
+5120,
+5127,
+5128,"['Pizza', 'Vegan Options']"
+5131,
+5135,
+5140,"['European', 'Soups', 'Cafe']"
+5142,['French']
+5151,['German']
+5154,"['Japanese', 'Sushi', 'Asian']"
+5155,
+5156,
+5160,"['Greek', 'Fast Food', 'Turkish']"
+5163,"['Italian', 'Pizza', 'Fast Food']"
+5165,
+5168,
+5173,['Chinese']
+5179,"['Cafe', 'Italian']"
+5181,
+5182,"['Spanish', 'Seafood']"
+5190,
+5191,
+5197,['Cafe']
+5204,['Pub']
+5210,"['Thai', 'Asian', 'Fast Food']"
+5211,
+5220,
+5224,
+5225,['French']
+5235,
+5237,"['Italian', 'Pizza']"
+5239,
+5257,['Fast Food']
+5267,"['American', 'Vegetarian Friendly']"
+5270,
+5275,"['American', 'Bar', 'Pub']"
+5280,['British']
+5282,
+5291,['Cafe']
+5294,
+5299,
+5304,['Cafe']
+5310,['Greek']
+5316,
+5319,
+5322,['Italian']
+5328,
+5329,"['European', 'Belgian']"
+5334,
+5342,
+5345,
+5347,
+5349,"['European', 'Vegetarian Friendly', 'Portuguese']"
+5351,"['American', 'Bar', 'Fast Food']"
+5357,['French']
+5364,
+5368,
+5372,['Pub']
+5376,"['European', 'Central European', 'International']"
+5378,
+5379,['Italian']
+5382,
+5385,
+5391,['Spanish']
+5398,
+5411,"['Moroccan', 'Vegan Options', 'Mediterranean']"
+5412,
+5414,
+5416,"['European', 'Spanish', 'Mediterranean']"
+5423,['Cafe']
+5424,
+5426,"['Japanese', 'Vegetarian Friendly', 'Sushi']"
+5430,['Healthy']
+5431,
+5434,
+5440,"['Italian', 'Seafood', 'Mediterranean']"
+5442,
+5448,['Spanish']
+5450,
+5453,
+5460,
+5462,['Vegetarian Friendly']
+5463,['Italian']
+5468,
+5472,['Bar']
+5477,
+5485,"['Italian', 'Vegetarian Friendly', 'Pizza']"
+5489,
+5492,
+5496,
+5501,"['French', 'European']"
+5502,"['Japanese', 'Sushi']"
+5504,
+5509,
+5510,
+5511,"['Cafe', 'Vegetarian Friendly']"
+5521,"['Vegetarian Friendly', 'Chinese']"
+5528,"['Bar', 'Pub']"
+5529,"['European', 'Portuguese']"
+5530,"['Vegetarian Friendly', 'Vietnamese', 'German']"
+5533,['Fast Food']
+5535,['Fast Food']
+5541,
+5542,
+5546,"['Greek', 'Healthy']"
+5547,
+5550,"['Spanish', 'Vegetarian Friendly']"
+5553,"['Japanese', 'Chinese', 'Sushi']"
+5555,
+5562,['Cafe']
+5569,"['Bar', 'Italian', 'Pub']"
+5575,
+5576,
+5581,
+5586,"['European', 'Central European', 'German']"
+5592,"['Italian', 'Pizza', 'Mediterranean']"
+5595,
+5598,
+5604,"['European', 'Austrian']"
+5608,
+5614,['African']
+5619,"['European', 'Central European', 'Vegetarian Friendly']"
+5623,['British']
+5628,['Contemporary']
+5629,"['European', 'Cafe']"
+5630,
+5635,"['European', 'Bar', 'Steakhouse', 'Barbecue']"
+5640,"['Kosher', 'European', 'German']"
+5646,"['Italian', 'Pizza', 'Mediterranean']"
+5657,
+5659,
+5661,
+5663,['Italian']
+5665,"['European', 'Swedish']"
+5667,
+5671,
+5673,['Pub']
+5675,"['Cafe', 'Vegetarian Friendly', 'German']"
+5691,
+5694,"['Italian', 'Mediterranean']"
+5697,['Spanish']
+5698,['Cafe']
+5702,
+5715,
+5723,"['Cafe', 'Vegetarian Friendly']"
+5724,"['European', 'Polish']"
+5733,
+5737,"['Japanese', 'Sushi', 'Asian']"
+5742,
+5751,
+5762,
+5770,
+5776,"['European', 'Portuguese']"
+5778,
+5780,"['Bar', 'Pub']"
+5782,
+5783,"['Bar', 'Pub']"
+5788,"['European', 'Portuguese']"
+5798,['Cafe']
+5799,"['European', 'Scandinavian']"
+5807,
+5812,"['French', 'European']"
+5816,['Fast Food']
+5817,
+5819,"['Spanish', 'Vegetarian Friendly', 'Mediterranean']"
+5822,"['European', 'Brazilian', 'Portuguese']"
+5831,
+5837,
+5839,"['Croatian', 'European']"
+5844,"['Italian', 'Pizza', 'Mediterranean']"
+5845,"['European', 'Portuguese']"
+5847,
+5850,
+5856,
+5863,
+5866,
+5873,['French']
+5875,
+5877,
+5880,
+5884,
+5885,
+5887,"['European', 'Central European', 'German']"
+5888,
+5891,
+5892,
+5896,
+5898,"['Italian', 'Vegetarian Friendly']"
+5902,
+5904,
+5907,
+5910,"['European', 'Swiss']"
+5915,
+5916,['Turkish']
+5921,['Fast Food']
+5928,"['European', 'Portuguese']"
+5929,"['French', 'Italian', 'Vegetarian Friendly']"
+5943,
+5947,
+5952,
+5954,
+5961,
+5962,
+5963,
+5967,['Canadian']
+5984,"['Spanish', 'Mediterranean']"
+5986,
+5987,['Turkish']
+5988,"['French', 'European', 'Bar']"
+5989,
+5993,
+5997,"['Spanish', 'Mediterranean']"
+5998,
+5999,
+6001,['Italian']
+6003,
+6004,
+6005,['French']
+6015,
+6020,
+6028,"['Steakhouse', 'International', 'Grill']"
+6029,
+6033,
+6037,
+6045,
+6050,
+6063,
+6072,"['European', 'Bar', 'Pub']"
+6076,"['Cafe', 'Vegetarian Friendly']"
+6087,
+6094,
+6099,
+6100,"['Croatian', 'European', 'Central European']"
+6102,['Vegetarian Friendly']
+6103,
+6107,['Italian']
+6114,['Spanish']
+6115,"['Bar', 'Pub']"
+6123,"['Spanish', 'Mediterranean']"
+6124,['Vegetarian Friendly']
+6141,"['French', 'Vegetarian Friendly']"
+6142,"['Spanish', 'Seafood', 'Mediterranean']"
+6146,"['Croatian', 'European', 'Vegetarian Friendly']"
+6150,['International']
+6156,"['Spanish', 'Vegetarian Friendly', 'Mediterranean']"
+6160,
+6168,['Vegetarian Friendly']
+6176,
+6177,"['European', 'Portuguese']"
+6180,
+6185,
+6186,
+6189,['Fast Food']
+6196,['American']
+6199,"['French', 'Brew Pub', 'Pub']"
+6202,
+6203,
+6209,"['Healthy', 'Gastropub', 'Bar']"
+6213,
+6214,"['American', 'Fast Food']"
+6217,
+6221,
+6222,"['European', 'Vegetarian Friendly', 'Portuguese']"
+6223,['International']
+6232,
+6233,
+6234,"['Bar', 'Pub']"
+6240,
+6244,"['American', 'Fast Food']"
+6245,
+6249,
+6250,
+6258,
+6262,
+6271,
+6272,
+6277,
+6281,"['Bar', 'Pub']"
+6297,"['European', 'Italian', 'Pizza']"
+6301,['Cafe']
+6304,"['French', 'Vegetarian Friendly']"
+6313,"['Italian', 'Seafood', 'Mediterranean']"
+6321,
+6323,['European']
+6327,['European']
+6328,['Cafe']
+6333,
+6334,
+6340,"['Bar', 'Pub']"
+6341,
+6351,
+6360,
+6362,"['European', 'Portuguese']"
+6371,['Italian']
+6377,['Spanish']
+6384,
+6387,['Cafe']
+6398,
+6401,
+6405,"['Spanish', 'Mediterranean']"
+6410,
+6416,"['European', 'Spanish']"
+6419,"['European', 'Bar', 'International']"
+6422,
+6425,"['American', 'Fast Food']"
+6435,
+6442,
+6444,"['European', 'Hungarian']"
+6446,['Italian']
+6453,"['Bar', 'Pub']"
+6455,"['European', 'Hungarian']"
+6457,"['European', 'Vegetarian Friendly', 'Scandinavian']"
+6458,
+6460,
+6463,['Italian']
+6469,
+6471,
+6473,
+6480,
+6484,
+6485,"['Spanish', 'Bar', 'Pub']"
+6486,"['European', 'Vegetarian Friendly', 'Portuguese']"
+6488,
+6491,
+6492,
+6494,"['French', 'European', 'Bar', 'Wine Bar']"
+6496,
+6499,['Fast Food']
+6501,['Italian']
+6507,"['Thai', 'Vegetarian Friendly', 'Vietnamese']"
+6508,
+6513,"['Spanish', 'Vegetarian Friendly', 'Mediterranean']"
+6514,"['European', 'Central European', 'Swiss']"
+6515,
+6523,['Cafe']
+6526,['Spanish']
+6527,['Cafe']
+6533,['French']
+6537,['French']
+6542,"['Italian', 'Pizza', 'Fast Food']"
+6550,
+6553,"['Bar', 'Cafe', 'Pub']"
+6554,"['Indonesian', 'Asian']"
+6558,"['Vegetarian Friendly', 'Fast Food', 'Turkish']"
+6560,"['American', 'Bar', 'International']"
+6561,['Cafe']
+6562,
+6568,['German']
+6569,"['Vegetarian Friendly', 'German']"
+6575,
+6576,"['European', 'Austrian', 'Vegetarian Friendly']"
+6577,
+6579,
+6583,
+6587,"['American', 'Peruvian', 'Latin']"
+6592,['European']
+6597,"['Bar', 'Pub', 'Wine Bar']"
+6600,
+6606,"['Greek', 'Seafood', 'Mediterranean']"
+6607,"['Cafe', 'Fast Food']"
+6612,['Italian']
+6616,
+6618,"['Italian', 'Pizza', 'Mediterranean']"
+6623,
+6626,
+6652,
+6658,
+6660,
+6664,"['Spanish', 'Mediterranean', 'Venezuelan']"
+6669,
+6671,
+6672,
+6673,['American']
+6679,
+6682,
+6683,"['Swiss', 'Pizza', 'Mediterranean']"
+6687,
+6690,['German']
+6696,"['Indian', 'Halal']"
+6697,
+6698,
+6699,
+6701,
+6708,"['Spanish', 'Mediterranean']"
+6715,
+6721,['Fast Food']
+6729,"['Japanese', 'Vegetarian Friendly', 'Asian']"
+6732,"['Japanese', 'Asian']"
+6733,['Spanish']
+6749,['French']
+6758,
+6759,"['French', 'Bar', 'Wine Bar']"
+6763,"['Vegetarian Friendly', 'German']"
+6766,
+6775,"['Italian', 'Vegetarian Friendly']"
+6778,
+6780,
+6782,"['American', 'Bar']"
+6783,['Vegetarian Friendly']
+6784,
+6794,
+6796,
+6806,['Cafe']
+6808,
+6810,
+6811,
+6812,"['Cafe', 'Vegetarian Friendly']"
+6815,
+6824,
+6832,['German']
+6833,
+6836,
+6841,
+6842,"['Croatian', 'European', 'Vegetarian Friendly']"
+6849,"['European', 'Bar', 'Pub']"
+6852,
+6854,"['Japanese', 'Chinese', 'Sushi']"
+6864,"['Cafe', 'Vegetarian Friendly']"
+6866,
+6874,"['Bar', 'Cafe', 'Pub']"
+6875,['Indian']
+6883,
+6890,['Italian']
+6892,['Spanish']
+6895,
+6897,
+6904,
+6907,['Italian']
+6910,
+6920,['French']
+6921,['American']
+6922,
+6923,
+6932,"['Italian', 'Pizza']"
+6941,
+6949,
+6956,
+6958,
+6960,
+6961,
+6964,
+6965,"['Cafe', 'Vegetarian Friendly']"
+6967,
+6974,
+6975,
+6977,
+6989,
+6990,
+6997,['Cafe']
+6999,"['Cafe', 'Fast Food']"
+7001,['Vegetarian Friendly']
+7007,"['Sushi', 'Vietnamese']"
+7017,"['American', 'Grill', 'Contemporary']"
+7020,"['European', 'Portuguese']"
+7022,
+7024,"['Spanish', 'Mediterranean']"
+7027,"['Bar', 'Italian', 'Pub']"
+7028,
+7029,
+7032,"['American', 'Fast Food', 'Middle Eastern']"
+7033,
+7036,['Spanish']
+7037,
+7041,['Cafe']
+7046,['Healthy']
+7049,['Fast Food']
+7055,
+7062,
+7071,['Healthy']
+7075,
+7087,"['French', 'European']"
+7089,['Italian']
+7098,
+7099,['Middle Eastern']
+7101,
+7107,"['European', 'Bar', 'Swedish']"
+7111,
+7112,"['Arabic', 'Mediterranean']"
+7114,
+7117,"['French', 'European', 'Vegetarian Friendly']"
+7120,
+7124,
+7130,['Vegetarian Friendly']
+7131,
+7141,
+7147,
+7152,"['European', 'Portuguese']"
+7156,
+7163,
+7164,
+7168,"['French', 'Italian']"
+7187,
+7188,"['European', 'Vegetarian Friendly']"
+7195,
+7198,
+7201,['French']
+7206,
+7212,['Fast Food']
+7213,
+7214,['Cafe']
+7215,
+7221,['Cafe']
+7223,"['Fast Food', 'Danish']"
+7233,
+7238,
+7242,
+7245,['Fast Food']
+7246,['Grill']
+7249,"['Lebanese', 'Fast Food', 'Mediterranean']"
+7261,"['European', 'Belgian']"
+7263,"['Cafe', 'Vegetarian Friendly']"
+7268,['Contemporary']
+7274,
+7275,
+7276,['Italian']
+7278,"['American', 'Fast Food']"
+7280,
+7282,
+7284,"['Lebanese', 'Mediterranean']"
+7285,
+7288,"['Vegetarian Friendly', 'German']"
+7296,['Cafe']
+7302,
+7303,"['Spanish', 'Vegetarian Friendly']"
+7305,
+7307,
+7312,"['Spanish', 'Mediterranean']"
+7313,['Spanish']
+7314,['French']
+7317,['Italian']
+7319,['Italian']
+7340,
+7341,
+7342,
+7346,
+7347,
+7353,"['European', 'Hungarian']"
+7359,"['European', 'Central European']"
+7368,['Cafe']
+7369,
+7372,
+7379,"['Bar', 'Pub']"
+7380,"['European', 'Swedish', 'Portuguese']"
+7382,"['European', 'Portuguese']"
+7389,
+7395,"['Vegetarian Friendly', 'Fast Food']"
+7408,['Spanish']
+7411,['Pizza']
+7415,
+7436,['French']
+7444,
+7446,"['Cafe', 'Italian']"
+7452,
+7459,
+7461,
+7470,
+7474,"['American', 'Fast Food']"
+7477,
+7487,['Cafe']
+7488,['Turkish']
+7489,['Healthy']
+7491,['Italian']
+7492,
+7499,"['European', 'Portuguese']"
+7502,
+7504,['Cafe']
+7514,['Fast Food']
+7517,
+7525,
+7526,
+7531,"['European', 'Portuguese']"
+7541,
+7544,"['British', 'Bar', 'Pub']"
+7547,
+7556,
+7558,"['Lebanese', 'Bar', 'Barbecue', 'Middle Eastern']"
+7563,"['Spanish', 'Mediterranean']"
+7564,
+7570,['French']
+7574,"['Italian', 'Seafood', 'Mediterranean']"
+7575,
+7576,['German']
+7578,"['Spanish', 'Mediterranean']"
+7581,
+7583,"['Cafe', 'Vegetarian Friendly']"
+7598,"['European', 'Cafe', 'Swedish']"
+7599,['Italian']
+7600,"['Vegetarian Friendly', 'Pizza', 'Vegan Options']"
+7602,
+7603,
+7604,
+7612,
+7613,"['Cafe', 'Chinese', 'Asian', 'Nepali']"
+7616,
+7619,"['Cafe', 'Australian']"
+7626,
+7629,['Argentinean']
+7640,"['European', 'Spanish']"
+7643,
+7645,"['European', 'Central European', 'German']"
+7646,
+7647,
+7649,"['Thai', 'Vegetarian Friendly', 'Asian']"
+7651,
+7656,"['French', 'European']"
+7662,['Fast Food']
+7667,"['European', 'Spanish', 'Mediterranean']"
+7673,
+7675,['Pizza']
+7677,['Spanish']
+7678,
+7679,
+7682,
+7685,
+7695,['American']
+7698,
+7709,"['Cafe', 'Vegetarian Friendly', 'Vegan Options']"
+7710,
+7713,"['Caribbean', 'Jamaican']"
+7716,
+7718,
+7720,['Vegetarian Friendly']
+7722,['Spanish']
+7726,
+7730,
+7737,
+7739,
+7745,"['European', 'Turkish', 'German']"
+7760,"['Italian', 'Pizza', 'Fast Food']"
+7767,
+7768,['Cafe']
+7769,
+7770,['Italian']
+7774,"['Cafe', 'Fast Food']"
+7778,
+7780,
+7781,"['Spanish', 'Mediterranean']"
+7787,['Mexican']
+7790,
+7802,"['Italian', 'Pizza', 'Fast Food']"
+7808,['European']
+7813,
+7816,"['French', 'Bar', 'Pub']"
+7818,['Italian']
+7821,"['French', 'European', 'Contemporary']"
+7822,
+7832,"['Spanish', 'Mediterranean']"
+7848,
+7853,
+7855,['French']
+7857,"['European', 'Hungarian']"
+7858,
+7861,"['European', 'Vegetarian Friendly']"
+7863,"['Vegetarian Friendly', 'German']"
+7868,
+7871,"['European', 'Seafood', 'Central European']"
+7878,
+7879,"['American', 'Central American', 'South American', 'Mexican']"
+7884,['Vegetarian Friendly']
+7890,"['Italian', 'Seafood', 'Pizza']"
+7894,
+7897,['Italian']
+7900,
+7901,"['Bar', 'Cafe', 'Pub']"
+7914,"['European', 'Swiss']"
+7915,"['European', 'Austrian']"
+7919,
+7921,
+7922,
+7923,"['Healthy', 'Cafe', 'International']"
+7928,"['Fast Food', 'German']"
+7930,"['European', 'Vegetarian Friendly']"
+7932,
+7935,
+7938,
+7940,"['Spanish', 'Vegetarian Friendly']"
+7942,"['European', 'Italian', 'Vegetarian Friendly']"
+7947,
+7952,
+7964,
+7967,
+7968,
+7984,
+7985,"['French', 'European', 'Bar', 'Wine Bar']"
+7987,
+7992,['Cafe']
+7995,['Japanese']
+7998,
+8001,['Cafe']
+8002,"['Fast Food', 'Turkish']"
+8009,
+8025,
+8039,"['Asian', 'Fast Food', 'Turkish', 'Central Asian']"
+8040,"['European', 'Portuguese']"
+8041,['Cafe']
+8047,
+8051,
+8052,
+8058,['German']
+8061,"['Bar', 'Pub']"
+8063,
+8070,['Spanish']
+8073,['Cafe']
+8075,
+8076,['Turkish']
+8078,['Italian']
+8082,"['European', 'Austrian', 'Central European']"
+8086,"['Chinese', 'Sushi']"
+8091,
+8093,
+8098,"['Italian', 'Pizza']"
+8104,['Cafe']
+8105,
+8106,"['Eastern European', 'European', 'Polish']"
+8115,"['Tunisian', 'Moroccan', 'Middle Eastern']"
+8116,['French']
+8121,"['Vegetarian Friendly', 'German']"
+8132,
+8138,
+8145,['Fast Food']
+8147,
+8154,
+8156,['Italian']
+8160,
+8163,"['Italian', 'Vegetarian Friendly', 'Chinese']"
+8169,"['European', 'Swiss']"
+8176,['Vegetarian Friendly']
+8178,
+8180,
+8188,['French']
+8190,
+8191,
+8203,
+8209,"['Italian', 'Pizza']"
+8212,
+8216,
+8217,
+8220,
+8227,
+8228,
+8229,['Italian']
+8232,"['Bar', 'Italian', 'Steakhouse', 'Barbecue']"
+8234,['Italian']
+8236,
+8240,['French']
+8243,
+8244,
+8245,"['European', 'Portuguese']"
+8246,
+8250,
+8254,
+8257,
+8261,"['American', 'Argentinean', 'Colombian', 'South American']"
+8265,
+8266,"['American', 'Fast Food']"
+8268,
+8272,"['Spanish', 'Bar', 'Mediterranean']"
+8275,
+8281,"['Fast Food', 'Mexican']"
+8288,"['Bar', 'Pub']"
+8289,['Spanish']
+8292,"['Italian', 'Pizza']"
+8293,"['Spanish', 'Diner', 'Mediterranean']"
+8300,
+8303,"['Spanish', 'Seafood', 'Mediterranean']"
+8304,
+8306,"['Spanish', 'Vegetarian Friendly', 'Mediterranean']"
+8318,"['Italian', 'Pizza']"
+8326,"['Vegetarian Friendly', 'German']"
+8333,"['Japanese', 'Chinese', 'Asian']"
+8341,['Cafe']
+8346,
+8349,"['Bar', 'Pub']"
+8352,
+8357,
+8359,"['French', 'Italian']"
+8360,
+8361,
+8371,
+8372,"['Spanish', 'Cafe']"
+8381,
+8382,
+8392,['French']
+8395,['Cafe']
+8396,
+8401,"['American', 'Vegetarian Friendly']"
+8402,
+8407,
+8412,['Vegetarian Friendly']
+8415,['Middle Eastern']
+8427,"['Indian', 'Middle Eastern', 'Pakistani']"
+8431,
+8437,['Vegetarian Friendly']
+8438,
+8452,['American']
+8454,"['Chinese', 'Asian']"
+8455,"['Greek', 'Vegetarian Friendly', 'Mediterranean']"
+8457,"['Healthy', 'Cafe']"
+8459,"['Bar', 'Pub']"
+8460,
+8461,['Fast Food']
+8471,
+8473,
+8474,['Cafe']
+8477,"['French', 'European']"
+8482,
+8483,
+8486,"['American', 'Fast Food']"
+8489,['Spanish']
+8499,"['Italian', 'Pizza']"
+8501,['European']
+8502,"['Eastern European', 'European', 'International']"
+8508,
+8510,['Cafe']
+8511,
+8522,"['Cafe', 'Vegetarian Friendly', 'Grill']"
+8525,
+8526,['Fast Food']
+8530,
+8532,"['Vegetarian Friendly', 'Vietnamese']"
+8533,"['Pizza', 'Fast Food']"
+8534,
+8535,"['Bar', 'Cafe', 'Japanese']"
+8538,
+8542,"['Spanish', 'Fast Food']"
+8546,"['Pizza', 'Turkish']"
+8553,
+8566,"['Italian', 'Mediterranean']"
+8572,
+8573,"['European', 'International', 'Portuguese']"
+8575,
+8576,['British']
+8580,
+8596,
+8601,
+8603,"['French', 'Italian']"
+8604,
+8605,
+8606,
+8610,
+8611,"['Greek', 'Vegetarian Friendly']"
+8612,['Vegetarian Friendly']
+8614,
+8631,
+8649,"['Spanish', 'Asian', 'Korean']"
+8650,"['Bar', 'Pub']"
+8653,['Spanish']
+8654,
+8658,
+8660,
+8663,"['American', 'Vegetarian Friendly', 'Fast Food']"
+8669,
+8677,
+8680,
+8687,['Cafe']
+8688,['Fast Food']
+8692,['Cafe']
+8706,['Fast Food']
+8709,"['European', 'Portuguese']"
+8713,
+8714,"['Italian', 'Pizza']"
+8715,"['Indonesian', 'Asian']"
+8723,"['European', 'Portuguese']"
+8728,
+8738,"['Healthy', 'Moroccan', 'Mediterranean']"
+8740,['European']
+8752,
+8759,"['Japanese', 'Sushi', 'Asian']"
+8764,"['Moroccan', 'Mediterranean']"
+8766,
+8769,['German']
+8775,
+8776,['Cafe']
+8777,
+8780,
+8785,
+8798,"['Vegetarian Friendly', 'Fast Food']"
+8800,
+8814,"['Spanish', 'Vegetarian Friendly', 'Vegan Options']"
+8816,['Sushi']
+8818,
+8830,
+8831,"['Cafe', 'German']"
+8832,['Italian']
+8835,['Gluten Free Options']
+8837,
+8839,"['French', 'Seafood']"
+8845,['Pizza']
+8849,['French']
+8858,
+8859,
+8863,['French']
+8864,
+8865,
+8868,
+8869,"['European', 'Vegetarian Friendly', 'Dutch']"
+8874,
+8879,
+8880,"['Spanish', 'Mediterranean']"
+8884,['Turkish']
+8885,"['Bar', 'Pub']"
+8892,
+8895,['European']
+8903,"['Turkish', 'Mediterranean', 'German']"
+8905,"['Spanish', 'Bar', 'Pub']"
+8917,"['Grill', 'German']"
+8920,
+8924,
+8926,"['French', 'Vegetarian Friendly', 'Vegan Options']"
+8927,
+8931,
+8932,"['British', 'American']"
+8937,
+8958,['French']
+8967,
+8968,
+8969,['Italian']
+8970,"['European', 'Portuguese']"
+8971,
+8972,"['Spanish', 'Mediterranean']"
+8980,
+8983,['Italian']
+8986,['Indian']
+8991,
+8998,"['European', 'Austrian', 'Central European']"
+9023,"['Healthy', 'Cafe', 'Mediterranean']"
+9028,"['European', 'Steakhouse', 'Portuguese']"
+9029,
+9031,
+9040,
+9045,['Spanish']
+9055,['European']
+9058,"['European', 'Austrian', 'Central European', 'German']"
+9064,
+9066,"['Asian', 'Vietnamese']"
+9075,"['American', 'European', 'Fast Food']"
+9081,
+9082,
+9086,['American']
+9089,
+9095,
+9096,
+9098,['Vegetarian Friendly']
+9102,
+9104,"['Italian', 'Pizza']"
+9106,
+9107,
+9111,
+9115,
+9116,
+9117,"['Vegetarian Friendly', 'Middle Eastern', 'Persian']"
+9125,
+9130,"['French', 'Cafe', 'Vegetarian Friendly']"
+9135,
+9139,"['Italian', 'Pizza', 'Mediterranean']"
+9149,"['European', 'Dutch']"
+9158,
+9164,"['European', 'Austrian', 'Cafe']"
+9168,
+9174,
+9180,
+9182,
+9183,"['Italian', 'Pizza', 'Mediterranean']"
+9185,
+9187,['Pub']
+9188,"['European', 'Central European']"
+9191,
+9193,['Italian']
+9196,
+9209,
+9214,
+9216,
+9223,
+9224,['Fast Food']
+9225,"['Spanish', 'Cafe', 'Fast Food']"
+9232,"['French', 'European']"
+9233,['Italian']
+9241,['Irish']
+9242,
+9243,
+9245,['Mediterranean']
+9246,"['Japanese', 'Chinese', 'Asian']"
+9259,
+9260,"['Spanish', 'Mediterranean']"
+9263,
+9273,
+9275,
+9276,
+9281,
+9296,
+9303,"['Bar', 'Pub', 'German']"
+9313,"['Spanish', 'Bar', 'Pub']"
+9327,"['European', 'Gluten Free Options', 'Vegetarian Friendly']"
+9331,"['European', 'Central European', 'German']"
+9336,
+9339,
+9342,
+9350,['Chinese']
+9351,
+9356,
+9359,['Cafe']
+9360,
+9364,
+9366,
+9367,['Cafe']
+9368,
+9369,"['European', 'Austrian', 'Central European']"
+9370,
+9374,"['French', 'European', 'Bar']"
+9376,
+9378,"['European', 'Austrian', 'Vegetarian Friendly']"
+9385,
+9386,"['European', 'Central European', 'Vegetarian Friendly']"
+9392,['Japanese']
+9395,
+9399,"['Cafe', 'Vegetarian Friendly', 'Russian']"
+9401,
+9407,"['French', 'European', 'Belgian']"
+9408,
+9416,
+9418,
+9419,
+9428,['Asian']
+9429,"['Italian', 'Vegetarian Friendly']"
+9441,
+9449,['Vegetarian Friendly']
+9454,
+9471,['Cafe']
+9472,
+9473,"['French', 'European', 'Vegetarian Friendly']"
+9474,"['Bar', 'Pub', 'Mediterranean']"
+9477,
+9484,
+9490,
+9492,"['Bar', 'Pub']"
+9498,"['European', 'Pizza', 'Grill']"
+9503,"['Cafe', 'Vegetarian Friendly', 'Vegan Options']"
+9510,
+9512,
+9523,
+9527,
+9530,
+9536,['American']
+9543,"['Healthy', 'Asian']"
+9545,"['European', 'Spanish', 'Bar', 'Wine Bar']"
+9548,
+9562,"['American', 'Bar', 'Fast Food']"
+9563,['Italian']
+9570,
+9571,
+9572,"['Italian', 'Seafood', 'Pizza']"
+9580,
+9586,['Spanish']
+9590,['Italian']
+9591,
+9596,
+9600,"['Italian', 'Vegetarian Friendly']"
+9601,
+9603,
+9609,"['European', 'Cafe', 'German']"
+9611,"['European', 'Portuguese']"
+9612,"['European', 'Polish', 'International']"
+9614,['Cafe']
+9620,
+9634,['European']
+9641,
+9642,
+9650,"['European', 'Bar', 'Cafe']"
+9652,
+9656,"['Cafe', 'Vegetarian Friendly']"
+9660,['Pizza']
+9664,
+9666,
+9667,
+9675,
+9676,
+9678,['Fast Food']
+9679,"['Bar', 'Pub']"
+9684,
+9685,
+9692,
+9696,"['European', 'Portuguese']"
+9704,
+9708,
+9717,
+9720,"['French', 'Vegetarian Friendly']"
+9721,
+9725,['Cafe']
+9727,
+9734,
+9738,"['European', 'Swedish']"
+9742,['Fast Food']
+9744,
+9745,['Vegetarian Friendly']
+9750,
+9752,"['Bar', 'Pub']"
+9757,['Pizza']
+9758,"['European', 'Vegetarian Friendly']"
+9759,['Cafe']
+9763,
+9769,
+9779,['Italian']
+9795,
+9798,
+9801,['Cafe']
+9802,
+9809,['Spanish']
+9811,['Indian']
+9812,
+9817,
+9821,"['American', 'Central American', 'South American', 'Mexican']"
+9825,['French']
+9841,"['Soups', 'Cafe', 'Fast Food', 'International']"
+9845,"['Seafood', 'Chinese', 'Asian']"
+9851,"['European', 'Portuguese']"
+9855,"['European', 'Czech']"
+9856,
+9861,['Fast Food']
+9866,
+9867,['Turkish']
+9871,
+9872,
+9875,
+9876,['Russian']
+9880,
+9882,
+9885,"['Vegetarian Friendly', 'Vegan Options', 'Korean']"
+9895,"['Spanish', 'Mediterranean']"
+9900,
+9909,"['Middle Eastern', 'Persian']"
+9912,
+9913,['Bar']
+9915,
+9926,
+9939,
+9943,"['European', 'Bar', 'Pub']"
+9944,
+9947,
+9948,"['Italian', 'Pub']"
+9949,['French']
+9959,
+9965,"['American', 'Peruvian', 'South American']"
+9967,
+9969,
+9972,
+9973,
+9974,
+9980,"['Bar', 'Italian', 'Vegetarian Friendly', 'Wine Bar']"
+9985,"['American', 'Fast Food']"
+9989,"['Cafe', 'Italian']"
+9993,['Italian']
+9994,
+9996,
+9998,
+10005,['French']
+10015,
+10024,"['Japanese', 'Sushi', 'Asian']"
+10026,
+10032,
+10034,['Italian']
+10038,
+10041,
+10042,
+10043,['Spanish']
+10045,
+10046,['Cafe']
+10054,['Cafe']
+10055,
+10057,
+10059,
+10061,
+10065,"['Japanese', 'Sushi', 'Asian']"
+10072,"['Vegetarian Friendly', 'Pizza', 'Fast Food']"
+10074,['Pizza']
+10076,"['Spanish', 'Mediterranean']"
+10081,
+10082,"['Gastropub', 'Pub', 'Belgian']"
+10092,['Fast Food']
+10095,
+10097,['Spanish']
+10101,
+10107,
+10114,
+10116,
+10118,['Japanese']
+10124,
+10125,
+10126,
+10127,"['Fast Food', 'Turkish', 'Middle Eastern']"
+10134,"['French', 'Cafe', 'Vegetarian Friendly']"
+10136,"['Spanish', 'Mediterranean']"
+10148,"['French', 'European', 'Grill']"
+10149,
+10151,"['European', 'Vegetarian Friendly', 'German']"
+10155,['Spanish']
+10156,
+10158,"['American', 'Bar', 'Latin']"
+10159,['British']
+10167,
+10176,
+10181,['French']
+10185,['Mediterranean']
+10187,"['Italian', 'Pizza']"
+10191,['Vegetarian Friendly']
+10198,"['Bar', 'Pub']"
+10203,
+10209,['Cafe']
+10210,
+10211,"['Cafe', 'Italian', 'Pub', 'German']"
+10213,"['Chinese', 'Asian']"
+10216,"['British', 'Cafe']"
+10218,
+10227,"['Vegetarian Friendly', 'Steakhouse', 'Pizza']"
+10232,['Cafe']
+10233,
+10239,
+10240,
+10241,
+10242,
+10249,
+10251,
+10255,
+10259,
+10264,"['Asian', 'Fusion', 'Vietnamese']"
+10269,
+10274,['Spanish']
+10278,['Cafe']
+10284,"['Italian', 'Pizza', 'Mediterranean']"
+10290,"['European', 'Central European', 'Czech']"
+10295,"['Greek', 'European', 'Vegetarian Friendly']"
+10296,
+10297,
+10301,['Italian']
+10302,"['Cafe', 'Vegetarian Friendly']"
+10304,['Italian']
+10317,
+10327,
+10329,
+10330,
+10348,['Sushi']
+10351,"['Seafood', 'Peruvian', 'Latin']"
+10354,
+10357,
+10366,"['Italian', 'Pizza']"
+10367,"['European', 'Cafe']"
+10368,
+10371,['Italian']
+10374,
+10383,"['Chinese', 'Asian', 'International', 'Korean']"
+10384,
+10390,
+10391,
+10401,['Spanish']
+10403,
+10404,
+10406,['Italian']
+10408,"['French', 'Seafood']"
+10409,"['Vegetarian Friendly', 'Mediterranean']"
+10410,
+10411,
+10421,['Chinese']
+10422,
+10425,
+10426,"['Spanish', 'Bar', 'Pub']"
+10427,
+10428,
+10429,
+10430,
+10432,['Vegetarian Friendly']
+10443,"['European', 'Spanish', 'Mediterranean']"
+10449,
+10455,"['Italian', 'Vegetarian Friendly', 'Pizza']"
+10460,
+10465,"['Bar', 'Pub']"
+10471,
+10488,
+10489,
+10499,
+10501,
+10503,"['European', 'Seafood', 'Swedish']"
+10504,
+10505,"['French', 'Cafe']"
+10506,['Fast Food']
+10510,['Cafe']
+10514,['Steakhouse']
+10519,"['European', 'Austrian', 'German']"
+10520,
+10526,"['Bar', 'Wine Bar']"
+10528,['Cafe']
+10532,['Italian']
+10535,
+10541,
+10542,"['Brew Pub', 'Pub', 'German']"
+10545,
+10549,['Italian']
+10550,"['American', 'Fast Food']"
+10558,
+10559,['Fast Food']
+10561,
+10573,"['Vegetarian Friendly', 'Fast Food']"
+10574,"['Thai', 'Chinese', 'Sushi', 'Vietnamese']"
+10577,"['European', 'Hungarian', 'Bar', 'Pub']"
+10583,
+10585,
+10586,
+10590,
+10594,['Cafe']
+10601,
+10603,
+10613,
+10625,
+10633,"['European', 'Spanish']"
+10641,"['Vegetarian Friendly', 'Vegan Options', 'Middle Eastern']"
+10645,
+10647,"['Italian', 'Vegetarian Friendly']"
+10655,['French']
+10665,
+10666,"['French', 'Seafood']"
+10670,"['European', 'Portuguese']"
+10671,
+10680,
+10681,['Fast Food']
+10688,
+10691,
+10695,
+10710,['Spanish']
+10711,"['European', 'Belgian']"
+10712,
+10718,['Vegetarian Friendly']
+10720,"['European', 'Swiss']"
+10722,"['Italian', 'Vegetarian Friendly']"
+10726,
+10729,
+10731,
+10733,
+10737,"['Italian', 'Vegetarian Friendly', 'Vegan Options']"
+10745,
+10747,
+10754,
+10756,"['European', 'Cafe', 'Portuguese']"
+10757,
+10761,
+10764,
+10766,"['European', 'Portuguese']"
+10774,
+10781,"['Cafe', 'Turkish']"
+10785,"['European', 'Central European', 'German']"
+10791,"['French', 'Vegetarian Friendly']"
+10792,"['Thai', 'Bar', 'Asian']"
+10793,"['French', 'European']"
+10803,
+10810,['Cafe']
+10811,
+10817,
+10819,"['American', 'Venezuelan', 'South American']"
+10824,"['French', 'Vegetarian Friendly']"
+10828,"['Fast Food', 'Danish']"
+10830,"['Soups', 'Spanish', 'Mediterranean']"
+10832,"['European', 'Hungarian', 'Vegetarian Friendly']"
+10834,"['Moroccan', 'Vegetarian Friendly', 'Mediterranean']"
+10835,['Fast Food']
+10845,"['European', 'Cafe', 'Central European']"
+10849,['Cafe']
+10855,
+10864,"['Thai', 'Vegetarian Friendly', 'Asian']"
+10869,"['French', 'Cafe', 'Pizza']"
+10874,
+10876,"['European', 'Portuguese']"
+10886,['French']
+10902,
+10904,"['European', 'Portuguese']"
+10905,
+10907,"['Bar', 'Dutch', 'Pub']"
+10915,"['Japanese', 'Vegetarian Friendly', 'Sushi']"
+10921,
+10923,"['American', 'Brazilian', 'South American']"
+10928,"['Spanish', 'Mediterranean']"
+10929,"['Fast Food', 'Turkish', 'Middle Eastern']"
+10930,"['Seafood', 'Fast Food']"
+10936,"['European', 'Austrian']"
+10946,
+10951,['Italian']
+10977,"['Chinese', 'Fast Food']"
+10992,['Spanish']
+11000,['Cafe']
+11003,
+11004,
+11008,"['Healthy', 'German']"
+11009,['Cafe']
+11011,
+11020,['French']
+11022,"['Croatian', 'European', 'German']"
+11028,
+11032,['American']
+11036,
+11039,"['Spanish', 'Mediterranean']"
+11041,"['Street Food', 'Thai', 'Asian']"
+11042,['Chinese']
+11044,"['Cafe', 'Dutch']"
+11054,
+11057,"['European', 'Central European', 'German']"
+11066,"['European', 'Contemporary', 'German']"
+11075,"['Bar', 'Vegetarian Friendly', 'Pub']"
+11079,
+11083,
+11087,"['European', 'Swedish']"
+11089,"['Bar', 'Cafe', 'Pub']"
+11096,['German']
+11100,"['Pub', 'German']"
+11101,['Fast Food']
+11109,"['Healthy', 'Spanish', 'Mediterranean']"
+11118,['Fast Food']
+11126,
+11128,
+11129,
+11134,['Greek']
+11136,
+11138,['German']
+11143,
+11144,
+11146,['Cafe']
+11151,"['Cafe', 'Italian', 'Vegetarian Friendly']"
+11154,
+11158,
+11160,
+11162,"['Lebanese', 'Middle Eastern', 'Mediterranean']"
+11163,
+11174,"['Vegetarian Friendly', 'Asian']"
+11176,"['Italian', 'Vegetarian Friendly']"
+11177,"['Cafe', 'Vegetarian Friendly', 'Fast Food']"
+11183,
+11184,"['European', 'Swiss']"
+11188,
+11196,"['Eastern European', 'European', 'Hungarian']"
+11199,['Pub']
+11203,
+11207,['Spanish']
+11217,
+11230,
+11236,
+11237,
+11238,['African']
+11245,['Pub']
+11248,"['Healthy', 'Soups', 'Cafe']"
+11250,
+11254,"['Vegetarian Friendly', 'Fast Food']"
+11255,"['Italian', 'Vegetarian Friendly']"
+11263,
+11274,['Fast Food']
+11278,"['Italian', 'Vegetarian Friendly']"
+11280,
+11285,"['Spanish', 'Mediterranean']"
+11287,
+11290,"['Italian', 'Vegetarian Friendly', 'Pizza']"
+11297,
+11298,
+11299,['Cafe']
+11305,
+11308,
+11310,"['European', 'Cafe']"
+11315,
+11316,
+11318,
+11320,['Italian']
+11321,
+11330,
+11333,"['Japanese', 'Chinese', 'Asian']"
+11336,
+11338,
+11344,"['Vegetarian Friendly', 'Fast Food']"
+11348,"['Arabic', 'Middle Eastern', 'Mediterranean']"
+11355,"['Italian', 'Mediterranean']"
+11367,['Healthy']
+11383,
+11384,"['Fast Food', 'German']"
+11397,['French']
+11398,
+11400,"['Thai', 'Asian', 'Vietnamese']"
+11401,
+11406,
+11410,
+11411,
+11413,['Fast Food']
+11415,
+11417,
+11424,
+11432,
+11433,['Cafe']
+11435,
+11442,
+11446,
+11448,
+11449,
+11451,['Italian']
+11454,['Asian']
+11457,
+11465,
+11468,
+11471,
+11473,
+11478,
+11479,['Spanish']
+11482,"['Cafe', 'German']"
+11484,['Greek']
+11486,"['European', 'Cafe', 'Swedish']"
+11489,['British']
+11496,
+11500,['French']
+11502,"['Greek', 'Bar', 'Pub', 'Mediterranean']"
+11507,
+11515,"['European', 'Italian']"
+11516,
+11519,['Spanish']
+11527,
+11541,
+11542,
+11545,['Spanish']
+11548,
+11554,
+11555,['Pizza']
+11557,['French']
+11559,
+11564,
+11572,
+11573,['Cafe']
+11580,"['Bar', 'Pub']"
+11581,"['Turkish', 'Middle Eastern']"
+11596,"['Italian', 'Vegetarian Friendly']"
+11601,['Spanish']
+11602,"['European', 'Austrian']"
+11609,
+11610,"['Vegetarian Friendly', 'German']"
+11612,
+11629,"['European', 'Cafe', 'German']"
+11634,
+11637,
+11638,"['Greek', 'Mediterranean']"
+11639,"['European', 'Austrian', 'Central European', 'German']"
+11641,
+11643,
+11644,
+11653,
+11655,"['Bar', 'Argentinean', 'Steakhouse', 'Barbecue']"
+11662,"['European', 'Bar', 'Barbecue', 'Portuguese']"
+11665,
+11666,
+11668,['Italian']
+11669,
+11672,
+11673,
+11674,
+11675,
+11680,['Pizza']
+11685,
+11686,
+11687,
+11688,"['Italian', 'Vegetarian Friendly', 'Pizza']"
+11691,['American']
+11696,
+11702,
+11703,
+11706,
+11715,['Spanish']
+11717,
+11718,['French']
+11719,['Spanish']
+11724,['Pub']
+11727,
+11730,
+11737,
+11739,"['European', 'Austrian', 'Vegetarian Friendly']"
+11744,
+11747,
+11748,
+11752,['Spanish']
+11754,
+11760,"['French', 'Fast Food']"
+11762,['Cafe']
+11776,
+11778,['Asian']
+11782,
+11787,['Spanish']
+11791,
+11815,['American']
+11817,['Cafe']
+11819,
+11821,
+11824,
+11825,['Vegetarian Friendly']
+11827,['Mediterranean']
+11835,
+11838,
+11848,"['Sushi', 'Asian']"
+11849,"['Cafe', 'Italian', 'Vegetarian Friendly']"
+11854,"['Italian', 'Vegetarian Friendly', 'Mediterranean']"
+11861,
+11863,"['Vegetarian Friendly', 'Vegan Options']"
+11864,['Cafe']
+11866,
+11867,['French']
+11868,
+11869,
+11870,
+11871,
+11875,
+11877,
+11882,
+11899,
+11901,
+11904,
+11908,
+11910,
+11916,['German']
+11922,
+11927,
+11932,"['Spanish', 'Latin']"
+11936,"['American', 'Bar', 'Irish']"
+11939,
+11942,
+11943,
+11944,
+11953,
+11958,
+11960,
+11964,
+11966,['Italian']
+11969,"['British', 'Bar', 'Pub']"
+11972,
+11975,
+11978,"['French', 'European', 'Vegetarian Friendly']"
+11984,
+11985,
+11988,"['European', 'Central European']"
+11992,['Fast Food']
+12000,['French']
+12005,['Cafe']
+12009,['American']
+12019,['European']
+12020,['Cafe']
+12032,"['Indian', 'Asian', 'Balti']"
+12039,['Fast Food']
+12041,['Turkish']
+12044,"['Bar', 'Cafe', 'Pub']"
+12050,
+12055,"['Bar', 'Italian', 'Pub']"
+12071,
+12077,"['European', 'Swiss']"
+12080,"['Japanese', 'Chinese', 'Asian']"
+12081,
+12082,
+12085,
+12089,['French']
+12099,"['Italian', 'Vegetarian Friendly', 'Fast Food']"
+12105,
+12108,"['French', 'European', 'Bar', 'Wine Bar']"
+12110,"['European', 'Austrian', 'Bar', 'Pub']"
+12113,"['Spanish', 'Bar', 'Pub']"
+12115,"['European', 'Bar', 'Pub']"
+12119,"['European', 'German']"
+12123,"['Japanese', 'Sushi', 'Asian']"
+12127,
+12132,
+12150,
+12154,
+12161,
+12170,
+12171,
+12172,"['Bar', 'Pub']"
+12175,"['European', 'Cafe', 'Central European']"
+12176,
+12188,['French']
+12194,
+12201,
+12206,
+12221,
+12223,
+12225,"['Italian', 'Vegetarian Friendly']"
+12227,"['Vegetarian Friendly', 'Vegan Options', 'Turkish']"
+12231,
+12237,
+12238,['Fast Food']
+12241,
+12245,"['Thai', 'Asian']"
+12252,"['European', 'Belgian']"
+12255,['Cafe']
+12257,"['Vegetarian Friendly', 'Vegan Options', 'International']"
+12260,
+12269,['French']
+12275,
+12286,
+12293,['Cafe']
+12299,"['European', 'Central European', 'German']"
+12301,"['Vegetarian Friendly', 'Vegan Options']"
+12303,['Italian']
+12312,['French']
+12313,
+12316,"['European', 'Hungarian', 'Vegetarian Friendly']"
+12317,
+12323,"['Cafe', 'Vegetarian Friendly', 'German']"
+12324,"['Chinese', 'Asian', 'Fast Food']"
+12332,
+12335,['Spanish']
+12340,
+12345,
+12350,
+12352,
+12356,['Fast Food']
+12365,"['Cafe', 'Vegetarian Friendly', 'Vegan Options']"
+12366,
+12368,"['Bar', 'Italian', 'Pub']"
+12372,
+12373,
+12377,"['French', 'Bar', 'Wine Bar']"
+12384,['Fast Food']
+12388,
+12391,
+12400,
+12405,
+12406,['French']
+12409,['Italian']
+12424,
+12425,"['European', 'Bar', 'Pub']"
+12428,"['Greek', 'Vegetarian Friendly', 'Mediterranean']"
+12434,
+12436,
+12452,
+12460,
+12463,['French']
+12464,"['European', 'Spanish']"
+12467,
+12472,
+12474,"['Vegetarian Friendly', 'Vegan Options', 'Mediterranean']"
+12475,"['Japanese', 'Chinese', 'Asian']"
+12476,['Spanish']
+12479,
+12480,"['Bar', 'Cafe', 'Pub']"
+12484,
+12490,['Pizza']
+12492,
+12493,
+12494,
+12496,['Turkish']
+12500,
+12501,['Cafe']
+12510,
+12515,
+12517,"['Vegetarian Friendly', 'Fast Food']"
+12519,
+12521,['Cafe']
+12525,"['Bar', 'Cafe', 'Pub']"
+12527,"['Vegetarian Friendly', 'Chinese', 'Asian']"
+12529,
+12532,"['Spanish', 'Mediterranean']"
+12536,
+12542,
+12547,"['European', 'Portuguese']"
+12550,"['Japanese', 'Chinese', 'Asian', 'Vietnamese']"
+12554,"['European', 'Bar', 'Vegetarian Friendly']"
+12559,"['European', 'Swiss']"
+12561,
+12566,['Vegetarian Friendly']
+12572,
+12573,
+12576,
+12577,"['Soups', 'Spanish', 'German']"
+12581,
+12596,"['Italian', 'Pizza']"
+12602,['French']
+12606,
+12617,
+12619,
+12620,
+12627,"['Cafe', 'Vegetarian Friendly', 'Fast Food']"
+12628,"['American', 'Venezuelan', 'South American']"
+12630,
+12632,"['Italian', 'Pizza', 'Fast Food']"
+12636,"['Spanish', 'Mediterranean']"
+12649,['Cafe']
+12653,
+12655,"['Spanish', 'Seafood', 'Mediterranean']"
+12656,"['Ethiopian', 'African', 'Vegetarian Friendly']"
+12663,['Fast Food']
+12666,"['European', 'Austrian', 'Turkish']"
+12668,
+12674,"['European', 'Cafe']"
+12680,
+12683,"['Japanese', 'Sushi', 'Asian']"
+12690,
+12693,['Mexican']
+12700,['Spanish']
+12702,
+12706,"['Italian', 'Vegetarian Friendly']"
+12710,
+12713,
+12717,['Cafe']
+12720,['Italian']
+12723,['Chinese']
+12728,
+12729,
+12732,
+12740,
+12742,
+12743,"['Vegetarian Friendly', 'Turkish', 'Middle Eastern']"
+12750,"['Italian', 'Seafood', 'Pizza']"
+12754,
+12759,
+12762,"['Vegetarian Friendly', 'Steakhouse']"
+12765,['Cafe']
+12776,
+12777,['Cafe']
+12778,"['Italian', 'Pizza']"
+12790,['American']
+12796,
+12800,
+12807,
+12815,"['European', 'Polish']"
+12816,"['Japanese', 'Asian', 'Fast Food']"
+12835,
+12854,
+12859,
+12866,['Cafe']
+12871,
+12874,
+12876,['Healthy']
+12879,
+12880,
+12886,['Italian']
+12887,
+12890,
+12892,['Pub']
+12893,
+12897,
+12901,"['French', 'European', 'Bar']"
+12902,
+12906,['Steakhouse']
+12907,
+12909,"['Bar', 'Cafe', 'Pub']"
+12911,
+12915,"['Italian', 'Mediterranean']"
+12918,['French']
+12920,['Vietnamese']
+12921,['Italian']
+12922,['Cafe']
+12928,
+12931,['French']
+12935,
+12937,
+12938,['Cafe']
+12940,
+12945,
+12948,
+12959,"['Cafe', 'Vegetarian Friendly', 'German']"
+12960,
+12969,"['European', 'Italian', 'Steakhouse']"
+12974,
+12983,"['Vegetarian Friendly', 'German']"
+12988,
+12992,
+13000,
+13006,
+13012,
+13014,['Cafe']
+13016,
+13021,"['Bar', 'Pub']"
+13025,
+13028,
+13030,
+13032,['Chinese']
+13034,
+13035,"['Indian', 'Vegetarian Friendly']"
+13036,
+13041,['Japanese']
+13054,
+13068,['Cafe']
+13073,
+13086,
+13087,"['French', 'European']"
+13088,
+13089,
+13094,
+13103,['Mediterranean']
+13104,
+13105,"['European', 'Cafe', 'Swedish']"
+13108,['Cafe']
+13112,"['European', 'Italian', 'Vegetarian Friendly']"
+13113,['Turkish']
+13116,
+13123,"['European', 'Austrian', 'Vegetarian Friendly']"
+13129,['Sushi']
+13133,"['Turkish', 'Middle Eastern', 'Mediterranean']"
+13135,
+13140,
+13142,
+13143,"['Greek', 'Cafe']"
+13144,
+13150,"['Eastern European', 'European', 'Vegetarian Friendly']"
+13151,"['American', 'Argentinean', 'South American']"
+13153,
+13156,['Vietnamese']
+13165,['Fast Food']
+13167,['Cafe']
+13172,"['Spanish', 'Fast Food', 'Latin']"
+13175,
+13178,"['European', 'Portuguese', 'Mediterranean']"
+13180,['Fast Food']
+13186,
+13191,
+13193,
+13195,['French']
+13198,
+13205,
+13210,
+13215,"['European', 'Swiss']"
+13224,
+13226,
+13227,"['French', 'Cafe']"
+13230,
+13248,
+13258,"['Cafe', 'Italian']"
+13263,"['Healthy', 'Diner']"
+13268,"['Cafe', 'Contemporary', 'German']"
+13270,
+13271,
+13272,
+13274,['Vegetarian Friendly']
+13286,
+13288,
+13291,['Fast Food']
+13296,"['Cafe', 'Fast Food']"
+13305,"['Spanish', 'Mediterranean']"
+13310,
+13311,"['Cafe', 'Italian', 'Pizza']"
+13312,['German']
+13316,['Vegetarian Friendly']
+13318,['Spanish']
+13323,"['Greek', 'Vegetarian Friendly']"
+13329,
+13333,"['Cafe', 'Vegetarian Friendly', 'German']"
+13335,
+13337,['Italian']
+13341,['Spanish']
+13343,"['Italian', 'Vegetarian Friendly']"
+13349,"['Italian', 'Mediterranean']"
+13351,
+13357,
+13368,"['American', 'Cafe', 'Fast Food']"
+13371,
+13377,
+13381,['Pizza']
+13386,['Spanish']
+13387,
+13389,['Fast Food']
+13390,
+13391,
+13395,
+13396,"['Vegetarian Friendly', 'Pizza']"
+13409,
+13413,"['European', 'Vegetarian Friendly', 'Dutch']"
+13417,['Spanish']
+13434,
+13435,"['Spanish', 'Seafood']"
+13438,['Spanish']
+13439,
+13440,['Cafe']
+13451,
+13453,
+13454,['Spanish']
+13459,['Italian']
+13465,
+13477,"['Asian', 'Korean']"
+13478,
+13480,['Spanish']
+13486,['African']
+13488,"['European', 'Austrian', 'Vegetarian Friendly']"
+13489,
+13491,
+13493,
+13498,['Spanish']
+13502,
+13504,
+13505,
+13507,
+13512,['International']
+13513,
+13516,
+13527,
+13530,
+13533,"['Japanese', 'Sushi', 'Asian']"
+13536,"['Bar', 'Pub']"
+13540,"['Cafe', 'Italian', 'Vegetarian Friendly']"
+13544,"['Italian', 'Vegetarian Friendly', 'Pizza']"
+13546,"['Italian', 'Russian']"
+13552,
+13553,
+13554,"['European', 'Bar', 'Italian']"
+13558,
+13559,"['Cafe', 'Vegetarian Friendly']"
+13571,
+13591,
+13612,['German']
+13614,
+13616,
+13618,
+13620,"['Italian', 'Vegetarian Friendly', 'Vegan Options']"
+13622,"['European', 'Spanish', 'Mediterranean']"
+13623,"['Italian', 'Pizza']"
+13631,
+13632,['Spanish']
+13641,
+13648,
+13652,
+13654,
+13659,
+13673,"['Thai', 'Asian', 'Vietnamese']"
+13677,"['Spanish', 'Mediterranean']"
+13680,
+13697,"['Italian', 'Vegetarian Friendly', 'Mediterranean']"
+13698,
+13701,
+13704,
+13706,
+13708,
+13709,"['European', 'Polish']"
+13721,
+13727,"['French', 'Cafe', 'Fast Food']"
+13731,
+13733,"['Bar', 'Pub', 'Czech']"
+13737,
+13754,
+13757,
+13759,
+13763,['Middle Eastern']
+13769,['French']
+13773,"['Chinese', 'Asian']"
+13784,
+13786,['Vegetarian Friendly']
+13788,['Fast Food']
+13809,"['Vegetarian Friendly', 'Asian', 'Korean']"
+13810,['Greek']
+13813,['Vegetarian Friendly']
+13815,
+13816,
+13820,
+13824,
+13829,"['European', 'Cafe', 'German']"
+13836,"['Bar', 'Pub']"
+13847,
+13851,"['French', 'European']"
+13855,"['Italian', 'Pizza']"
+13865,
+13867,"['French', 'Fusion']"
+13868,
+13874,"['Cafe', 'Vegan Options']"
+13875,"['Indonesian', 'Vegetarian Friendly', 'Asian']"
+13877,
+13879,"['Indian', 'Spanish', 'Mediterranean']"
+13880,"['Italian', 'Seafood', 'Pizza']"
+13884,
+13886,"['Bar', 'Pub']"
+13888,
+13896,
+13898,
+13909,"['European', 'Czech']"
+13912,['Fast Food']
+13915,['German']
+13916,['Italian']
+13917,"['French', 'American', 'Bar', 'Fast Food']"
+13919,
+13922,
+13924,['Fast Food']
+13930,
+13932,"['Vegetarian Friendly', 'Turkish', 'Middle Eastern']"
+13937,"['Spanish', 'Mediterranean']"
+13938,
+13955,
+13965,
+13966,
+13967,
+13972,"['Bar', 'Pub']"
+13977,"['Vegetarian Friendly', 'Turkish', 'Middle Eastern']"
+13980,"['Spanish', 'Peruvian', 'Mediterranean']"
+13983,
+13985,"['British', 'Bar', 'Seafood']"
+13987,
+13988,
+13989,
+13991,
+13993,
+13999,['Fast Food']
+14008,"['Fast Food', 'Turkish', 'Middle Eastern']"
+14017,['Fast Food']
+14025,['Italian']
+14027,
+14029,"['Thai', 'Malaysian', 'Asian']"
+14042,
+14045,"['Spanish', 'Vegetarian Friendly']"
+14050,
+14058,['Fast Food']
+14060,"['Bar', 'Pub']"
+14062,"['European', 'Spanish', 'Mediterranean']"
+14064,"['Indian', 'Asian']"
+14076,
+14079,
+14081,"['French', 'Vegetarian Friendly']"
+14083,
+14084,"['Spanish', 'Gluten Free Options', 'Mediterranean']"
+14089,
+14107,
+14111,"['European', 'Vegetarian Friendly']"
+14115,['Mediterranean']
+14120,
+14126,['Sushi']
+14131,
+14132,
+14135,"['American', 'Fast Food']"
+14139,
+14140,['Pizza']
+14146,
+14150,
+14152,
+14153,['Cafe']
+14172,
+14176,"['Spanish', 'Mediterranean']"
+14180,
+14182,['Cafe']
+14183,
+14189,['Italian']
+14193,['Fast Food']
+14194,"['Spanish', 'Mediterranean']"
+14196,['Cafe']
+14198,"['Lebanese', 'Middle Eastern', 'Mediterranean']"
+14204,
+14214,"['Cafe', 'Italian']"
+14217,"['Italian', 'Vegetarian Friendly']"
+14222,['French']
+14224,
+14232,"['Spanish', 'Mediterranean']"
+14236,
+14241,"['European', 'Portuguese']"
+14243,"['Japanese', 'Sushi', 'Asian']"
+14250,['Chinese']
+14255,"['French', 'Spanish']"
+14256,['Spanish']
+14262,['Spanish']
+14266,['Spanish']
+14267,
+14269,
+14283,"['Italian', 'Mediterranean']"
+14285,
+14288,
+14292,
+14295,
+14299,
+14305,
+14307,
+14317,
+14318,
+14321,
+14336,
+14340,
+14345,"['Bar', 'Pub', 'Fast Food']"
+14353,"['Gastropub', 'Pub']"
+14361,
+14372,
+14382,
+14388,
+14396,"['Cafe', 'Italian', 'Vegan Options']"
+14398,['Japanese']
+14403,['Italian']
+14410,['Spanish']
+14413,
+14418,"['French', 'International']"
+14420,
+14424,
+14427,['Cafe']
+14452,
+14458,
+14459,
+14469,
+14471,
+14472,"['Cafe', 'Japanese']"
+14475,"['Asian', 'Korean']"
+14481,"['French', 'International']"
+14482,"['Vegetarian Friendly', 'Chinese']"
+14484,"['Italian', 'Mediterranean']"
+14489,
+14491,['European']
+14495,
+14498,"['French', 'European', 'Bar']"
+14504,
+14516,
+14517,"['Vegetarian Friendly', 'Fast Food']"
+14543,"['Cafe', 'Fast Food']"
+14544,"['Italian', 'Pizza', 'Fast Food']"
+14550,"['Cafe', 'Italian']"
+14551,"['French', 'European', 'Bar']"
+14552,
+14553,
+14559,
+14570,['Cafe']
+14573,['Spanish']
+14574,
+14582,"['American', 'Peruvian', 'South American']"
+14589,"['Vegetarian Friendly', 'German']"
+14594,
+14610,['French']
+14612,['Indian']
+14613,
+14616,"['Italian', 'Vegetarian Friendly']"
+14620,
+14625,
+14637,"['European', 'Portuguese']"
+14639,
+14653,"['Spanish', 'Vegetarian Friendly', 'Mediterranean']"
+14654,"['Lebanese', 'Middle Eastern', 'Mediterranean']"
+14656,
+14659,
+14664,['Cafe']
+14672,['Turkish']
+14677,['French']
+14679,
+14685,['Healthy']
+14694,"['European', 'Spanish', 'Mediterranean']"
+14695,"['Lebanese', 'Mediterranean']"
+14697,
+14698,"['Fast Food', 'Mexican', 'Latin']"
+14700,"['European', 'Austrian', 'Vegetarian Friendly']"
+14702,
+14705,
+14708,"['Japanese', 'Chinese', 'Sushi']"
+14712,"['French', 'European', 'Diner']"
+14716,['Spanish']
+14720,"['Cafe', 'Italian', 'Vegetarian Friendly']"
+14722,
+14735,
+14744,['Danish']
+14756,
+14758,
+14760,"['Italian', 'Vegetarian Friendly']"
+14763,
+14770,['Fast Food']
+14776,
+14781,['Greek']
+14783,"['Bar', 'Steakhouse', 'Barbecue', 'Latin']"
+14787,
+14790,
+14792,
+14793,
+14794,
+14796,"['Spanish', 'Vegetarian Friendly', 'Mediterranean']"
+14797,['Fast Food']
+14798,
+14799,
+14808,"['Bar', 'Vegetarian Friendly']"
+14809,"['Spanish', 'Vegetarian Friendly']"
+14816,
+14823,['German']
+14824,['Spanish']
+14825,['Italian']
+14829,
+14837,
+14843,"['Spanish', 'Vegetarian Friendly', 'Mediterranean']"
+14849,
+14850,['Italian']
+14870,['Spanish']
+14879,
+14880,"['American', 'Diner']"
+14885,
+14887,['Chinese']
+14905,['Vegetarian Friendly']
+14906,
+14910,['Greek']
+14912,"['Cafe', 'Fast Food']"
+14914,['Cafe']
+14923,"['Japanese', 'Sushi', 'Asian']"
+14925,"['Italian', 'Vegetarian Friendly', 'Mediterranean']"
+14929,
+14932,"['European', 'Portuguese']"
+14933,['Caribbean']
+14934,
+14938,
+14945,"['Bar', 'Pub']"
+14947,
+14948,"['Greek', 'Turkish', 'Mediterranean']"
+14949,
+14951,['Italian']
+14954,
+14955,
+14958,
+14959,
+14961,
+14967,"['Spanish', 'Cafe', 'Mediterranean']"
+14970,"['Spanish', 'Vegetarian Friendly', 'Vegan Options']"
+14971,
+14976,['Austrian']
+14977,
+14978,
+14983,
+14986,['Cafe']
+14989,['Spanish']
+14993,"['European', 'Hungarian', 'Asian']"
+14994,"['Vegetarian Friendly', 'Asian', 'Vietnamese']"
+14995,"['French', 'International']"
+14996,
+14997,
+14999,"['Spanish', 'Mediterranean']"
+15006,"['Cafe', 'Diner', 'German']"
+15007,
+15018,
+15027,"['European', 'Italian', 'Polish']"
+15029,"['French', 'Pizza']"
+15035,
+15036,"['Cafe', 'Italian']"
+15037,
+15042,['Spanish']
+15043,
+15044,
+15052,
+15054,['Turkish']
+15059,
+15063,['Italian']
+15064,
+15067,['French']
+15071,
+15078,"['French', 'European', 'Vegetarian Friendly']"
+15079,"['Cafe', 'Vegetarian Friendly', 'Vegan Options']"
+15081,
+15085,
+15087,
+15096,['French']
+15099,"['Spanish', 'Mediterranean']"
+15104,"['American', 'Argentinean', 'South American']"
+15106,"['European', 'Bar', 'Pub']"
+15107,
+15109,
+15114,"['British', 'Bar', 'Pub']"
+15116,"['Cafe', 'Fast Food']"
+15123,
+15125,
+15127,['Italian']
+15129,"['European', 'Polish']"
+15132,
+15134,
+15137,"['Bar', 'Pub']"
+15140,
+15142,
+15145,
+15147,['Vegetarian Friendly']
+15149,"['European', 'Portuguese']"
+15153,
+15160,['Cafe']
+15163,
+15165,"['Italian', 'Pizza']"
+15178,
+15190,"['European', 'Cafe', 'Vegetarian Friendly']"
+15191,['French']
+15195,
+15203,['Vegetarian Friendly']
+15210,"['Greek', 'Vegetarian Friendly']"
+15213,"['Bar', 'Pub']"
+15214,"['Spanish', 'Bar', 'Mediterranean']"
+15226,"['European', 'Italian', 'Pizza']"
+15228,
+15229,
+15255,"['Vegetarian Friendly', 'Halal', 'Turkish']"
+15259,['Asian']
+15260,"['Pizza', 'Fast Food']"
+15261,
+15263,"['Turkish', 'Middle Eastern', 'Mediterranean']"
+15264,"['Pizza', 'Middle Eastern']"
+15265,
+15266,
+15268,"['Bar', 'Pub']"
+15273,
+15287,['Italian']
+15290,
+15291,
+15294,"['Austrian', 'Italian', 'Mediterranean']"
+15299,['Cafe']
+15300,
+15302,
+15303,
+15308,
+15309,"['French', 'Vegetarian Friendly']"
+15312,"['French', 'American', 'Steakhouse']"
+15316,"['Japanese', 'Sushi', 'Asian']"
+15317,"['Greek', 'European', 'Vegetarian Friendly']"
+15322,['French']
+15328,['Spanish']
+15331,
+15345,['Vegetarian Friendly']
+15349,['Spanish']
+15350,"['Italian', 'Vegetarian Friendly', 'Mediterranean']"
+15351,
+15360,"['Italian', 'Mediterranean']"
+15365,"['French', 'Bar', 'Pub']"
+15377,
+15381,
+15383,
+15385,"['European', 'Fast Food']"
+15389,
+15392,
+15398,"['European', 'Dutch']"
+15403,
+15404,['Spanish']
+15405,
+15407,"['French', 'American', 'Steakhouse']"
+15410,"['Italian', 'Vegetarian Friendly']"
+15412,
+15428,"['European', 'Italian', 'Southwestern']"
+15436,
+15443,
+15446,['Italian']
+15447,
+15449,
+15455,"['Italian', 'Seafood']"
+15457,['Greek']
+15459,['Spanish']
+15461,['Chinese']
+15469,['Mediterranean']
+15471,
+15474,"['Cafe', 'German']"
+15485,
+15491,
+15492,"['Cafe', 'German']"
+15494,['Vegetarian Friendly']
+15503,
+15504,
+15507,"['American', 'Mexican']"
+15512,"['Cafe', 'Vegetarian Friendly']"
+15514,
+15518,['International']
+15520,
+15526,
+15530,
+15536,
+15538,
+15546,
+15551,
+15552,
+15558,
+15561,"['European', 'Swedish']"
+15563,['Spanish']
+15572,"['Spanish', 'Vegetarian Friendly', 'Mediterranean']"
+15584,['Italian']
+15586,"['American', 'Bar', 'Barbecue']"
+15593,"['European', 'Seafood', 'Mediterranean']"
+15596,
+15602,
+15604,
+15607,['Caribbean']
+15608,['Healthy']
+15609,
+15612,
+15613,
+15614,
+15615,"['Bar', 'Cafe', 'Pub']"
+15623,['Spanish']
+15627,"['European', 'Portuguese', 'Latin']"
+15628,
+15640,
+15647,
+15649,
+15651,['Vegetarian Friendly']
+15653,['Cafe']
+15655,
+15657,
+15658,['International']
+15659,"['Vegetarian Friendly', 'Fast Food']"
+15661,"['Spanish', 'Bar', 'Wine Bar']"
+15663,['Spanish']
+15666,"['Thai', 'Chinese', 'Asian']"
+15667,
+15669,
+15674,"['Turkish', 'Middle Eastern']"
+15676,
+15685,['Fast Food']
+15687,"['European', 'Central European', 'German']"
+15688,['German']
+15690,
+15706,
+15714,"['American', 'Bar', 'Central American']"
+15729,
+15731,
+15733,"['Greek', 'Vegetarian Friendly']"
+15737,"['French', 'Cafe']"
+15739,"['European', 'Vegetarian Friendly']"
+15757,
+15759,"['Cafe', 'Vegetarian Friendly', 'Vegan Options']"
+15760,
+15761,"['European', 'Bar', 'Portuguese']"
+15764,"['Bar', 'Italian', 'Wine Bar']"
+15768,
+15771,['French']
+15780,"['European', 'Hungarian', 'Vegetarian Friendly']"
+15785,['Italian']
+15807,
+15814,
+15818,['Vegetarian Friendly']
+15820,['Vegetarian Friendly']
+15822,['Cafe']
+15824,"['European', 'Central European']"
+15826,"['European', 'Portuguese']"
+15829,"['Spanish', 'Vegetarian Friendly', 'Mediterranean']"
+15837,"['Italian', 'Pizza']"
+15841,['Asian']
+15844,
+15847,"['French', 'European']"
+15850,
+15851,"['Lebanese', 'Fast Food', 'Mediterranean']"
+15865,"['Italian', 'Pizza']"
+15870,
+15877,"['British', 'Bar', 'Pub']"
+15879,
+15882,
+15884,
+15892,"['Italian', 'International']"
+15894,
+15898,
+15907,"['American', 'Fast Food']"
+15911,"['Cuban', 'Caribbean']"
+15912,"['Spanish', 'Steakhouse']"
+15913,['Italian']
+15916,
+15922,"['Italian', 'Pizza', 'Fast Food']"
+15924,
+15925,
+15931,['Pizza']
+15935,"['Lebanese', 'Turkish']"
+15957,
+15958,
+15962,"['Japanese', 'Chinese', 'Sushi']"
+15963,"['American', 'Mexican']"
+15965,
+15967,['French']
+15969,
+15975,"['European', 'Portuguese']"
+15988,
+15989,"['European', 'Seafood', 'Portuguese']"
+15994,
+15995,
+15998,"['Bar', 'Pub']"
+16013,
+16017,
+16018,
+16022,
+16028,"['Cafe', 'Italian', 'Fast Food']"
+16040,"['Italian', 'Vegetarian Friendly']"
+16042,"['Cafe', 'German']"
+16044,
+16061,
+16063,"['European', 'Czech']"
+16067,
+16070,"['Italian', 'Vegetarian Friendly']"
+16073,
+16076,['Cafe']
+16077,"['Vegetarian Friendly', 'German']"
+16079,
+16082,
+16089,
+16093,
+16097,['Italian']
+16101,"['Chinese', 'Asian']"
+16105,['Cafe']
+16106,"['Italian', 'Pizza', 'Fast Food']"
+16113,"['Spanish', 'Mediterranean']"
+16117,"['Bar', 'Italian', 'Pub']"
+16119,
+16121,
+16127,
+16131,"['Cafe', 'Vegetarian Friendly']"
+16137,"['Bar', 'Pub']"
+16145,
+16147,"['Japanese', 'Chinese', 'Asian']"
+16153,"['Spanish', 'Mediterranean']"
+16156,
+16162,"['Vegetarian Friendly', 'German']"
+16179,
+16184,"['Indian', 'Vegetarian Friendly', 'Vegan Options']"
+16187,
+16189,['Italian']
+16190,['Fast Food']
+16198,['Turkish']
+16202,
+16203,
+16204,
+16206,
+16215,
+16219,
+16222,"['American', 'Vegetarian Friendly']"
+16227,['Chinese']
+16234,
+16235,"['European', 'Central European', 'Vegetarian Friendly', 'German']"
+16248,"['French', 'European']"
+16258,
+16260,['Healthy']
+16261,['Fast Food']
+16265,"['European', 'Cafe', 'Portuguese']"
+16278,"['French', 'European', 'Bar']"
+16280,"['Vegetarian Friendly', 'German']"
+16287,
+16291,
+16294,"['Italian', 'Vegetarian Friendly', 'Pizza']"
+16297,
+16301,
+16304,['Cafe']
+16307,['Pizza']
+16308,"['Bar', 'Pub']"
+16314,"['European', 'Italian', 'Mediterranean']"
+16322,
+16324,"['Japanese', 'Chinese', 'Asian']"
+16327,
+16328,['French']
+16330,['American']
+16332,
+16333,"['American', 'Italian', 'Pizza']"
+16341,['British']
+16349,"['Asian', 'Korean']"
+16352,['Chinese']
+16356,
+16358,
+16360,"['Thai', 'Asian', 'Vietnamese']"
+16362,"['European', 'Polish']"
+16369,
+16370,
+16386,"['American', 'Fast Food']"
+16390,
+16405,
+16410,
+16413,['Italian']
+16414,['French']
+16416,"['Bar', 'Pub']"
+16422,
+16427,
+16431,
+16432,"['Spanish', 'Mediterranean']"
+16435,['Cafe']
+16439,"['Japanese', 'Asian']"
+16441,
+16458,
+16467,"['American', 'Cafe', 'Fast Food']"
+16474,['Fast Food']
+16476,
+16477,['German']
+16478,"['Spanish', 'Mediterranean']"
+16480,"['European', 'Czech']"
+16484,"['Ethiopian', 'African', 'Vegetarian Friendly']"
+16494,['Pub']
+16506,"['Moroccan', 'Middle Eastern', 'Mediterranean']"
+16510,['African']
+16511,"['Vegetarian Friendly', 'German']"
+16514,
+16522,
+16524,"['Fast Food', 'Mexican']"
+16525,
+16529,
+16537,['Steakhouse']
+16547,
+16550,['Cafe']
+16556,
+16558,['Cafe']
+16563,
+16565,"['French', 'Bar', 'Barbecue', 'Grill']"
+16568,['African']
+16569,
+16570,['Vegetarian Friendly']
+16578,
+16584,
+16585,
+16587,"['European', 'Austrian', 'Contemporary']"
+16591,"['Indian', 'Asian', 'Fast Food']"
+16607,"['American', 'Fast Food']"
+16608,
+16624,
+16627,
+16632,
+16635,"['French', 'European', 'Belgian']"
+16636,"['Cafe', 'Italian']"
+16639,
+16640,['Pizza']
+16644,"['European', 'Cafe', 'Portuguese']"
+16645,['German']
+16648,
+16649,
+16650,"['Chinese', 'Fast Food']"
+16661,"['Italian', 'Pizza']"
+16671,
+16672,
+16675,
+16683,['Spanish']
+16687,"['Spanish', 'Bar', 'Pub']"
+16690,
+16696,
+16699,"['Bar', 'Italian', 'Pub']"
+16701,['Cafe']
+16703,['Spanish']
+16708,
+16711,"['Vegetarian Friendly', 'Asian']"
+16712,
+16717,"['Italian', 'Vegetarian Friendly', 'German']"
+16729,
+16730,['Fast Food']
+16731,"['Spanish', 'Gluten Free Options', 'Vegetarian Friendly']"
+16733,
+16736,
+16740,
+16743,
+16749,
+16750,"['Greek', 'Spanish']"
+16752,['Italian']
+16756,
+16758,"['European', 'Scandinavian', 'Russian']"
+16769,
+16771,"['Vegetarian Friendly', 'Vegan Options']"
+16772,"['Halal', 'Portuguese']"
+16782,"['Brew Pub', 'Pub']"
+16785,
+16791,['Vegetarian Friendly']
+16793,
+16808,"['Bar', 'Cafe', 'Pub']"
+16810,
+16816,
+16819,['Italian']
+16825,
+16834,
+16841,"['French', 'European', 'Belgian']"
+16842,"['French', 'Vegetarian Friendly']"
+16844,
+16848,"['European', 'Cafe', 'Swedish']"
+16849,
+16858,
+16860,"['Lebanese', 'Turkish', 'Middle Eastern']"
+16866,"['European', 'Cafe', 'German']"
+16872,"['French', 'European']"
+16877,
+16883,
+16888,"['Spanish', 'Vegetarian Friendly']"
+16890,['Chinese']
+16891,
+16901,
+16908,"['French', 'Vegetarian Friendly', 'Vegan Options']"
+16913,
+16916,"['Spanish', 'Mediterranean']"
+16927,
+16928,
+16933,
+16950,
+16952,['French']
+16957,
+16958,
+16959,"['French', 'European']"
+16960,
+16963,
+16976,
+16978,['German']
+16979,['Cafe']
+16980,"['Vegetarian Friendly', 'Middle Eastern', 'Persian']"
+16981,"['European', 'Fast Food', 'Belgian']"
+16997,"['Japanese', 'Chinese']"
+17004,"['Italian', 'Pizza', 'Mediterranean']"
+17009,"['European', 'Dutch', 'Belgian']"
+17010,['Mediterranean']
+17014,"['Italian', 'Steakhouse', 'Mediterranean']"
+17017,
+17030,
+17042,
+17047,"['Bar', 'Pub']"
+17049,"['French', 'American', 'Fast Food']"
+17051,
+17055,"['Pizza', 'Fast Food']"
+17061,['Cafe']
+17068,"['Cafe', 'Fast Food']"
+17070,"['Cafe', 'Fast Food']"
+17071,
+17079,['Sushi']
+17080,
+17082,
+17084,
+17098,
+17107,
+17116,"['European', 'Cafe']"
+17123,
+17125,
+17126,
+17127,['Italian']
+17130,['Italian']
+17135,
+17144,
+17146,
+17148,
+17149,
+17154,
+17157,"['American', 'Fast Food']"
+17170,
+17177,['British']
+17179,
+17181,['Spanish']
+17182,['European']
+17183,
+17185,"['European', 'Italian', 'Pizza']"
+17188,
+17189,"['European', 'Bar', 'Pub']"
+17192,"['Italian', 'Pizza']"
+17194,"['Brew Pub', 'Pub']"
+17202,"['Indian', 'Vegetarian Friendly', 'Vegan Options']"
+17209,"['Bar', 'Pub']"
+17210,
+17213,"['Spanish', 'Seafood', 'Mediterranean']"
+17217,"['European', 'Portuguese']"
+17228,"['Gluten Free Options', 'Vegetarian Friendly', 'Middle Eastern']"
+17235,['Mediterranean']
+17242,
+17247,
+17248,
+17249,
+17254,['French']
+17258,
+17259,['Cafe']
+17266,
+17273,"['European', 'Portuguese', 'Mediterranean']"
+17281,"['Cafe', 'Vegetarian Friendly', 'German']"
+17283,
+17287,['Indian']
+17290,"['European', 'Cafe', 'Contemporary']"
+17298,
+17301,
+17305,"['Japanese', 'Asian', 'Fast Food']"
+17313,"['Spanish', 'Mediterranean']"
+17319,"['Spanish', 'Italian', 'Mediterranean']"
+17326,"['Cafe', 'Vegetarian Friendly']"
+17329,"['Italian', 'Vegetarian Friendly', 'Pizza']"
+17333,
+17336,
+17337,
+17338,
+17339,
+17342,
+17343,"['European', 'Italian', 'Portuguese']"
+17348,
+17353,
+17355,['Vegetarian Friendly']
+17366,
+17368,
+17369,"['European', 'Cafe', 'Central European']"
+17374,['Cafe']
+17377,"['European', 'Portuguese']"
+17378,['Caribbean']
+17379,"['Vegetarian Friendly', 'Asian', 'Vietnamese']"
+17384,"['Bar', 'Wine Bar']"
+17386,"['European', 'Cafe', 'Polish']"
+17392,
+17393,
+17394,
+17395,['British']
+17398,"['European', 'Portuguese']"
+17404,
+17405,
+17410,
+17412,
+17413,
+17415,
+17417,['Healthy']
+17419,"['Middle Eastern', 'Mediterranean']"
+17422,"['European', 'Cafe', 'Portuguese']"
+17424,
+17430,
+17431,
+17432,"['American', 'Gluten Free Options', 'Fast Food']"
+17443,
+17448,
+17454,['Italian']
+17459,
+17462,['Cafe']
+17467,['Spanish']
+17468,['French']
+17473,
+17476,"['Bar', 'Pub']"
+17477,
+17479,
+17480,
+17484,['French']
+17485,
+17501,['Vegetarian Friendly']
+17504,['Vegetarian Friendly']
+17505,['Fast Food']
+17507,
+17513,['Fast Food']
+17516,"['Vegetarian Friendly', 'Mexican']"
+17521,
+17525,"['Fast Food', 'Turkish', 'Middle Eastern']"
+17528,['Caribbean']
+17532,"['Pizza', 'Fast Food']"
+17538,['Spanish']
+17543,
+17551,"['Vegetarian Friendly', 'Middle Eastern']"
+17553,
+17554,
+17558,"['Spanish', 'Vegetarian Friendly', 'Mediterranean']"
+17565,"['Italian', 'Pub', 'Vegan Options']"
+17573,"['Seafood', 'Vegetarian Friendly', 'Hawaiian']"
+17574,"['American', 'Peruvian', 'South American']"
+17579,
+17587,['Italian']
+17591,
+17597,"['European', 'Czech']"
+17599,
+17603,
+17606,
+17611,
+17612,
+17615,
+17619,"['Cafe', 'Fast Food']"
+17623,['Chinese']
+17628,"['European', 'Polish']"
+17629,['French']
+17630,
+17633,"['Vegetarian Friendly', 'Mexican']"
+17638,['Cafe']
+17639,"['Spanish', 'Vegetarian Friendly', 'Mediterranean']"
+17646,
+17647,
+17655,['Cafe']
+17658,['Chinese']
+17669,
+17672,
+17677,
+17678,
+17682,
+17690,
+17694,
+17695,
+17696,
+17700,['Grill']
+17702,
+17706,
+17720,"['European', 'Austrian']"
+17722,"['Spanish', 'Bar', 'Pub']"
+17728,
+17729,['French']
+17730,"['European', 'Austrian']"
+17732,
+17734,"['French', 'Vegetarian Friendly']"
+17737,"['Cafe', 'Portuguese', 'Mediterranean']"
+17745,"['European', 'Vegetarian Friendly', 'Portuguese']"
+17746,
+17750,
+17751,"['British', 'Cafe', 'Vegetarian Friendly']"
+17752,"['Bar', 'Vegetarian Friendly']"
+17754,
+17757,['Spanish']
+17758,['Pizza']
+17759,"['Cambodian', 'Chinese', 'Asian']"
+17765,
+17767,['French']
+17769,
+17776,['Healthy']
+17778,"['Bar', 'Wine Bar', 'International']"
+17780,
+17785,"['Asian', 'Taiwanese']"
+17790,
+17795,
+17799,
+17801,['Pizza']
+17804,
+17805,['European']
+17811,
+17816,
+17817,['Vegetarian Friendly']
+17819,
+17822,
+17825,
+17829,"['European', 'Italian', 'Czech']"
+17833,"['Greek', 'Fast Food', 'Mediterranean']"
+17834,['European']
+17837,"['European', 'Central European']"
+17838,['Italian']
+17843,
+17844,['Italian']
+17845,
+17852,
+17863,
+17874,
+17877,
+17880,"['European', 'Belgian']"
+17885,
+17900,
+17901,
+17907,
+17908,"['European', 'Italian']"
+17913,['Asian']
+17917,"['Vegetarian Friendly', 'German']"
+17919,
+17921,
+17929,['Vegetarian Friendly']
+17938,"['Vegetarian Friendly', 'Fast Food']"
+17940,"['Pizza', 'Middle Eastern']"
+17941,
+17944,
+17947,['Fast Food']
+17952,
+17959,"['Cafe', 'Italian']"
+17962,"['Vegetarian Friendly', 'Fast Food', 'Turkish']"
+17966,['Spanish']
+17973,
+17974,"['European', 'Vegetarian Friendly']"
+17975,['Fast Food']
+17982,['French']
+17983,['Cafe']
+17986,"['Bar', 'Vegetarian Friendly', 'Pub']"
+17988,
+17992,
+17995,['Spanish']
+17996,
+17997,
+17998,
+17999,"['Bar', 'Cafe', 'Pub']"
+18005,['American']
+18007,
+18010,
+18015,"['Japanese', 'Chinese', 'Sushi']"
+18016,"['Cafe', 'Fast Food']"
+18018,"['Vegetarian Friendly', 'Vegan Options']"
+18020,['Pizza']
+18022,"['European', 'Portuguese']"
+18024,
+18025,"['European', 'Scandinavian', 'Danish']"
+18027,
+18029,
+18033,
+18036,"['Italian', 'Vegetarian Friendly', 'Mediterranean']"
+18040,
+18042,"['Japanese', 'Sushi', 'Asian']"
+18043,"['Indian', 'Asian', 'Fast Food']"
+18048,
+18049,
+18054,"['Italian', 'Seafood']"
+18055,"['European', 'Central European', 'Vegetarian Friendly', 'German']"
+18057,['Spanish']
+18059,
+18061,
+18062,"['Japanese', 'Sushi', 'Asian']"
+18065,"['European', 'Spanish', 'Mediterranean']"
+18074,"['Bar', 'Pub']"
+18077,"['Greek', 'German']"
+18080,
+18084,"['Japanese', 'Sushi', 'Asian']"
+18086,['Spanish']
+18091,
+18092,['Pizza']
+18103,['Cafe']
+18107,
+18114,
+18122,"['Cafe', 'Vegetarian Friendly']"
+18123,"['Spanish', 'Bar', 'Pub']"
+18125,['Fast Food']
+18129,
+18143,"['Italian', 'Pizza', 'Fast Food']"
+18145,
+18152,['Pub']
+18153,['Cafe']
+18154,"['Bar', 'Cafe', 'Pub']"
+18157,"['European', 'Portuguese']"
+18162,
+18165,['Fast Food']
+18167,"['European', 'Spanish', 'Mediterranean']"
+18169,['Pizza']
+18173,"['American', 'Pizza']"
+18174,"['Spanish', 'Vegetarian Friendly', 'Mediterranean']"
+18177,
+18183,
+18186,['Indian']
+18189,
+18196,
+18200,"['American', 'International', 'Mexican']"
+18201,
+18203,"['Italian', 'Mediterranean']"
+18205,['Spanish']
+18208,"['Austrian', 'Vegetarian Friendly', 'German']"
+18210,['Chinese']
+18215,
+18223,"['Cafe', 'Vegetarian Friendly', 'Vegan Options']"
+18224,['Sushi']
+18226,
+18229,['Vegetarian Friendly']
+18235,['Chinese']
+18237,
+18248,
+18251,"['Cafe', 'Diner']"
+18253,"['Japanese', 'Sushi', 'Asian']"
+18265,
+18268,
+18271,
+18272,
+18275,
+18276,
+18277,"['European', 'Gluten Free Options', 'Steakhouse']"
+18281,
+18284,['Italian']
+18285,['Bar']
+18289,['Caribbean']
+18294,"['Indonesian', 'Chinese', 'Asian']"
+18298,
+18308,
+18309,
+18316,
+18318,['Italian']
+18320,['Vegetarian Friendly']
+18323,['American']
+18325,"['Italian', 'Vegetarian Friendly', 'Mediterranean']"
+18330,
+18333,['Turkish']
+18335,
+18336,
+18339,['Cafe']
+18342,"['Soups', 'Vegetarian Friendly']"
+18343,
+18345,['Italian']
+18346,['Cafe']
+18347,"['Italian', 'Pizza', 'Fast Food']"
+18348,
+18354,
+18356,
+18360,['Cafe']
+18363,['Spanish']
+18368,
+18371,
+18378,
+18380,['French']
+18387,
+18391,['Cafe']
+18397,['French']
+18400,
+18410,['European']
+18414,
+18415,['American']
+18418,['Pizza']
+18423,
+18425,['Spanish']
+18442,
+18452,"['European', 'Central European', 'German']"
+18453,
+18454,['British']
+18457,
+18458,
+18462,
+18469,
+18470,"['Spanish', 'Bar', 'Pub']"
+18473,
+18475,"['European', 'Portuguese']"
+18478,"['European', 'Bar', 'Pub']"
+18482,['French']
+18486,
+18488,['Italian']
+18494,['Vegetarian Friendly']
+18495,"['Vegetarian Friendly', 'Belgian']"
+18502,
+18508,
+18514,
+18515,
+18521,"['Spanish', 'Cafe', 'Vegetarian Friendly']"
+18522,
+18524,"['Italian', 'Pizza', 'Fast Food']"
+18525,
+18527,"['Spanish', 'Mediterranean']"
+18535,"['Moroccan', 'Middle Eastern', 'Mediterranean']"
+18537,
+18547,['Cafe']
+18549,
+18561,
+18565,"['European', 'Swiss', 'Vegetarian Friendly']"
+18571,
+18577,
+18579,['Spanish']
+18586,
+18590,
+18595,"['American', 'Fast Food']"
+18597,
+18603,['Spanish']
+18609,['French']
+18617,
+18621,
+18623,['European']
+18625,"['Japanese', 'Chinese', 'Sushi']"
+18627,"['Italian', 'Pizza', 'Fast Food']"
+18642,
+18647,
+18661,['Mexican']
+18664,
+18673,"['American', 'Asian', 'Fast Food']"
+18679,['Greek']
+18684,"['Thai', 'Japanese']"
+18687,['Cafe']
+18688,['Sushi']
+18689,['Cafe']
+18691,['Vegetarian Friendly']
+18692,"['European', 'Bar', 'Pub']"
+18701,
+18702,
+18703,"['Italian', 'Pizza']"
+18704,
+18706,
+18710,"['Bar', 'Pub']"
+18713,
+18722,
+18727,
+18732,"['Vegetarian Friendly', 'Korean']"
+18735,"['Cafe', 'Vegetarian Friendly']"
+18736,['Vietnamese']
+18737,['Cafe']
+18746,"['French', 'Cafe', 'Fusion']"
+18748,
+18752,['Vegetarian Friendly']
+18756,"['Indian', 'Vegetarian Friendly', 'Nepali']"
+18767,
+18769,"['Japanese', 'Sushi', 'Asian']"
+18784,"['Cafe', 'Vegetarian Friendly']"
+18795,['Italian']
+18797,
+18802,['International']
+18803,
+18804,"['European', 'Italian', 'Pizza', 'Mediterranean']"
+18806,
+18807,
+18816,"['Spanish', 'Mediterranean']"
+18817,
+18821,
+18826,
+18829,
+18838,['Spanish']
+18840,
+18845,['French']
+18848,['Spanish']
+18849,['Cafe']
+18852,"['American', 'European', 'Fast Food']"
+18858,"['Cafe', 'Vegetarian Friendly']"
+18859,"['European', 'Central European', 'German']"
+18863,
+18869,
+18874,"['Spanish', 'Grill']"
+18880,
+18882,['Indian']
+18884,
+18887,
+18888,"['Spanish', 'International', 'Mediterranean']"
+18904,['German']
+18907,
+18910,
+18911,"['European', 'Spanish', 'Mediterranean']"
+18912,"['European', 'Italian', 'Pizza']"
+18919,
+18920,['French']
+18921,
+18930,['Spanish']
+18932,"['European', 'Vegetarian Friendly']"
+18935,['Pub']
+18936,
+18937,"['European', 'Hungarian', 'Central European']"
+18941,
+18944,
+18956,
+18963,
+18964,"['Japanese', 'Sushi', 'Asian']"
+18975,
+18977,
+18979,"['Italian', 'Seafood', 'Mediterranean']"
+18985,"['European', 'Portuguese']"
+18988,
+18989,['French']
+18994,
+18996,"['Healthy', 'Cafe', 'German']"
+19005,"['European', 'Cafe', 'Dutch']"
+19006,"['European', 'Portuguese']"
+19011,"['American', 'Cafe', 'Fast Food']"
+19025,"['European', 'Vegetarian Friendly', 'Belgian']"
+19027,"['French', 'Italian', 'Pizza']"
+19028,['French']
+19034,['Cafe']
+19039,
+19041,
+19052,
+19056,
+19061,
+19064,
+19065,
+19069,['Cafe']
+19071,['Italian']
+19072,"['American', 'Vegetarian Friendly', 'Fast Food']"
+19078,
+19084,['Mediterranean']
+19085,
+19088,['Peruvian']
+19090,"['Eastern European', 'European', 'Armenian']"
+19098,
+19100,"['Spanish', 'Cafe']"
+19102,
+19107,['Italian']
+19113,
+19115,['Cafe']
+19122,
+19139,
+19143,['Pizza']
+19144,"['Spanish', 'Mediterranean']"
+19146,['Cafe']
+19150,
+19154,
+19158,
+19160,"['Spanish', 'Vegetarian Friendly', 'Mediterranean']"
+19165,
+19167,
+19171,['Cafe']
+19175,
+19184,
+19185,['Cafe']
+19192,
+19200,
+19205,"['Bar', 'Italian', 'Wine Bar']"
+19207,
+19208,['French']
+19209,
+19219,
+19227,
+19230,"['Street Food', 'Bar', 'Pub']"
+19239,
+19241,"['Vegetarian Friendly', 'Fast Food']"
+19253,
+19256,['Spanish']
+19258,
+19265,['Vegetarian Friendly']
+19268,"['Moroccan', 'Middle Eastern', 'Mediterranean']"
+19271,['International']
+19281,"['Eastern European', 'European', 'Russian']"
+19286,['Italian']
+19287,
+19293,"['French', 'European']"
+19296,"['Bar', 'Pub']"
+19297,
+19301,['German']
+19312,
+19319,"['Spanish', 'Bar', 'Cafe']"
+19323,
+19325,
+19328,
+19329,"['Moroccan', 'Mediterranean']"
+19334,"['European', 'Italian', 'Mediterranean']"
+19339,['Cafe']
+19343,"['Healthy', 'Vegetarian Friendly', 'Mediterranean']"
+19349,
+19360,
+19372,"['Healthy', 'Soups', 'Mediterranean']"
+19378,
+19385,
+19397,"['Bar', 'Brew Pub', 'Pub']"
+19412,"['Bar', 'Vegetarian Friendly', 'Pub']"
+19413,
+19415,
+19427,"['Hungarian', 'Cafe']"
+19431,"['Cafe', 'Vegetarian Friendly', 'Vegan Options']"
+19432,
+19440,
+19450,"['Indian', 'Vegetarian Friendly', 'Asian']"
+19451,
+19453,
+19454,['Cafe']
+19455,
+19457,
+19462,
+19467,"['Chinese', 'Sushi', 'Asian']"
+19478,"['Austrian', 'International', 'Grill']"
+19482,
+19483,"['European', 'Portuguese']"
+19490,
+19496,
+19497,
+19499,['Pizza']
+19500,['French']
+19506,
+19507,['Mexican']
+19512,"['Spanish', 'Seafood', 'Vegetarian Friendly']"
+19513,
+19514,
+19517,
+19524,"['European', 'Portuguese']"
+19525,['Vegetarian Friendly']
+19526,
+19529,
+19534,
+19535,"['European', 'Austrian', 'Cafe']"
+19544,
+19546,
+19555,
+19564,
+19568,
+19572,['Cafe']
+19573,"['Bar', 'Barbecue', 'Portuguese']"
+19576,
+19577,"['Cafe', 'Vegetarian Friendly']"
+19578,
+19581,
+19584,
+19586,
+19595,
+19598,"['Croatian', 'European']"
+19602,"['European', 'Central European', 'Vegetarian Friendly']"
+19605,"['American', 'Italian', 'Mediterranean']"
+19606,"['European', 'Portuguese', 'Mediterranean']"
+19609,
+19615,
+19621,['Spanish']
+19625,
+19627,
+19628,['Cafe']
+19632,"['European', 'Austrian', 'Vegetarian Friendly', 'German']"
+19635,
+19645,"['European', 'Italian', 'Pizza']"
+19646,"['Spanish', 'Fast Food', 'Turkish']"
+19654,
+19659,
+19661,"['Vegetarian Friendly', 'Fast Food']"
+19662,
+19673,"['Spanish', 'Cafe']"
+19674,['Cafe']
+19681,
+19682,"['Indian', 'Middle Eastern', 'Pakistani']"
+19688,
+19693,
+19705,
+19714,"['Japanese', 'Vegetarian Friendly', 'Asian']"
+19729,
+19736,"['Cafe', 'Vegetarian Friendly']"
+19742,"['Italian', 'Vegetarian Friendly', 'Pizza']"
+19747,"['European', 'Central European', 'Swiss']"
+19750,"['Spanish', 'Steakhouse', 'Mediterranean']"
+19751,
+19754,['International']
+19765,['Cafe']
+19767,
+19774,
+19778,['Vegetarian Friendly']
+19779,
+19780,"['European', 'Cafe', 'Portuguese']"
+19781,
+19786,
+19793,
+19795,
+19798,
+19799,['Cafe']
+19802,['Spanish']
+19804,['Vegetarian Friendly']
+19822,['French']
+19825,"['Vegetarian Friendly', 'German']"
+19827,"['French', 'European']"
+19829,['Cafe']
+19830,"['French', 'European', 'Bar']"
+19833,['Italian']
+19840,
+19843,"['Cafe', 'Italian']"
+19846,"['European', 'Portuguese']"
+19851,"['Spanish', 'Mediterranean']"
+19854,"['Spanish', 'Caribbean', 'Latin']"
+19866,['Italian']
+19871,
+19875,['Vietnamese']
+19891,"['European', 'Portuguese', 'Mediterranean']"
+19898,
+19904,
+19911,"['Scottish', 'Seafood', 'Grill']"
+19918,
+19919,
+19925,
+19926,"['Italian', 'Vegetarian Friendly']"
+19927,"['European', 'Spanish', 'Seafood']"
+19930,['European']
+19933,"['European', 'Portuguese']"
+19934,
+19937,
+19938,
+19947,['French']
+19948,
+19955,
+19962,
+19967,
+19968,"['Spanish', 'Bar', 'Pub']"
+19971,
+19976,['Spanish']
+19977,"['Italian', 'Vegetarian Friendly', 'Mediterranean']"
+19980,['Chinese']
+19984,
+19988,"['Cafe', 'Italian']"
+19989,
+19995,
+19998,
+19999,['Italian']
+20013,"['European', 'Italian', 'Fast Food']"
+20016,"['Spanish', 'Mediterranean']"
+20021,"['French', 'Spanish']"
+20030,
+20031,
+20041,['Mediterranean']
+20052,
+20054,
+20057,
+20061,"['Lebanese', 'Mediterranean']"
+20065,
+20066,['Fast Food']
+20067,"['European', 'Cafe', 'Portuguese']"
+20069,
+20072,
+20073,
+20074,"['Vegetarian Friendly', 'Fast Food']"
+20075,
+20081,
+20086,"['Italian', 'Pizza']"
+20090,"['Spanish', 'Mediterranean']"
+20093,
+20101,
+20104,['Cafe']
+20110,"['European', 'Cafe']"
+20115,
+20118,['French']
+20119,"['Italian', 'Vegetarian Friendly']"
+20122,
+20124,['Spanish']
+20130,
+20131,"['European', 'Central European', 'Vegetarian Friendly', 'German']"
+20143,['Spanish']
+20151,"['European', 'Portuguese']"
+20159,
+20167,"['Lebanese', 'Middle Eastern', 'Mediterranean']"
+20170,
+20171,
+20180,
+20181,
+20184,
+20187,['Spanish']
+20194,
+20199,"['British', 'European', 'Vegetarian Friendly']"
+20203,"['European', 'Italian', 'Mediterranean']"
+20204,
+20205,
+20206,"['Italian', 'Seafood', 'Mediterranean']"
+20208,['Spanish']
+20216,['Cafe']
+20224,
+20226,['Vegetarian Friendly']
+20231,
+20232,
+20243,['American']
+20246,['Spanish']
+20253,
+20258,
+20261,"['Italian', 'Pizza', 'Mediterranean']"
+20263,
+20264,['Turkish']
+20270,['Cafe']
+20275,
+20276,
+20277,
+20287,
+20295,"['European', 'Italian', 'Vegetarian Friendly']"
+20305,"['Bar', 'Cafe', 'Pub']"
+20313,['Spanish']
+20318,
+20323,
+20330,"['Bar', 'Italian', 'Pizza']"
+20331,"['French', 'European', 'Swiss']"
+20336,
+20342,"['Spanish', 'Mediterranean']"
+20349,"['Bar', 'Cafe', 'Fast Food']"
+20351,['Vegetarian Friendly']
+20352,
+20359,['Fast Food']
+20360,
+20362,
+20372,
+20378,
+20381,"['Ethiopian', 'African']"
+20391,
+20396,
+20398,"['European', 'Cafe', 'Vegetarian Friendly']"
+20400,
+20401,
+20402,
+20403,
+20408,"['Spanish', 'Steakhouse', 'Mediterranean']"
+20410,"['British', 'European', 'Vegetarian Friendly']"
+20424,
+20425,
+20426,"['Vegetarian Friendly', 'Vegan Options']"
+20429,['Spanish']
+20432,"['Italian', 'Pizza']"
+20433,
+20437,
+20438,"['Croatian', 'European']"
+20441,"['European', 'Czech']"
+20444,"['Spanish', 'Cafe', 'Mediterranean']"
+20461,
+20465,
+20468,
+20471,
+20473,"['European', 'Cafe']"
+20475,
+20490,"['Spanish', 'Venezuelan', 'Latin']"
+20491,"['Scandinavian', 'Danish']"
+20492,['Vegetarian Friendly']
+20495,"['Eastern European', 'European', 'Slovenian']"
+20499,
+20502,
+20503,"['Cafe', 'Vegetarian Friendly']"
+20509,
+20512,
+20513,
+20518,['Spanish']
+20525,['Spanish']
+20534,
+20535,"['Vegetarian Friendly', 'Vegan Options']"
+20538,['Chinese']
+20539,['Fast Food']
+20554,
+20561,"['Italian', 'Vegetarian Friendly', 'Pizza']"
+20564,
+20567,
+20574,"['Spanish', 'Mediterranean']"
+20581,['Chinese']
+20600,"['Spanish', 'Fast Food']"
+20607,
+20610,['Vegetarian Friendly']
+20611,
+20613,
+20615,
+20618,"['Sushi', 'Asian']"
+20623,['Fast Food']
+20625,"['European', 'Seafood', 'International']"
+20626,
+20629,
+20634,['Italian']
+20635,
+20636,"['Vegetarian Friendly', 'Vegan Options']"
+20638,"['Ethiopian', 'African']"
+20641,"['Cafe', 'Italian', 'Vegetarian Friendly']"
+20644,"['American', 'Bar', 'Fast Food', 'Barbecue']"
+20646,"['American', 'European', 'Austrian', 'South American']"
+20653,
+20657,"['Vegetarian Friendly', 'Chinese', 'Asian']"
+20661,
+20662,['French']
+20666,['Spanish']
+20667,
+20669,['International']
+20670,['Vegetarian Friendly']
+20673,"['Street Food', 'Italian', 'Mediterranean']"
+20674,
+20680,"['American', 'Spanish', 'Argentinean', 'South American']"
+20694,
+20695,
+20697,
+20699,['Spanish']
+20708,
+20712,['Cafe']
+20715,"['European', 'Central European', 'Czech']"
+20719,
+20723,"['Healthy', 'Italian', 'Vegetarian Friendly']"
+20727,
+20735,
+20741,
+20747,
+20749,"['Cafe', 'Vegetarian Friendly']"
+20754,"['American', 'Cafe', 'Fast Food']"
+20756,
+20757,['Cafe']
+20766,"['European', 'Portuguese']"
+20771,"['Tunisian', 'Mediterranean']"
+20775,
+20787,
+20790,
+20793,"['European', 'Belgian']"
+20794,
+20798,
+20799,
+20805,"['Seafood', 'Peruvian', 'Latin']"
+20813,['Fast Food']
+20824,"['American', 'Vegetarian Friendly']"
+20831,"['French', 'European', 'Belgian']"
+20836,"['French', 'European']"
+20841,
+20842,['Fast Food']
+20843,
+20844,['Fast Food']
+20845,
+20853,
+20856,
+20860,
+20865,
+20866,['Spanish']
+20867,
+20870,['Fast Food']
+20873,
+20875,"['Bar', 'Pub', 'Czech']"
+20877,['French']
+20879,
+20881,
+20883,['French']
+20884,"['Italian', 'Vegetarian Friendly', 'Pizza']"
+20885,"['Italian', 'Vegetarian Friendly', 'Vegan Options']"
+20886,['Spanish']
+20895,"['American', 'Bar', 'Pub']"
+20896,
+20898,['French']
+20901,"['American', 'Ecuadorean', 'South American']"
+20902,
+20908,"['Italian', 'Pizza', 'Vegan Options']"
+20910,
+20911,
+20913,
+20920,
+20925,"['French', 'European', 'Italian']"
+20928,
+20932,"['Vegetarian Friendly', 'German']"
+20935,['Greek']
+20941,"['Cafe', 'Vegetarian Friendly']"
+20944,"['Greek', 'French', 'Spanish']"
+20946,
+20947,"['European', 'Spanish']"
+20952,
+20964,
+20967,"['European', 'Czech']"
+20969,
+20971,
+20972,"['Thai', 'Vegetarian Friendly', 'Asian']"
+20975,['Cafe']
+20976,"['European', 'Austrian']"
+20978,['Spanish']
+20980,['Spanish']
+20982,['French']
+20983,"['Japanese', 'Sushi']"
+20992,"['European', 'Fast Food']"
+20995,
+20998,"['Greek', 'Vegetarian Friendly', 'Mediterranean']"
+20999,
+21000,
+21001,
+21004,['Italian']
+21009,
+21012,
+21020,
+21024,"['American', 'Fast Food']"
+21026,
+21031,
+21036,['French']
+21041,
+21042,['Cafe']
+21048,"['Vegetarian Friendly', 'Sushi', 'Asian']"
+21049,"['Gastropub', 'Bar', 'Italian', 'Wine Bar']"
+21055,"['Spanish', 'Mediterranean']"
+21059,
+21060,
+21063,"['European', 'Italian', 'Pizza', 'Mediterranean']"
+21068,
+21070,['French']
+21073,['Fast Food']
+21074,"['French', 'Bar', 'Cafe']"
+21079,['Italian']
+21080,
+21081,['French']
+21082,
+21088,"['Indian', 'Cafe', 'Vegan Options']"
+21089,['Fast Food']
+21090,"['Japanese', 'Vegetarian Friendly', 'Asian']"
+21091,"['French', 'Portuguese', 'Mediterranean']"
+21103,"['Bar', 'Cafe', 'Italian']"
+21104,
+21108,"['European', 'Cafe']"
+21117,
+21146,
+21148,['French']
+21150,
+21155,
+21156,
+21159,
+21162,['Fast Food']
+21163,
+21170,
+21175,"['European', 'Portuguese']"
+21183,
+21187,
+21192,
+21195,
+21196,
+21197,['French']
+21200,
+21211,
+21219,"['European', 'Swedish']"
+21224,
+21228,
+21229,"['European', 'Portuguese']"
+21237,['Thai']
+21242,
+21247,"['Spanish', 'Bar', 'Pub']"
+21249,"['Italian', 'Vegetarian Friendly']"
+21252,"['Thai', 'Vegetarian Friendly', 'Asian']"
+21257,
+21259,
+21262,"['French', 'Vegetarian Friendly']"
+21265,['Cafe']
+21271,['Italian']
+21274,
+21280,
+21287,
+21288,"['Cafe', 'Vegetarian Friendly']"
+21289,['Pizza']
+21292,['Spanish']
+21307,
+21308,
+21310,
+21314,
+21315,"['Cafe', 'Vegetarian Friendly', 'Fast Food']"
+21316,"['Italian', 'Vegetarian Friendly', 'Pizza']"
+21318,
+21320,"['Asian', 'Vietnamese']"
+21321,
+21323,['Vegetarian Friendly']
+21328,"['Spanish', 'Mediterranean']"
+21329,
+21344,['Chinese']
+21345,
+21351,
+21354,
+21361,
+21389,['Cafe']
+21395,
+21398,"['Italian', 'Vegetarian Friendly']"
+21399,"['Italian', 'Pizza', 'International']"
+21405,
+21407,
+21412,"['Italian', 'Vegetarian Friendly', 'Pizza']"
+21420,
+21422,
+21431,
+21434,"['Spanish', 'Bar', 'Pub']"
+21441,
+21443,"['French', 'European', 'Vegetarian Friendly']"
+21446,"['French', 'Italian']"
+21452,
+21466,
+21468,
+21480,
+21482,"['Italian', 'Vegetarian Friendly']"
+21484,
+21489,['Fast Food']
+21490,
+21494,['Sushi']
+21495,
+21498,
+21499,
+21502,['German']
+21504,
+21507,"['European', 'Hungarian']"
+21510,
+21518,"['European', 'Seafood', 'Dutch']"
+21522,"['European', 'Portuguese']"
+21526,
+21528,['Spanish']
+21534,
+21535,
+21536,
+21542,
+21543,"['Spanish', 'Vegetarian Friendly', 'Mediterranean']"
+21549,"['French', 'European', 'Vegetarian Friendly']"
+21550,['Spanish']
+21570,
+21584,
+21585,['Fast Food']
+21591,"['Italian', 'Pizza', 'Mediterranean']"
+21598,
+21603,
+21609,"['Healthy', 'Cafe']"
+21611,"['Vegetarian Friendly', 'Vegan Options']"
+21613,
+21617,
+21624,['French']
+21632,"['Vegetarian Friendly', 'German']"
+21634,['Fast Food']
+21636,"['European', 'Hungarian']"
+21638,"['Spanish', 'Mediterranean']"
+21641,"['Italian', 'Pizza', 'Mediterranean']"
+21644,
+21647,"['Bar', 'Cafe', 'Italian', 'Pub']"
+21659,
+21661,
+21664,
+21665,"['Italian', 'Vegetarian Friendly', 'Vegan Options']"
+21672,
+21674,
+21675,
+21677,
+21682,
+21686,['Cafe']
+21690,
+21693,
+21699,
+21700,['Italian']
+21701,['Fast Food']
+21717,
+21724,"['Italian', 'Vegetarian Friendly']"
+21726,"['Italian', 'Vegetarian Friendly']"
+21730,
+21734,"['Japanese', 'Sushi']"
+21739,['Thai']
+21755,['International']
+21758,
+21762,"['Spanish', 'Bar', 'Cafe', 'Pub']"
+21767,
+21768,"['Italian', 'Seafood']"
+21771,"['Bar', 'Italian', 'Wine Bar']"
+21773,
+21774,
+21778,
+21784,"['Lebanese', 'International', 'Mediterranean']"
+21785,['Chinese']
+21790,
+21793,['French']
+21794,['German']
+21797,
+21803,
+21806,
+21817,
+21820,"['Chinese', 'Asian']"
+21821,"['Vegetarian Friendly', 'German']"
+21822,
+21826,"['Croatian', 'European', 'Central European']"
+21827,
+21828,"['European', 'Vegetarian Friendly']"
+21829,"['French', 'Bar', 'Pub']"
+21837,"['Italian', 'Pizza', 'Mediterranean']"
+21838,
+21846,['Cafe']
+21847,
+21849,"['Vegetarian Friendly', 'Fast Food']"
+21852,
+21862,
+21873,
+21878,['Cafe']
+21879,
+21886,
+21892,['Fast Food']
+21910,
+21911,"['Italian', 'Vegetarian Friendly', 'Pizza']"
+21915,
+21920,
+21931,
+21941,"['European', 'Italian', 'Pizza']"
+21949,
+21951,"['Gluten Free Options', 'Seafood']"
+21957,['Italian']
+21961,['Italian']
+21965,
+21968,
+21974,
+21975,['Cafe']
+21980,['Bar']
+21983,
+21986,"['Italian', 'Seafood', 'Mediterranean']"
+21988,
+21991,
+21993,['Cafe']
+21994,
+21995,
+22002,['Vegetarian Friendly']
+22005,"['Vegetarian Friendly', 'Chinese', 'Asian']"
+22006,['British']
+22011,['Italian']
+22013,
+22015,"['Spanish', 'Mediterranean']"
+22032,"['Lebanese', 'Vegetarian Friendly', 'Mediterranean']"
+22036,"['Vegetarian Friendly', 'Turkish', 'Middle Eastern']"
+22040,
+22045,
+22046,
+22053,['African']
+22056,
+22057,
+22061,['Cafe']
+22070,['Italian']
+22071,"['Cafe', 'Italian']"
+22082,
+22096,"['Japanese', 'Vegetarian Friendly', 'Asian']"
+22105,"['Spanish', 'Bar', 'Pub']"
+22115,"['Indian', 'Thai', 'Italian']"
+22117,['British']
+22120,['French']
+22122,
+22127,
+22129,"['Healthy', 'Spanish', 'Bar']"
+22133,"['European', 'Fast Food', 'Portuguese']"
+22134,"['Asian', 'Vietnamese']"
+22135,
+22140,"['Italian', 'Pizza']"
+22144,"['Vegetarian Friendly', 'German']"
+22151,
+22152,"['European', 'Portuguese']"
+22155,"['Japanese', 'Sushi', 'Asian']"
+22156,
+22163,
+22165,
+22189,['African']
+22190,
+22191,"['European', 'Dutch', 'Pub']"
+22197,['Fast Food']
+22200,
+22201,
+22212,"['Vegetarian Friendly', 'Chinese', 'Asian']"
+22218,"['Halal', 'Turkish', 'Middle Eastern']"
+22219,['Cafe']
+22225,
+22230,['French']
+22233,"['Indian', 'Healthy', 'Fast Food', 'Middle Eastern']"
+22235,"['Vegetarian Friendly', 'Chinese', 'Asian']"
+22238,"['French', 'Turkish']"
+22239,
+22241,
+22243,"['Thai', 'Asian']"
+22251,
+22253,['Spanish']
+22258,['Thai']
+22261,
+22267,"['Eastern European', 'European', 'Turkish', 'Middle Eastern']"
+22270,['Vegetarian Friendly']
+22274,
+22275,"['Italian', 'Mediterranean']"
+22277,
+22281,['Japanese']
+22285,
+22290,
+22291,['Chinese']
+22294,
+22295,['Vegetarian Friendly']
+22304,
+22308,
+22312,['Vegetarian Friendly']
+22319,['Italian']
+22321,['Fast Food']
+22333,"['Italian', 'Vegetarian Friendly']"
+22336,['Fast Food']
+22338,['French']
+22339,
+22344,
+22349,
+22350,
+22355,
+22356,['Bar']
+22366,"['Spanish', 'Cafe']"
+22370,
+22373,
+22374,
+22395,
+22398,['Fast Food']
+22409,
+22414,['Vegetarian Friendly']
+22424,['Spanish']
+22431,
+22433,['Mexican']
+22435,
+22438,
+22440,"['Fast Food', 'Turkish', 'Middle Eastern']"
+22442,"['Italian', 'International', 'Mediterranean']"
+22445,
+22447,"['French', 'European', 'Cafe']"
+22448,"['French', 'Cafe']"
+22455,['Asian']
+22466,
+22470,
+22473,['Vegetarian Friendly']
+22474,"['Italian', 'Vegetarian Friendly', 'Pizza']"
+22484,
+22486,"['Bar', 'Asian', 'Barbecue', 'Korean']"
+22487,"['French', 'European']"
+22488,
+22492,"['Thai', 'Chinese', 'Asian']"
+22493,
+22497,
+22501,"['Italian', 'Pizza']"
+22503,"['Spanish', 'Vegetarian Friendly', 'Mediterranean']"
+22505,['Cafe']
+22507,
+22509,['Chinese']
+22512,
+22518,
+22520,"['Spanish', 'Mediterranean']"
+22527,['Vegetarian Friendly']
+22529,"['European', 'Portuguese']"
+22532,['Spanish']
+22537,['Cafe']
+22540,['Cafe']
+22543,"['French', 'Spanish', 'Bar']"
+22544,"['Italian', 'Pizza', 'Mediterranean']"
+22553,"['European', 'Portuguese']"
+22554,"['Bar', 'Pub']"
+22558,['French']
+22562,"['French', 'Vegetarian Friendly']"
+22563,
+22564,"['Italian', 'Mediterranean']"
+22567,
+22569,['Spanish']
+22572,
+22573,
+22578,
+22590,
+22605,"['Bar', 'Pub']"
+22614,"['Italian', 'Vegetarian Friendly', 'Mediterranean']"
+22619,
+22621,"['Italian', 'Pizza', 'Fast Food']"
+22626,
+22628,
+22629,
+22634,['French']
+22636,
+22637,['Italian']
+22638,
+22639,"['European', 'Cafe', 'German']"
+22652,
+22657,
+22666,"['European', 'Danish']"
+22668,
+22670,"['European', 'Belgian']"
+22672,
+22674,
+22678,"['Thai', 'Asian', 'Fast Food']"
+22680,"['Spanish', 'Vegetarian Friendly', 'Vegan Options']"
+22682,['Fast Food']
+22687,"['Italian', 'International']"
+22694,
+22698,
+22700,
+22704,"['French', 'European', 'Vegetarian Friendly']"
+22706,"['Cafe', 'Swedish']"
+22709,['French']
+22721,"['American', 'Fast Food']"
+22723,['Fast Food']
+22724,
+22725,"['Bar', 'Pub']"
+22728,
+22731,
+22735,"['Spanish', 'Mediterranean']"
+22737,"['Spanish', 'Mediterranean']"
+22738,"['French', 'Spanish', 'Mediterranean']"
+22742,"['Japanese', 'Asian']"
+22743,
+22747,"['Bar', 'Pub']"
+22758,
+22775,['Cafe']
+22780,
+22782,"['European', 'Portuguese']"
+22787,
+22789,
+22791,
+22796,
+22801,['Cafe']
+22804,['Cafe']
+22822,
+22831,['Cafe']
+22835,
+22837,
+22845,
+22846,
+22850,
+22853,['French']
+22857,
+22858,
+22860,
+22862,
+22868,['Spanish']
+22870,['Fast Food']
+22876,
+22877,
+22879,
+22882,"['Vegetarian Friendly', 'Turkish']"
+22889,['Italian']
+22891,['Vegetarian Friendly']
+22896,
+22909,['Fast Food']
+22911,
+22912,"['Italian', 'Pizza']"
+22914,
+22929,
+22934,
+22940,
+22941,['Healthy']
+22943,"['French', 'European', 'Bar', 'Wine Bar']"
+22949,['Spanish']
+22962,
+22964,"['Spanish', 'Cafe']"
+22965,['Vegetarian Friendly']
+22977,
+22990,
+22991,
+23000,
+23006,
+23013,
+23024,
+23028,['Pizza']
+23030,"['French', 'Bar', 'Wine Bar']"
+23031,"['Cafe', 'Mediterranean']"
+23037,"['Spanish', 'Mediterranean']"
+23059,
+23065,
+23066,['Fast Food']
+23072,"['Italian', 'Vegetarian Friendly']"
+23075,
+23084,"['Spanish', 'Mediterranean']"
+23093,
+23097,
+23099,
+23101,
+23120,
+23122,['Chinese']
+23130,
+23134,"['Cafe', 'German']"
+23141,['Chinese']
+23142,['French']
+23143,
+23147,"['Healthy', 'Mexican']"
+23148,"['European', 'Spanish', 'Mediterranean']"
+23150,
+23153,
+23161,"['Vegetarian Friendly', 'German']"
+23162,
+23164,
+23165,"['Italian', 'Pizza', 'Mediterranean']"
+23180,
+23183,['German']
+23185,['Spanish']
+23186,['Middle Eastern']
+23193,"['European', 'Swiss']"
+23196,
+23198,"['Italian', 'Pizza']"
+23199,
+23207,
+23221,
+23224,
+23229,
+23233,
+23237,
+23238,"['Spanish', 'Cafe', 'Fast Food']"
+23249,['Pub']
+23250,
+23254,"['European', 'Vegetarian Friendly']"
+23256,"['Bar', 'Italian', 'Wine Bar']"
+23263,
+23264,
+23265,
+23266,['French']
+23270,['Spanish']
+23275,
+23277,
+23281,"['Bar', 'Cafe', 'Pub']"
+23285,['Spanish']
+23290,"['Italian', 'Pizza', 'Fast Food']"
+23293,
+23298,['Vegetarian Friendly']
+23309,
+23317,
+23328,['French']
+23329,['Spanish']
+23335,['Spanish']
+23336,"['Japanese', 'Chinese', 'Asian']"
+23343,['Steakhouse']
+23349,"['European', 'Belgian']"
+23353,
+23356,
+23371,['African']
+23377,"['Italian', 'Vegetarian Friendly']"
+23381,
+23383,
+23387,
+23405,"['European', 'Hungarian']"
+23408,
+23410,"['Pizza', 'Fast Food']"
+23413,"['Italian', 'Pizza', 'Mediterranean']"
+23426,
+23429,
+23433,"['European', 'Spanish', 'Mediterranean']"
+23436,
+23439,"['French', 'European', 'Swiss']"
+23442,
+23457,
+23460,
+23462,
+23466,"['Spanish', 'Mediterranean']"
+23467,['British']
+23468,['Sushi']
+23470,
+23471,
+23473,
+23475,
+23479,"['Japanese', 'Chinese', 'Sushi']"
+23486,"['British', 'Bar', 'Pub']"
+23487,"['Italian', 'Vegetarian Friendly']"
+23489,"['Italian', 'Pizza']"
+23494,
+23496,"['African', 'Caribbean']"
+23499,"['Pizza', 'Fast Food']"
+23501,"['Cafe', 'Fast Food']"
+23507,['Vegetarian Friendly']
+23512,
+23516,"['Cafe', 'Italian', 'Vegetarian Friendly']"
+23519,
+23528,
+23531,
+23543,
+23544,"['European', 'Bar', 'Pub']"
+23545,
+23548,"['Bar', 'Irish', 'Pub']"
+23558,
+23561,
+23564,"['Spanish', 'Vegetarian Friendly', 'Mediterranean']"
+23567,['Cafe']
+23568,
+23569,['French']
+23571,
+23577,"['European', 'Portuguese']"
+23583,"['American', 'Brazilian', 'South American']"
+23585,
+23591,['Greek']
+23595,['European']
+23596,
+23601,
+23605,"['Japanese', 'Sushi', 'Asian']"
+23608,
+23610,
+23613,"['Japanese', 'Chinese', 'Sushi']"
+23616,
+23617,
+23628,
+23632,
+23634,
+23642,
+23646,['Cafe']
+23648,
+23654,"['Bar', 'Pub']"
+23662,"['French', 'European', 'Diner']"
+23665,"['Bar', 'Pub']"
+23666,
+23667,
+23679,"['European', 'Seafood', 'Portuguese']"
+23681,
+23682,"['Spanish', 'Mediterranean']"
+23691,"['European', 'Swiss']"
+23694,"['Italian', 'Pizza', 'Mediterranean']"
+23697,"['European', 'Hungarian']"
+23699,
+23700,
+23712,
+23717,"['European', 'Vegetarian Friendly', 'German']"
+23718,
+23724,
+23727,
+23729,
+23735,
+23741,
+23751,['Greek']
+23756,"['Japanese', 'Sushi', 'Asian']"
+23761,
+23762,"['Bar', 'Pub']"
+23763,['Italian']
+23764,
+23770,
+23777,
+23780,"['Bar', 'Chilean', 'Latin']"
+23787,['European']
+23788,"['French', 'Japanese']"
+23789,
+23791,
+23792,
+23805,"['Cafe', 'Italian', 'Vegetarian Friendly']"
+23811,"['French', 'European', 'Bar', 'Wine Bar']"
+23821,['Cafe']
+23823,"['Vegetarian Friendly', 'Pizza', 'Fast Food']"
+23826,
+23828,
+23834,"['French', 'Bar', 'Pub']"
+23840,"['French', 'European', 'Bar']"
+23844,
+23855,['Gastropub']
+23857,['Pizza']
+23863,
+23865,
+23867,
+23869,
+23870,['Vegetarian Friendly']
+23873,"['European', 'Cafe', 'Central European']"
+23875,
+23878,"['Spanish', 'Vegetarian Friendly', 'Mediterranean']"
+23879,"['Spanish', 'Vegetarian Friendly']"
+23880,
+23884,
+23886,
+23888,['French']
+23889,"['Japanese', 'Asian']"
+23897,"['European', 'Swiss']"
+23898,"['European', 'Vegetarian Friendly', 'Vegan Options']"
+23906,
+23911,['Vegetarian Friendly']
+23912,"['Thai', 'Asian', 'Korean']"
+23914,"['Japanese', 'Sushi', 'Asian']"
+23915,
+23916,"['Bar', 'Pub']"
+23920,"['Cafe', 'Vegetarian Friendly', 'Fast Food']"
+23921,['Spanish']
+23925,"['British', 'Bar', 'Pub']"
+23928,
+23929,
+23930,
+23934,
+23938,"['Bar', 'Pub']"
+23939,"['American', 'Fast Food']"
+23950,"['European', 'Portuguese']"
+23951,"['European', 'Central European', 'Vegetarian Friendly', 'German']"
+23958,
+23961,
+23963,
+23967,
+23969,"['European', 'Portuguese']"
+23971,
+23973,
+23979,"['Italian', 'Pizza']"
+23982,
+23988,
+23999,
+24000,"['Indonesian', 'Asian']"
+24002,
+24004,['European']
+24007,"['Italian', 'Vegetarian Friendly', 'Vegan Options']"
+24011,
+24025,
+24031,
+24033,
+24037,['Pizza']
+24039,"['European', 'Fast Food']"
+24045,"['American', 'European', 'Portuguese']"
+24047,['Italian']
+24056,
+24058,"['European', 'Vegetarian Friendly', 'Vegan Options']"
+24059,"['American', 'Italian', 'Fast Food']"
+24068,
+24071,
+24076,
+24079,"['European', 'Austrian', 'Central European']"
+24081,
+24086,
+24087,
+24090,
+24092,"['Bar', 'Vegetarian Friendly', 'Pub', 'Vegan Options']"
+24093,
+24095,
+24098,['Spanish']
+24101,"['European', 'Swedish']"
+24102,"['American', 'Fast Food', 'South American', 'Mexican']"
+24104,
+24110,"['European', 'Central European', 'German']"
+24114,"['Bar', 'Cafe', 'Italian']"
+24119,
+24122,"['Italian', 'International']"
+24124,['European']
+24125,['Pizza']
+24127,
+24129,"['Fast Food', 'German']"
+24130,['French']
+24131,
+24132,['Italian']
+24134,
+24139,"['European', 'Czech']"
+24149,"['Cafe', 'Vegetarian Friendly', 'German']"
+24151,"['Vegetarian Friendly', 'German']"
+24159,
+24166,
+24168,
+24174,
+24175,
+24182,['Spanish']
+24183,['Cafe']
+24191,
+24194,"['European', 'Cafe']"
+24196,"['Spanish', 'Vegetarian Friendly', 'Mediterranean']"
+24199,"['American', 'Bar', 'Pub']"
+24201,
+24203,
+24204,['Spanish']
+24208,['Bar']
+24212,['Cafe']
+24215,['French']
+24221,
+24224,
+24226,['Italian']
+24233,
+24245,['French']
+24246,
+24252,"['Cafe', 'Diner', 'Fast Food']"
+24253,"['Bar', 'Pub']"
+24256,['French']
+24257,"['European', 'Vegetarian Friendly']"
+24261,
+24270,"['Cafe', 'Vegetarian Friendly', 'Fast Food']"
+24271,['Spanish']
+24275,['Spanish']
+24283,['Vegetarian Friendly']
+24284,
+24289,"['Vegetarian Friendly', 'Chinese', 'Asian']"
+24291,
+24292,
+24296,
+24298,"['Greek', 'Mediterranean']"
+24301,
+24306,"['French', 'European']"
+24310,"['Italian', 'Seafood', 'Pizza']"
+24311,"['Fast Food', 'Turkish', 'Middle Eastern']"
+24312,
+24319,['Spanish']
+24320,"['European', 'Spanish', 'Mediterranean']"
+24329,
+24336,
+24338,"['European', 'Portuguese', 'Mediterranean']"
+24342,
+24343,"['Spanish', 'Mediterranean']"
+24349,
+24354,
+24356,
+24357,['Grill']
+24358,['Spanish']
+24359,
+24375,"['American', 'Vegetarian Friendly', 'Vegan Options']"
+24379,['Vegetarian Friendly']
+24385,
+24386,"['Greek', 'Vegetarian Friendly', 'Vegan Options']"
+24390,['Bar']
+24397,
+24401,
+24407,['Fast Food']
+24409,['Fast Food']
+24411,['Chinese']
+24412,"['European', 'Fast Food', 'Portuguese']"
+24415,
+24418,['French']
+24420,
+24421,
+24425,['Cafe']
+24426,"['Italian', 'Seafood']"
+24427,
+24431,"['Japanese', 'Sushi', 'Asian']"
+24433,['Cafe']
+24442,
+24451,
+24453,"['Pizza', 'Turkish', 'Mediterranean']"
+24454,['Cafe']
+24459,
+24464,['Turkish']
+24466,"['Japanese', 'Sushi', 'Asian']"
+24481,"['Spanish', 'Mediterranean']"
+24484,['Grill']
+24491,
+24492,
+24495,['Fast Food']
+24496,
+24497,
+24507,
+24524,
+24547,
+24549,"['European', 'Central European']"
+24550,
+24552,"['Italian', 'Pizza']"
+24553,
+24555,
+24562,
+24572,
+24574,"['French', 'European', 'Belgian']"
+24577,
+24582,"['Italian', 'Seafood']"
+24593,['Asian']
+24604,"['Spanish', 'Mediterranean']"
+24605,"['Cafe', 'Vegetarian Friendly']"
+24615,
+24621,"['Bar', 'Italian', 'Pizza']"
+24626,"['European', 'Spanish', 'Mediterranean']"
+24627,"['Vegetarian Friendly', 'German']"
+24630,"['Brew Pub', 'Pub']"
+24638,
+24642,
+24643,['Pizza']
+24644,['Italian']
+24658,
+24661,
+24662,
+24663,
+24669,"['Cafe', 'Vegetarian Friendly']"
+24670,['Cafe']
+24682,
+24685,
+24686,
+24687,
+24688,"['Japanese', 'Sushi', 'Asian']"
+24689,"['French', 'Italian']"
+24690,
+24691,"['Bar', 'Italian', 'Pub']"
+24694,
+24699,
+24716,"['Indian', 'Vegetarian Friendly']"
+24721,
+24723,
+24728,['Italian']
+24735,"['European', 'Spanish', 'Mediterranean']"
+24736,"['Bar', 'Barbecue']"
+24738,"['European', 'Polish']"
+24742,
+24743,
+24746,['Italian']
+24757,['Italian']
+24762,"['Fast Food', 'Turkish', 'Middle Eastern']"
+24768,
+24769,
+24771,['Vegetarian Friendly']
+24775,
+24777,['Vegetarian Friendly']
+24793,"['Japanese', 'Vegetarian Friendly', 'Asian']"
+24800,['German']
+24803,
+24805,
+24806,
+24808,['Fast Food']
+24809,
+24822,"['European', 'Austrian', 'Cafe']"
+24825,"['French', 'European']"
+24826,['French']
+24829,"['Indian', 'Lebanese', 'Fast Food', 'Mediterranean']"
+24830,['Sushi']
+24834,
+24835,['French']
+24844,"['European', 'Spanish', 'Portuguese']"
+24847,
+24850,['Fast Food']
+24851,
+24854,"['European', 'Vegetarian Friendly', 'German']"
+24855,
+24863,
+24866,['Vegetarian Friendly']
+24871,
+24874,
+24884,['Cafe']
+24885,
+24895,['Spanish']
+24898,
+24899,['French']
+24912,
+24915,"['Italian', 'Pizza']"
+24921,['Spanish']
+24927,"['French', 'Vegetarian Friendly']"
+24928,"['American', 'Fast Food']"
+24930,
+24931,"['Vegetarian Friendly', 'Turkish']"
+24932,
+24935,
+24937,['Pizza']
+24946,
+24947,['Cafe']
+24955,
+24959,
+24961,
+24970,
+24973,"['French', 'Bar', 'Pub']"
+24975,
+24977,['Cafe']
+24982,
+24992,
+25005,
+25008,['British']
+25012,['Middle Eastern']
+25016,
+25021,"['Italian', 'Pizza', 'Mediterranean']"
+25026,"['European', 'Turkish', 'Mediterranean']"
+25029,['Cafe']
+25032,"['European', 'Cafe', 'Portuguese']"
+25034,
+25037,"['European', 'Central European', 'German']"
+25044,
+25048,
+25050,"['Spanish', 'Gluten Free Options', 'Vegetarian Friendly']"
+25052,"['Italian', 'Vegetarian Friendly', 'Pizza']"
+25064,
+25065,
+25067,
+25072,
+25077,
+25078,"['Italian', 'Vegetarian Friendly']"
+25080,
+25087,"['European', 'Portuguese']"
+25088,
+25089,
+25090,
+25092,"['Brew Pub', 'Pub']"
+25102,
+25104,['Fast Food']
+25107,
+25108,
+25118,
+25119,
+25122,
+25124,"['European', 'Cafe']"
+25125,"['European', 'Portuguese']"
+25126,"['Italian', 'Pizza']"
+25127,
+25130,
+25137,"['French', 'Bar']"
+25139,['Spanish']
+25143,
+25144,"['French', 'European', 'Belgian']"
+25145,"['Spanish', 'Vegetarian Friendly']"
+25153,"['Japanese', 'Sushi', 'Asian']"
+25170,"['Italian', 'Pizza']"
+25171,"['Spanish', 'Vegetarian Friendly', 'Mediterranean']"
+25174,
+25177,
+25181,['Fast Food']
+25183,
+25185,
+25188,
+25191,
+25194,['Cafe']
+25199,"['European', 'Dutch', 'Pizza']"
+25207,"['Bar', 'Pub', 'Swedish']"
+25208,['Cafe']
+25210,"['Croatian', 'European', 'Central European']"
+25212,['Italian']
+25215,['Cafe']
+25217,
+25227,
+25229,
+25239,
+25242,"['Bar', 'Pub']"
+25243,"['Italian', 'Vegetarian Friendly', 'Pizza']"
+25250,
+25260,"['Spanish', 'Mediterranean']"
+25261,"['European', 'Cafe', 'Vegetarian Friendly', 'Dutch']"
+25263,
+25265,['Cafe']
+25281,"['European', 'Central European']"
+25295,"['Vegetarian Friendly', 'Asian', 'Vietnamese']"
+25299,"['Cafe', 'Vegetarian Friendly']"
+25301,['Sushi']
+25303,"['Dutch', 'International', 'Middle Eastern']"
+25304,
+25311,
+25313,"['European', 'Hungarian']"
+25315,['Cafe']
+25317,
+25324,
+25329,
+25331,['Cafe']
+25332,"['European', 'Portuguese']"
+25333,
+25337,"['Bar', 'Pub']"
+25339,
+25344,['Pub']
+25350,"['Asian', 'International', 'German']"
+25351,
+25355,
+25356,"['Fast Food', 'Mexican']"
+25357,['Grill']
+25362,"['Greek', 'Vegetarian Friendly']"
+25365,"['Fast Food', 'Turkish']"
+25373,['Cafe']
+25375,
+25386,
+25387,
+25390,['Asian']
+25399,
+25400,"['European', 'Portuguese', 'Mediterranean']"
+25406,['Italian']
+25408,
+25411,
+25416,['Cafe']
+25417,"['Italian', 'Seafood', 'Vegetarian Friendly']"
+25419,"['Italian', 'Vegetarian Friendly', 'Mediterranean']"
+25424,"['Lebanese', 'Mediterranean']"
+25425,"['Cafe', 'Fast Food']"
+25432,
+25452,
+25457,['Cafe']
+25458,
+25461,
+25470,
+25480,['French']
+25484,"['Vegetarian Friendly', 'Middle Eastern', 'Persian']"
+25491,"['European', 'Central European', 'German']"
+25493,"['European', 'Portuguese']"
+25497,
+25499,"['Japanese', 'Sushi', 'Asian']"
+25501,
+25510,"['Italian', 'Vegetarian Friendly', 'Pizza']"
+25527,
+25533,
+25536,"['Cafe', 'Italian']"
+25540,['British']
+25542,
+25544,['Cafe']
+25545,
+25549,
+25553,
+25588,
+25589,
+25599,
+25605,
+25612,
+25614,
+25617,
+25619,"['Tunisian', 'Bar', 'Barbecue', 'Mediterranean']"
+25629,
+25630,
+25631,"['European', 'Cafe', 'Czech']"
+25633,
+25634,
+25639,"['European', 'Bar', 'Italian']"
+25640,
+25642,
+25644,
+25651,
+25652,
+25655,
+25656,
+25663,
+25664,
+25669,
+25670,['Pizza']
+25674,"['Italian', 'Pizza', 'Mediterranean']"
+25675,"['Cafe', 'Fast Food']"
+25683,['Cafe']
+25698,['French']
+25700,['Cafe']
+25709,
+25710,"['Spanish', 'Seafood']"
+25713,
+25717,['French']
+25722,"['Thai', 'Asian', 'Fast Food']"
+25723,
+25724,
+25727,
+25729,
+25746,"['Italian', 'Vegetarian Friendly', 'Pizza']"
+25747,"['Street Food', 'Bar', 'International']"
+25748,"['Cafe', 'Vegetarian Friendly']"
+25749,
+25757,
+25760,['Fast Food']
+25765,
+25766,
+25774,
+25790,['Greek']
+25793,
+25798,
+25801,
+25802,
+25805,['Chinese']
+25810,
+25814,"['European', 'Italian', 'Vegetarian Friendly']"
+25818,
+25819,"['Japanese', 'Asian']"
+25820,"['Turkish', 'Middle Eastern']"
+25821,
+25829,
+25833,"['European', 'Swiss']"
+25835,
+25837,"['Chinese', 'Asian', 'Fast Food']"
+25854,"['European', 'Czech']"
+25856,
+25867,
+25869,"['European', 'Portuguese']"
+25876,"['French', 'Chinese']"
+25877,
+25884,
+25897,
+25910,
+25922,
+25924,
+25925,
+25931,['Cafe']
+25939,"['Italian', 'Pizza', 'Fast Food']"
+25941,"['European', 'Swiss']"
+25942,
+25943,"['European', 'Portuguese']"
+25944,
+25948,
+25954,['Cafe']
+25959,
+25970,
+25972,"['European', 'Cafe']"
+25974,
+25976,"['Lebanese', 'Mediterranean']"
+25978,
+25985,"['Vegetarian Friendly', 'Chinese', 'Asian']"
+25989,"['Vegetarian Friendly', 'Asian', 'Korean']"
+25991,['Spanish']
+25992,
+25993,
+26009,
+26010,"['European', 'Bar', 'Scandinavian']"
+26013,"['European', 'Polish']"
+26020,"['Italian', 'Vegetarian Friendly']"
+26021,
+26040,['American']
+26041,
+26043,
+26044,
+26048,
+26049,
+26055,['French']
+26056,
+26061,
+26064,['Cafe']
+26067,
+26074,"['Vegetarian Friendly', 'Asian', 'Vietnamese']"
+26075,
+26078,
+26079,
+26083,
+26086,
+26102,"['Seafood', 'Japanese', 'Sushi']"
+26103,
+26104,['Vegetarian Friendly']
+26107,
+26108,"['Bar', 'Pub']"
+26113,['Italian']
+26114,"['Italian', 'Pizza', 'Fast Food']"
+26116,
+26120,['Chinese']
+26127,
+26132,
+26141,
+26146,
+26151,
+26160,['Italian']
+26171,
+26176,
+26184,['Spanish']
+26187,
+26189,"['Spanish', 'Mediterranean']"
+26190,
+26205,
+26206,"['European', 'Bar', 'Pub']"
+26209,"['European', 'Italian', 'Pizza']"
+26210,"['Pizza', 'Fast Food', 'Turkish']"
+26216,
+26228,
+26231,
+26233,['International']
+26239,"['Greek', 'Vegetarian Friendly']"
+26252,['Cafe']
+26256,
+26262,
+26263,"['Eastern European', 'European', 'Hungarian']"
+26269,"['European', 'Polish']"
+26274,
+26279,['Japanese']
+26280,
+26283,
+26293,"['Spanish', 'Mediterranean']"
+26314,"['Bar', 'Dutch', 'International']"
+26315,
+26317,"['Cafe', 'Vegetarian Friendly']"
+26318,"['Chinese', 'Asian']"
+26325,
+26326,
+26330,
+26349,
+26353,['Chinese']
+26354,['Cafe']
+26357,"['European', 'Polish']"
+26361,"['Bar', 'Pub']"
+26366,"['European', 'Central European', 'Czech']"
+26368,
+26374,
+26375,
+26380,
+26384,['French']
+26389,['Cafe']
+26391,
+26399,"['Cafe', 'Pizza']"
+26403,"['European', 'Belgian']"
+26414,"['European', 'Portuguese']"
+26415,
+26416,"['Croatian', 'European', 'Mediterranean']"
+26419,
+26421,
+26422,"['Italian', 'Pizza']"
+26423,
+26425,
+26429,"['French', 'European']"
+26431,
+26432,
+26434,['Spanish']
+26436,"['Cafe', 'Fast Food']"
+26440,
+26441,"['Fast Food', 'Mexican']"
+26444,
+26454,['Fast Food']
+26455,"['Street Food', 'American', 'Cafe']"
+26460,['Sushi']
+26463,"['European', 'Dutch', 'Fast Food']"
+26464,
+26471,
+26482,['Italian']
+26485,"['Italian', 'Fast Food']"
+26487,"['European', 'Portuguese']"
+26494,"['European', 'Cafe', 'Scandinavian']"
+26502,
+26503,
+26505,
+26512,"['Spanish', 'Bar', 'Wine Bar']"
+26513,
+26515,
+26516,['Italian']
+26518,
+26521,['Caribbean']
+26526,"['European', 'Seafood', 'Fast Food']"
+26530,
+26536,
+26538,
+26545,"['European', 'Central European', 'Swiss']"
+26546,['Italian']
+26547,"['European', 'Vegetarian Friendly', 'Belgian']"
+26549,
+26551,
+26553,['Cafe']
+26555,"['Pizza', 'Fast Food']"
+26567,"['American', 'Fast Food']"
+26572,"['Vegetarian Friendly', 'Fast Food', 'Vegan Options']"
+26582,"['Italian', 'Vegetarian Friendly', 'Mediterranean']"
+26583,
+26584,['Fast Food']
+26588,['Vegan Options']
+26590,"['Spanish', 'Vegetarian Friendly', 'Mediterranean']"
+26594,"['European', 'Vegetarian Friendly', 'Pizza']"
+26599,"['Seafood', 'Grill']"
+26607,
+26609,['Asian']
+26610,"['European', 'Portuguese']"
+26616,['Spanish']
+26619,
+26622,['Cafe']
+26626,
+26627,
+26629,
+26636,
+26638,
+26657,
+26660,"['European', 'Portuguese']"
+26663,"['Cafe', 'Vegetarian Friendly']"
+26671,
+26672,"['Spanish', 'Mediterranean']"
+26676,"['Croatian', 'European']"
+26678,['Spanish']
+26681,"['Pizza', 'Fast Food']"
+26692,
+26693,['Spanish']
+26695,
+26710,['Spanish']
+26714,
+26715,
+26719,['Fast Food']
+26720,
+26724,"['European', 'Cafe', 'Portuguese']"
+26726,['Spanish']
+26735,['Italian']
+26736,
+26738,
+26740,['American']
+26741,"['Italian', 'Seafood']"
+26746,"['French', 'European', 'Belgian']"
+26747,
+26752,
+26773,['Spanish']
+26786,
+26788,
+26790,
+26794,"['European', 'Cafe', 'Portuguese']"
+26797,['Pub']
+26799,"['Spanish', 'Vegetarian Friendly', 'Mediterranean']"
+26800,"['Spanish', 'Mediterranean']"
+26801,
+26805,
+26826,
+26828,"['European', 'German']"
+26837,"['Italian', 'Vegetarian Friendly']"
+26842,
+26850,
+26852,"['Bar', 'Pub']"
+26860,"['Vegetarian Friendly', 'Vegan Options']"
+26863,
+26866,"['Bar', 'Cafe', 'Italian']"
+26869,['Fast Food']
+26870,
+26871,"['Italian', 'Vegetarian Friendly', 'Mediterranean']"
+26872,
+26875,
+26880,"['Sushi', 'Asian']"
+26887,
+26893,"['French', 'Fast Food']"
+26896,
+26904,
+26907,
+26915,
+26918,"['European', 'Italian', 'Vegetarian Friendly']"
+26925,['Italian']
+26936,
+26939,
+26940,"['Italian', 'Vegetarian Friendly']"
+26943,
+26951,"['European', 'Italian', 'Pizza']"
+26953,
+26956,"['French', 'European']"
+26961,
+26966,
+26967,"['Greek', 'Vegetarian Friendly', 'Vegan Options']"
+26969,
+26973,
+26979,
+26986,"['Cafe', 'Italian', 'Mediterranean']"
+26992,
+26995,['French']
+26997,
+27008,['Cafe']
+27014,"['American', 'Italian', 'International']"
+27015,"['Bar', 'Wine Bar']"
+27018,['Fast Food']
+27022,
+27023,"['Italian', 'Vegetarian Friendly', 'Fast Food']"
+27028,['Spanish']
+27029,
+27035,['Spanish']
+27038,
+27044,
+27047,['Spanish']
+27050,
+27051,
+27057,
+27063,"['Italian', 'Pizza']"
+27067,['Halal']
+27069,['Spanish']
+27072,
+27079,"['European', 'Portuguese']"
+27080,['Cafe']
+27088,
+27094,
+27095,"['Vegetarian Friendly', 'Fast Food']"
+27101,
+27103,
+27106,
+27112,
+27113,
+27116,['Cafe']
+27120,"['American', 'Gastropub', 'Pub']"
+27130,
+27134,"['Spanish', 'Mediterranean']"
+27158,"['French', 'European']"
+27159,
+27170,
+27171,
+27173,
+27176,
+27177,
+27182,"['Vegetarian Friendly', 'Halal']"
+27183,
+27184,
+27185,
+27188,
+27189,"['French', 'European']"
+27200,['German']
+27205,['German']
+27206,
+27216,
+27220,"['Italian', 'Seafood', 'Pizza']"
+27223,['Cafe']
+27227,
+27233,"['Italian', 'Vegetarian Friendly', 'Pizza']"
+27234,
+27235,
+27250,
+27255,"['Spanish', 'Vegetarian Friendly']"
+27261,
+27265,"['Chinese', 'Sushi', 'Pizza']"
+27273,
+27275,
+27281,['Pizza']
+27285,['Cafe']
+27286,"['European', 'Central European']"
+27291,"['Cafe', 'Italian', 'Vegan Options']"
+27305,['Vegetarian Friendly']
+27311,['Spanish']
+27313,['Fast Food']
+27315,['Italian']
+27316,
+27319,"['American', 'Vegetarian Friendly', 'Fast Food']"
+27321,
+27333,['Spanish']
+27336,
+27337,
+27338,
+27339,"['Italian', 'Pizza', 'Mediterranean']"
+27340,['Italian']
+27341,
+27348,
+27359,['Spanish']
+27371,"['Spanish', 'Bar', 'Brazilian']"
+27376,"['European', 'Bar', 'Pub']"
+27379,
+27380,
+27385,
+27405,"['Soups', 'Chinese', 'Asian']"
+27407,
+27429,
+27433,
+27435,['Vegetarian Friendly']
+27437,['Spanish']
+27438,"['Cafe', 'Fast Food']"
+27440,['Spanish']
+27443,['Seafood']
+27454,"['Bar', 'Cafe', 'Wine Bar']"
+27457,['French']
+27460,"['Healthy', 'Cafe']"
+27463,"['European', 'Portuguese']"
+27465,
+27478,
+27480,
+27481,"['Chinese', 'Asian']"
+27485,
+27506,
+27509,
+27513,
+27514,['Spanish']
+27515,
+27516,
+27519,
+27528,['French']
+27535,['Vegetarian Friendly']
+27536,"['Chinese', 'Sushi', 'Asian']"
+27541,
+27542,"['Turkish', 'Middle Eastern']"
+27546,"['Italian', 'Pizza']"
+27549,['Contemporary']
+27551,"['Vegetarian Friendly', 'Asian', 'Vietnamese']"
+27554,
+27566,['Vegetarian Friendly']
+27568,
+27580,
+27581,"['Italian', 'Seafood', 'Pizza']"
+27587,['Spanish']
+27592,
+27595,"['Italian', 'Pizza']"
+27596,['Chinese']
+27599,
+27600,"['European', 'Portuguese']"
+27601,"['Japanese', 'Vegetarian Friendly', 'Sushi']"
+27606,"['European', 'Cafe', 'Portuguese']"
+27614,"['European', 'Portuguese', 'Mediterranean']"
+27616,
+27617,
+27619,"['European', 'Czech']"
+27625,"['European', 'Portuguese']"
+27628,
+27637,['Spanish']
+27639,
+27646,"['European', 'Polish']"
+27649,['Turkish']
+27654,
+27655,
+27658,
+27671,
+27677,['French']
+27684,"['European', 'Scandinavian', 'Swedish']"
+27687,
+27696,['Italian']
+27700,
+27705,
+27720,
+27727,['Spanish']
+27730,
+27732,"['Japanese', 'Chinese', 'Asian']"
+27738,"['Japanese', 'Sushi', 'Asian']"
+27740,
+27743,"['Vegetarian Friendly', 'Chinese', 'Asian']"
+27756,
+27760,
+27765,
+27770,"['Italian', 'Seafood', 'Mediterranean']"
+27774,['European']
+27795,"['French', 'Bar', 'Steakhouse', 'Barbecue']"
+27803,"['American', 'Fast Food']"
+27809,['Vegetarian Friendly']
+27810,
+27812,
+27814,"['French', 'Halal']"
+27824,
+27838,"['Spanish', 'Vegetarian Friendly', 'Mediterranean']"
+27840,
+27841,
+27845,['Spanish']
+27850,
+27856,
+27862,
+27864,
+27865,['Greek']
+27866,"['Spanish', 'Mediterranean']"
+27867,
+27876,['Fast Food']
+27879,
+27880,
+27895,"['Italian', 'Pizza']"
+27898,
+27908,['French']
+27923,
+27930,['Fast Food']
+27931,"['Spanish', 'Mediterranean']"
+27940,
+27943,
+27944,
+27948,
+27955,['French']
+27963,"['Greek', 'Vegetarian Friendly', 'Mediterranean']"
+27964,
+27981,
+27990,['Spanish']
+27991,
+27992,
+27994,
+28008,"['Vegetarian Friendly', 'Fast Food']"
+28009,['Spanish']
+28011,
+28013,"['European', 'Cafe', 'Vegetarian Friendly']"
+28017,
+28028,"['European', 'Central European', 'German']"
+28033,
+28035,['Spanish']
+28036,
+28043,
+28046,"['Vegetarian Friendly', 'German']"
+28051,
+28052,['Chinese']
+28056,
+28059,['Fast Food']
+28064,"['American', 'Italian', 'Polish']"
+28068,
+28072,
+28073,
+28077,"['French', 'European', 'Belgian']"
+28079,
+28081,
+28083,['Italian']
+28090,['French']
+28094,
+28099,"['Polish', 'Fast Food']"
+28100,
+28107,
+28118,['Pub']
+28127,"['Thai', 'Japanese', 'Asian']"
+28129,"['French', 'European', 'Belgian']"
+28131,"['Thai', 'Asian', 'Vietnamese']"
+28133,['Italian']
+28135,"['Spanish', 'Mediterranean']"
+28139,"['Vegetarian Friendly', 'Afghani']"
+28144,
+28149,
+28150,['Spanish']
+28151,"['European', 'Scandinavian', 'Danish']"
+28155,"['European', 'Cafe', 'Scandinavian']"
+28159,"['French', 'European']"
+28168,
+28173,"['Thai', 'Vegetarian Friendly', 'Asian']"
+28174,
+28185,
+28187,"['European', 'Central European', 'German']"
+28190,
+28191,['French']
+28209,
+28211,"['Cafe', 'German']"
+28221,
+28223,['Italian']
+28224,"['Turkish', 'Middle Eastern', 'Mediterranean']"
+28228,['Mediterranean']
+28234,['German']
+28245,
+28247,['Cafe']
+28249,
+28256,
+28264,['Chinese']
+28280,
+28283,
+28289,"['European', 'Cafe', 'Vegetarian Friendly']"
+28292,
+28294,['French']
+28295,
+28296,"['Italian', 'Vegetarian Friendly', 'Vegan Options']"
+28299,"['Spanish', 'Vegetarian Friendly', 'Mediterranean']"
+28305,"['Vegetarian Friendly', 'Vegan Options']"
+28306,
+28309,
+28310,"['European', 'Hungarian']"
+28311,['Vegetarian Friendly']
+28312,"['American', 'Venezuelan', 'South American', 'Latin']"
+28313,['Pizza']
+28315,"['Thai', 'Chinese', 'Asian']"
+28317,
+28320,
+28321,
+28322,"['British', 'Bar', 'Caribbean']"
+28323,"['European', 'Austrian', 'Vegetarian Friendly']"
+28324,
+28333,
+28337,"['European', 'Austrian', 'Vegetarian Friendly']"
+28347,"['Spanish', 'Bar', 'Pub']"
+28359,
+28362,
+28363,
+28367,"['Vegetarian Friendly', 'Asian', 'Vietnamese']"
+28370,
+28371,"['Bar', 'Italian', 'Pub']"
+28373,
+28375,"['Cafe', 'Vegetarian Friendly']"
+28376,"['American', 'Mediterranean', 'Mexican']"
+28380,
+28384,
+28385,
+28389,"['American', 'Spanish']"
+28390,
+28391,
+28395,"['Spanish', 'International']"
+28396,['Vegetarian Friendly']
+28401,
+28407,['Cafe']
+28411,"['Italian', 'Vegetarian Friendly']"
+28415,
+28418,
+28429,
+28430,
+28438,"['European', 'Austrian']"
+28445,"['Bar', 'Pub']"
+28450,
+28451,['African']
+28452,
+28461,
+28464,"['Cafe', 'Vegetarian Friendly', 'Vegan Options']"
+28471,
+28473,"['Croatian', 'European']"
+28475,
+28512,
+28520,
+28544,
+28546,
+28554,
+28560,['Chinese']
+28561,
+28564,"['Indian', 'Middle Eastern', 'Pakistani']"
+28568,
+28570,"['Street Food', 'Cafe', 'Fast Food']"
+28571,
+28572,
+28574,
+28584,
+28604,
+28615,['Fast Food']
+28616,['Fast Food']
+28617,"['French', 'European']"
+28619,
+28638,
+28639,"['Vegetarian Friendly', 'International']"
+28658,
+28670,
+28677,"['Gastropub', 'Cafe', 'Pub']"
+28678,['Mediterranean']
+28681,['Spanish']
+28689,
+28690,['International']
+28706,
+28714,"['Bar', 'Cafe', 'Pub']"
+28717,
+28726,
+28728,
+28729,
+28745,
+28746,
+28751,
+28754,['Cafe']
+28757,
+28759,['Indian']
+28762,"['Asian', 'Korean']"
+28768,
+28770,
+28780,
+28790,
+28791,
+28795,
+28798,['French']
+28805,
+28807,
+28813,
+28815,
+28816,['Italian']
+28821,['Italian']
+28823,
+28835,['Spanish']
+28836,
+28841,
+28843,['Healthy']
+28850,
+28854,"['Chinese', 'Asian']"
+28859,
+28861,
+28862,"['Indian', 'Vegetarian Friendly']"
+28863,['Asian']
+28868,['Sushi']
+28873,
+28877,['Chinese']
+28878,['Italian']
+28889,['Fast Food']
+28890,
+28898,
+28900,
+28902,
+28905,
+28912,['Vegetarian Friendly']
+28913,['Vegetarian Friendly']
+28920,"['European', 'Central European', 'German']"
+28924,"['Italian', 'Mediterranean']"
+28929,
+28931,
+28936,['Cafe']
+28937,['Pizza']
+28939,"['American', 'Italian', 'Pizza']"
+28943,"['Healthy', 'Fast Food']"
+28944,
+28947,"['Greek', 'European']"
+28950,"['Italian', 'Seafood', 'Mediterranean']"
+28958,['Asian']
+28960,
+28961,['Chinese']
+28965,
+28967,['Cafe']
+28979,['Italian']
+28981,['Spanish']
+28982,
+28984,
+28986,"['Bar', 'Pub', 'German']"
+28988,
+28989,
+28993,['Pizza']
+29002,"['Bar', 'Cafe', 'Pub']"
+29005,
+29011,['Vegetarian Friendly']
+29016,
+29017,['Italian']
+29023,
+29025,"['Bar', 'Cafe', 'Italian', 'Pub']"
+29028,
+29029,
+29030,"['Italian', 'Vegetarian Friendly', 'Pizza']"
+29037,['Spanish']
+29039,
+29046,
+29055,
+29058,"['Japanese', 'Sushi', 'Asian']"
+29064,
+29070,"['Spanish', 'Diner', 'Mediterranean']"
+29073,"['American', 'Vegetarian Friendly', 'Fast Food']"
+29081,"['Cafe', 'Italian', 'Vegetarian Friendly']"
+29086,"['Italian', 'Pizza', 'Mediterranean']"
+29087,
+29089,"['Lebanese', 'Middle Eastern', 'Mediterranean']"
+29101,
+29102,"['Cafe', 'Italian', 'Vegetarian Friendly']"
+29124,"['European', 'Scandinavian', 'Swedish']"
+29136,['Spanish']
+29137,
+29143,"['Spanish', 'Cafe']"
+29146,"['Bar', 'Cafe', 'Pub']"
+29156,"['British', 'Gastropub', 'Bar']"
+29157,
+29158,"['Italian', 'Pizza']"
+29160,['Asian']
+29161,['French']
+29162,
+29167,
+29169,"['Healthy', 'Cafe']"
+29184,"['Spanish', 'Mediterranean']"
+29190,"['Spanish', 'Bar', 'Pub']"
+29191,
+29195,
+29200,
+29201,"['French', 'European']"
+29205,"['British', 'Vegetarian Friendly', 'Vegan Options']"
+29209,['French']
+29213,"['Bar', 'Cafe', 'Polish']"
+29222,
+29223,
+29224,
+29232,"['Diner', 'Fast Food', 'Turkish']"
+29233,"['Pizza', 'Fast Food', 'Middle Eastern']"
+29234,['International']
+29236,
+29239,"['European', 'Portuguese']"
+29241,"['European', 'Belgian']"
+29242,
+29249,
+29256,"['Thai', 'Asian']"
+29258,['Cafe']
+29259,
+29261,
+29262,
+29269,
+29270,
+29271,
+29273,"['Moroccan', 'Middle Eastern', 'Mediterranean']"
+29278,
+29279,
+29280,
+29284,
+29290,"['Italian', 'Vegetarian Friendly']"
+29291,"['French', 'Bar', 'Cafe']"
+29292,['Cafe']
+29293,"['European', 'Bar', 'Pub']"
+29301,
+29304,"['Italian', 'Pizza']"
+29316,
+29324,"['Cafe', 'Vegetarian Friendly']"
+29331,
+29332,"['Spanish', 'Mediterranean']"
+29336,
+29338,
+29342,['French']
+29343,
+29345,"['Chinese', 'Asian']"
+29353,"['European', 'Steakhouse', 'Mediterranean']"
+29354,
+29355,"['Cafe', 'Fast Food']"
+29356,"['European', 'Central European', 'German']"
+29357,
+29359,
+29360,
+29362,
+29382,"['American', 'Argentinean', 'South American']"
+29390,
+29395,
+29396,
+29403,
+29404,"['American', 'Italian']"
+29405,
+29417,"['Vegetarian Friendly', 'Vegan Options']"
+29419,"['French', 'Cafe']"
+29421,"['Bar', 'Italian', 'Pub']"
+29427,
+29431,"['Eastern European', 'European', 'Czech']"
+29433,
+29435,['Fast Food']
+29439,
+29446,
+29452,
+29455,
+29457,"['European', 'Austrian', 'Central European']"
+29461,
+29472,['British']
+29475,"['Italian', 'Vegetarian Friendly', 'Pizza']"
+29482,"['American', 'Bar', 'Barbecue']"
+29489,
+29493,['Fast Food']
+29495,['Caribbean']
+29496,
+29505,"['European', 'Cafe', 'Vegetarian Friendly']"
+29516,
+29518,"['Cafe', 'Vegetarian Friendly']"
+29520,"['British', 'Cafe', 'Vegetarian Friendly']"
+29526,"['Thai', 'Vegetarian Friendly', 'Asian']"
+29530,
+29532,['Indian']
+29534,"['Spanish', 'Bar', 'Pub']"
+29541,['European']
+29542,['Indian']
+29543,['French']
+29544,['Spanish']
+29552,
+29554,"['Chinese', 'Asian']"
+29556,"['Italian', 'Vegetarian Friendly']"
+29558,
+29559,['Chinese']
+29560,['Fast Food']
+29563,
+29568,
+29571,['Japanese']
+29573,
+29575,
+29577,
+29583,
+29588,
+29589,
+29590,"['Bar', 'Pub', 'Fast Food']"
+29591,
+29593,['Fast Food']
+29600,
+29601,"['Italian', 'Vegetarian Friendly']"
+29604,['Spanish']
+29605,
+29611,
+29613,['Cafe']
+29617,
+29626,"['Italian', 'Vegetarian Friendly', 'Pizza']"
+29632,
+29635,['Fast Food']
+29638,"['Greek', 'Mediterranean']"
+29642,
+29644,"['European', 'Italian', 'Pizza']"
+29647,
+29653,"['French', 'Fast Food']"
+29657,
+29662,"['Cafe', 'Italian']"
+29667,"['Italian', 'Vegetarian Friendly']"
+29670,
+29680,['Spanish']
+29684,['Spanish']
+29687,
+29695,
+29697,"['American', 'Peruvian', 'South American']"
+29699,"['European', 'Vegetarian Friendly', 'German']"
+29700,['Indian']
+29701,
+29705,['French']
+29706,
+29714,
+29715,"['Italian', 'Pizza']"
+29716,
+29718,
+29722,
+29729,"['French', 'European']"
+29735,
+29745,['Vegetarian Friendly']
+29749,['Spanish']
+29754,['Spanish']
+29758,"['Italian', 'Vegetarian Friendly', 'Pizza']"
+29759,
+29763,
+29773,['Mediterranean']
+29778,
+29779,['Spanish']
+29782,['Cafe']
+29790,['Fast Food']
+29793,
+29797,
+29800,['Italian']
+29801,"['Indian', 'Bar', 'Cafe']"
+29812,"['Italian', 'Vegetarian Friendly', 'Mediterranean']"
+29817,
+29822,
+29826,
+29833,
+29837,['Italian']
+29841,
+29842,['French']
+29847,
+29856,
+29857,"['European', 'Italian', 'Mediterranean']"
+29858,['Cafe']
+29861,"['Bar', 'Pub']"
+29863,
+29867,
+29882,"['American', 'Spanish']"
+29890,
+29894,['Chinese']
+29899,
+29903,"['Italian', 'Pizza', 'Mediterranean']"
+29905,
+29906,"['Spanish', 'Mediterranean']"
+29909,
+29910,"['Lebanese', 'Middle Eastern', 'Mediterranean']"
+29913,"['Italian', 'Vegetarian Friendly']"
+29933,['Vegetarian Friendly']
+29939,"['Italian', 'Vegetarian Friendly', 'Vegan Options']"
+29949,"['Spanish', 'Peruvian', 'Latin']"
+29950,"['Bar', 'Pub']"
+29954,
+29963,
+29966,
+29969,['Cafe']
+29970,
+29971,['Italian']
+29972,
+29976,"['European', 'Swiss']"
+29978,['Cafe']
+29980,
+29983,
+29987,
+29991,['Cafe']
+29995,
+30003,"['Italian', 'Pizza', 'Mediterranean']"
+30010,['Italian']
+30013,
+30018,
+30023,
+30024,
+30025,"['Japanese', 'Sushi', 'Asian']"
+30027,
+30030,['Fast Food']
+30037,
+30040,
+30045,"['French', 'Gastropub', 'Pub']"
+30052,"['Japanese', 'Sushi']"
+30058,
+30061,
+30068,
+30071,
+30072,
+30075,
+30085,
+30086,
+30088,"['Spanish', 'Bar', 'Vegetarian Friendly', 'Barbecue']"
+30090,
+30092,
+30093,
+30114,
+30115,['Italian']
+30124,['Greek']
+30128,
+30129,
+30137,
+30149,"['Vegetarian Friendly', 'Mexican']"
+30150,
+30153,
+30159,
+30161,
+30163,
+30164,"['Bar', 'Pub', 'Wine Bar']"
+30165,
+30166,['Italian']
+30170,['Spanish']
+30171,['Fast Food']
+30172,
+30173,
+30174,['Fast Food']
+30177,
+30184,
+30188,
+30189,['Bar']
+30190,
+30192,"['Healthy', 'European', 'Cafe']"
+30194,
+30200,
+30202,
+30203,
+30204,"['Moroccan', 'Middle Eastern', 'Mediterranean']"
+30206,['European']
+30213,
+30219,['French']
+30225,
+30229,"['Spanish', 'Cafe', 'Portuguese']"
+30235,"['Bar', 'Pub']"
+30239,['Fast Food']
+30242,
+30247,
+30249,
+30252,['Korean']
+30257,"['Italian', 'Vegetarian Friendly', 'Pizza']"
+30263,
+30265,
+30273,['Japanese']
+30274,"['Italian', 'Pizza', 'Fast Food']"
+30275,"['Moroccan', 'Mediterranean']"
+30278,['French']
+30279,"['Japanese', 'Chinese']"
+30282,"['Italian', 'Vegetarian Friendly']"
+30297,"['American', 'Vegetarian Friendly', 'Central American', 'Mexican']"
+30306,
+30310,
+30314,"['European', 'Portuguese']"
+30317,"['Spanish', 'Cafe']"
+30323,['European']
+30326,
+30327,
+30329,"['Bar', 'Vegetarian Friendly', 'Pub']"
+30330,"['European', 'Bar', 'Cafe']"
+30335,"['Spanish', 'Mediterranean']"
+30338,
+30342,
+30349,
+30351,['Fast Food']
+30358,
+30359,['Cafe']
+30365,"['American', 'Pizza']"
+30367,['Spanish']
+30374,['French']
+30381,['French']
+30386,['Cafe']
+30388,
+30398,
+30399,
+30400,
+30403,['Turkish']
+30409,['American']
+30412,"['Bar', 'Pub']"
+30415,
+30418,
+30421,"['Spanish', 'German', 'Latin']"
+30426,"['Italian', 'Pizza']"
+30434,"['Thai', 'Asian', 'Vietnamese']"
+30435,"['European', 'Portuguese']"
+30437,
+30442,"['Italian', 'Vegetarian Friendly']"
+30451,
+30454,
+30457,"['French', 'Vegetarian Friendly']"
+30462,"['European', 'Austrian', 'Central European']"
+30468,
+30470,"['Moroccan', 'Mediterranean']"
+30473,['Cafe']
+30477,['French']
+30482,['Vegetarian Friendly']
+30484,"['British', 'Bar', 'Brew Pub', 'Pub']"
+30488,"['Bar', 'Cafe', 'Italian', 'Pub']"
+30489,
+30490,"['Vegetarian Friendly', 'Asian', 'Nepali']"
+30492,
+30496,"['Vegetarian Friendly', 'German']"
+30506,['French']
+30508,['Greek']
+30509,
+30513,
+30517,
+30521,
+30524,
+30529,
+30535,['Spanish']
+30541,
+30546,"['European', 'Portuguese']"
+30548,
+30551,['Spanish']
+30554,
+30555,['Cafe']
+30561,
+30570,
+30571,"['Japanese', 'Vegetarian Friendly', 'Asian']"
+30573,
+30581,['Greek']
+30583,"['French', 'European']"
+30586,"['Cafe', 'Fast Food']"
+30587,
+30598,
+30603,"['European', 'Cafe', 'Polish']"
+30605,"['Gastropub', 'Bar', 'Vegetarian Friendly', 'Pub']"
+30609,
+30616,['Cafe']
+30618,['French']
+30631,['Cafe']
+30633,
+30638,
+30653,['American']
+30666,['Cafe']
+30668,
+30675,"['Cafe', 'Fast Food']"
+30678,
+30681,"['Cafe', 'Vegetarian Friendly']"
+30684,
+30689,['European']
+30690,
+30703,"['Greek', 'Vegetarian Friendly', 'Vegan Options']"
+30710,
+30711,['Fast Food']
+30717,
+30718,"['Bar', 'Pub']"
+30723,"['Asian', 'Korean']"
+30726,
+30729,
+30730,"['European', 'Austrian', 'Vegetarian Friendly']"
+30737,"['Vegetarian Friendly', 'German']"
+30757,
+30764,['Japanese']
+30769,['Fast Food']
+30773,
+30775,"['European', 'Portuguese']"
+30776,
+30784,
+30792,
+30793,['European']
+30794,
+30798,"['Bar', 'Pub']"
+30810,"['Cafe', 'Italian', 'German']"
+30818,"['Vegetarian Friendly', 'Turkish']"
+30823,
+30841,
+30846,
+30852,
+30860,
+30861,['French']
+30862,
+30868,['Fast Food']
+30870,
+30874,
+30880,"['American', 'European']"
+30882,
+30886,
+30899,"['European', 'Central European', 'German']"
+30909,
+30910,['French']
+30913,
+30915,
+30916,['Steakhouse']
+30934,"['Bar', 'Cafe', 'Pub']"
+30935,"['Italian', 'Pizza']"
+30946,"['Spanish', 'Mediterranean']"
+30952,"['European', 'Vegetarian Friendly']"
+30953,"['Greek', 'Mediterranean']"
+30966,"['European', 'Czech']"
+30978,
+30980,['Cafe']
+30990,
+30997,
+31018,['French']
+31033,
+31042,['Vegetarian Friendly']
+31045,
+31048,
+31060,
+31073,
+31077,['Fast Food']
+31080,['Fast Food']
+31081,
+31083,"['Cafe', 'Vegetarian Friendly', 'German']"
+31085,
+31089,
+31092,
+31094,['Italian']
+31096,
+31097,
+31099,
+31107,
+31108,
+31113,
+31114,"['Chinese', 'Sushi', 'Asian']"
+31115,
+31122,"['Italian', 'Vegetarian Friendly']"
+31133,"['Spanish', 'Mediterranean']"
+31135,"['Cafe', 'Vegetarian Friendly', 'Vegan Options']"
+31136,
+31138,
+31139,
+31144,
+31146,['Italian']
+31150,['Spanish']
+31156,
+31158,
+31159,
+31171,
+31175,
+31176,
+31181,['French']
+31182,
+31188,
+31197,
+31198,
+31199,
+31205,
+31207,
+31213,['Soups']
+31214,
+31221,
+31224,['Cafe']
+31233,"['Italian', 'Mediterranean']"
+31240,"['European', 'Polish']"
+31241,"['Bar', 'Cafe', 'Italian', 'Pub']"
+31253,
+31257,"['Italian', 'Pizza', 'Mediterranean']"
+31272,['Italian']
+31278,['French']
+31282,
+31284,['Spanish']
+31289,
+31292,
+31297,"['French', 'European']"
+31301,
+31314,
+31315,
+31317,"['American', 'Peruvian', 'South American']"
+31318,['Cafe']
+31319,"['Lebanese', 'Mediterranean']"
+31320,
+31321,
+31324,
+31326,['Cafe']
+31332,['French']
+31335,['Spanish']
+31348,
+31355,
+31365,
+31367,"['American', 'Peruvian', 'South American']"
+31371,
+31384,"['European', 'Mediterranean', 'Contemporary']"
+31385,['Fast Food']
+31386,
+31388,"['European', 'Vegetarian Friendly', 'Scandinavian']"
+31392,"['Bar', 'Wine Bar']"
+31407,['Italian']
+31409,['Pizza']
+31418,
+31420,"['Brazilian', 'Fast Food', 'Latin']"
+31421,
+31433,"['Italian', 'Vegetarian Friendly', 'Pizza']"
+31437,"['Italian', 'Vegetarian Friendly', 'Pizza']"
+31438,"['Spanish', 'Vegan Options']"
+31444,
+31446,
+31459,"['French', 'Bar', 'Pub']"
+31465,['Fast Food']
+31468,"['Italian', 'Pizza']"
+31471,"['Cafe', 'Vegetarian Friendly', 'Vegan Options']"
+31493,
+31497,
+31500,
+31506,"['Vegetarian Friendly', 'German']"
+31508,
+31512,
+31514,"['Spanish', 'Mediterranean']"
+31515,
+31520,"['Cafe', 'Fast Food']"
+31525,['French']
+31528,
+31534,"['French', 'European']"
+31536,"['French', 'European']"
+31540,"['Bar', 'Pub']"
+31544,"['European', 'Fast Food', 'Danish']"
+31546,['Cafe']
+31547,
+31549,"['Caribbean', 'Venezuelan', 'Latin']"
+31559,['Chinese']
+31571,
+31576,['French']
+31577,['Spanish']
+31584,
+31587,"['Spanish', 'Mediterranean']"
+31588,"['Bar', 'Vegetarian Friendly', 'Pub']"
+31602,"['Brazilian', 'Caribbean', 'Latin']"
+31607,['Cafe']
+31609,"['European', 'Portuguese']"
+31613,
+31615,
+31619,
+31620,"['European', 'Cafe']"
+31625,['Vegetarian Friendly']
+31627,
+31631,
+31634,
+31642,
+31650,"['Spanish', 'Mediterranean']"
+31656,
+31659,"['Vegetarian Friendly', 'Vegan Options']"
+31661,
+31663,
+31666,
+31675,
+31676,
+31679,['French']
+31680,
+31710,['Cafe']
+31712,"['Healthy', 'Cafe']"
+31721,
+31724,
+31734,['Spanish']
+31736,
+31739,
+31748,"['European', 'Bar', 'Belgian']"
+31754,['European']
+31756,"['Bar', 'Pub']"
+31758,"['European', 'Cafe', 'Portuguese']"
+31761,
+31773,
+31779,
+31781,"['Bar', 'Pub', 'German']"
+31793,"['Argentinean', 'Vegetarian Friendly']"
+31812,
+31815,['French']
+31821,['Fast Food']
+31822,
+31832,"['Italian', 'Seafood', 'Mediterranean']"
+31833,['Cafe']
+31847,['French']
+31856,
+31860,
+31862,['Cafe']
+31868,"['Vegetarian Friendly', 'Fast Food']"
+31869,['Chinese']
+31874,
+31877,"['Asian', 'Vietnamese']"
+31886,"['Japanese', 'Chinese', 'Sushi']"
+31896,"['European', 'Portuguese']"
+31898,"['European', 'Vegetarian Friendly']"
+31900,"['Spanish', 'Mediterranean']"
+31903,
+31922,['American']
+31926,"['Bar', 'Barbecue', 'Portuguese']"
+31949,
+31950,['French']
+31955,['Vegetarian Friendly']
+31964,
+31970,
+31971,
+31996,"['European', 'Portuguese']"
+32001,"['Middle Eastern', 'Pakistani']"
+32003,['Mediterranean']
+32005,"['Bar', 'Steakhouse', 'Barbecue', 'Grill']"
+32008,['Pizza']
+32011,
+32012,
+32015,"['American', 'Vegetarian Friendly']"
+32020,['Grill']
+32024,"['Bar', 'Italian', 'Pub']"
+32030,
+32034,
+32036,['Cafe']
+32038,
+32048,['Indian']
+32051,
+32055,
+32058,['Fast Food']
+32063,"['Spanish', 'Portuguese', 'Mediterranean']"
+32089,"['American', 'Healthy']"
+32094,
+32100,"['Vegetarian Friendly', 'Pizza']"
+32101,['Cafe']
+32102,['French']
+32103,
+32106,['Pizza']
+32113,"['Spanish', 'Mediterranean']"
+32118,
+32120,
+32123,
+32131,"['European', 'Danish']"
+32133,['Vegetarian Friendly']
+32140,
+32141,
+32145,"['Vegetarian Friendly', 'International']"
+32168,"['European', 'Polish']"
+32183,"['Japanese', 'Sushi', 'Asian']"
+32184,
+32189,"['Chinese', 'Asian', 'Vietnamese']"
+32199,"['Spanish', 'Mediterranean']"
+32203,
+32208,
+32209,
+32213,
+32215,
+32221,
+32227,
+32230,
+32231,"['Spanish', 'Mediterranean']"
+32233,['Cafe']
+32235,
+32237,['Indian']
+32241,
+32248,"['Seafood', 'German']"
+32249,"['French', 'European']"
+32252,"['Bar', 'Pub']"
+32253,"['French', 'Bar', 'Wine Bar']"
+32256,['African']
+32259,
+32263,"['European', 'Portuguese']"
+32267,"['European', 'Austrian', 'Cafe']"
+32270,
+32271,"['European', 'Hungarian', 'German']"
+32274,"['African', 'Bar', 'Cafe']"
+32277,"['French', 'European', 'Belgian']"
+32278,"['European', 'Bar', 'Pub']"
+32280,
+32282,"['Indian', 'Vegetarian Friendly', 'Vegan Options']"
+32285,
+32289,['Cafe']
+32293,"['Bar', 'Wine Bar']"
+32295,"['Cafe', 'Italian', 'Vegetarian Friendly']"
+32297,
+32300,"['European', 'Cafe', 'Mediterranean']"
+32302,['Fast Food']
+32305,['Pizza']
+32306,"['Vegetarian Friendly', 'Chinese']"
+32312,
+32322,"['Cafe', 'Vegetarian Friendly']"
+32340,
+32345,
+32346,"['Bar', 'Italian', 'Fast Food']"
+32347,"['European', 'Portuguese']"
+32349,
+32352,['French']
+32354,"['European', 'Spanish', 'Mediterranean']"
+32357,
+32358,
+32359,"['Japanese', 'Fast Food']"
+32362,"['European', 'Austrian', 'Central European']"
+32372,
+32374,['Healthy']
+32376,
+32377,
+32378,
+32379,
+32380,"['European', 'Cafe', 'Central European']"
+32385,"['Asian', 'Vietnamese']"
+32387,
+32388,
+32398,['Spanish']
+32399,['Cafe']
+32400,
+32407,
+32409,
+32410,
+32411,['Spanish']
+32413,
+32418,"['Italian', 'Vegetarian Friendly']"
+32421,['French']
+32425,
+32432,
+32439,"['Spanish', 'Mediterranean']"
+32446,
+32451,
+32453,
+32458,"['Spanish', 'Mediterranean']"
+32463,['Italian']
+32465,
+32466,"['American', 'Bar', 'Steakhouse', 'Barbecue']"
+32473,['Cafe']
+32474,
+32476,
+32481,
+32483,"['Thai', 'Asian']"
+32484,"['European', 'Czech']"
+32487,"['Bar', 'Pub', 'Venezuelan']"
+32488,
+32492,
+32499,"['European', 'Cafe']"
+32505,
+32506,
+32509,
+32522,
+32529,
+32531,
+32532,"['Spanish', 'Mediterranean']"
+32535,"['Spanish', 'Cafe', 'Mediterranean']"
+32538,"['European', 'Vegetarian Friendly', 'Dutch']"
+32539,"['European', 'Portuguese']"
+32551,"['Italian', 'Vegetarian Friendly']"
+32552,
+32553,
+32559,['Cafe']
+32565,"['Indian', 'Vegetarian Friendly']"
+32566,
+32569,
+32570,"['European', 'Spanish', 'Mediterranean']"
+32572,
+32576,['Fast Food']
+32584,
+32587,
+32588,"['European', 'Cafe']"
+32594,
+32595,
+32602,
+32608,
+32609,['Cafe']
+32610,"['Turkish', 'Middle Eastern', 'Mediterranean']"
+32613,
+32614,
+32616,"['Peruvian', 'Grill', 'Latin']"
+32617,
+32618,
+32622,"['Japanese', 'Sushi', 'Asian']"
+32627,"['Bar', 'Pub']"
+32628,"['European', 'Portuguese']"
+32631,"['Italian', 'Pizza', 'Mediterranean']"
+32637,"['Cafe', 'Mediterranean']"
+32647,['Cafe']
+32648,
+32650,
+32651,
+32655,['Spanish']
+32656,
+32660,['French']
+32663,['Vegetarian Friendly']
+32665,
+32666,"['Cafe', 'Italian', 'Vegan Options']"
+32668,
+32670,
+32672,['Spanish']
+32675,['Healthy']
+32677,"['Spanish', 'Fast Food']"
+32678,
+32680,"['Cafe', 'Vietnamese']"
+32683,['Vegetarian Friendly']
+32687,"['European', 'Spanish', 'Mediterranean']"
+32692,
+32696,"['European', 'Cafe', 'Vegetarian Friendly']"
+32704,"['Pizza', 'Fast Food']"
+32705,
+32707,['Cafe']
+32711,"['Bar', 'Pub']"
+32712,['Cafe']
+32714,
+32723,"['Spanish', 'Fast Food']"
+32737,"['Italian', 'Vegetarian Friendly']"
+32739,"['Healthy', 'European', 'Belgian']"
+32741,
+32743,['British']
+32744,"['European', 'Italian', 'Pizza']"
+32749,['Vietnamese']
+32750,
+32755,['Grill']
+32759,
+32760,"['Bar', 'Pub', 'Steakhouse']"
+32762,
+32764,['German']
+32765,"['Fast Food', 'Turkish', 'Middle Eastern']"
+32767,
+32768,"['Italian', 'Seafood', 'Mediterranean']"
+32769,
+32772,
+32778,['Japanese']
+32790,"['Cafe', 'Vegetarian Friendly']"
+32793,['European']
+32794,
+32802,"['European', 'Swedish']"
+32815,['Spanish']
+32817,
+32822,"['European', 'Austrian']"
+32829,
+32832,
+32833,['European']
+32836,"['Vegetarian Friendly', 'Asian']"
+32844,
+32845,['International']
+32849,"['Bar', 'Pub']"
+32851,
+32852,"['Healthy', 'Vegetarian Friendly', 'Vegan Options', 'Vietnamese']"
+32853,"['European', 'Czech']"
+32863,
+32864,['French']
+32869,
+32876,"['European', 'Bar', 'Pub']"
+32879,
+32884,
+32885,"['Spanish', 'Cafe']"
+32886,
+32888,"['Spanish', 'Mediterranean']"
+32894,['Cafe']
+32899,
+32914,
+32915,['Spanish']
+32923,"['Bar', 'Scottish', 'Pub']"
+32933,"['European', 'Portuguese']"
+32938,['Spanish']
+32943,"['Ethiopian', 'African']"
+32944,"['French', 'European', 'Belgian']"
+32949,"['Bar', 'Cafe', 'Swedish']"
+32953,['Italian']
+32954,
+32970,['Fast Food']
+32974,"['Japanese', 'Chinese', 'Mexican']"
+32980,
+32986,['Cafe']
+32987,
+33006,
+33012,
+33020,['German']
+33024,
+33026,"['Italian', 'Vegetarian Friendly']"
+33032,
+33039,['Italian']
+33040,
+33042,"['Bar', 'Fast Food', 'Barbecue']"
+33043,
+33050,
+33052,['Spanish']
+33060,
+33061,['Turkish']
+33067,
+33070,
+33071,
+33080,
+33087,"['European', 'Portuguese']"
+33088,
+33095,
+33098,
+33104,['Italian']
+33112,"['French', 'Contemporary']"
+33118,"['Italian', 'Vegetarian Friendly', 'Pizza']"
+33129,"['European', 'Bar', 'Pub', 'German']"
+33133,"['Asian', 'Vietnamese']"
+33144,['Italian']
+33147,
+33150,
+33157,['Cafe']
+33158,"['Vegetarian Friendly', 'Fast Food', 'Vegan Options']"
+33160,
+33161,
+33164,
+33166,"['Japanese', 'Chinese', 'Asian']"
+33181,
+33189,
+33191,
+33193,['Vegetarian Friendly']
+33194,
+33197,
+33203,['British']
+33204,
+33208,
+33218,
+33219,['Cafe']
+33221,
+33226,
+33227,['Seafood']
+33236,
+33243,
+33248,
+33254,['French']
+33269,"['American', 'Cafe']"
+33271,['French']
+33276,
+33277,
+33279,"['European', 'Polish', 'Russian']"
+33283,['Vegetarian Friendly']
+33284,['Vegetarian Friendly']
+33286,
+33290,"['European', 'Spanish', 'Swiss']"
+33294,
+33307,
+33323,['Cafe']
+33326,
+33328,['French']
+33333,
+33336,"['Greek', 'Vegetarian Friendly', 'German']"
+33344,['Cafe']
+33355,"['Cafe', 'Italian']"
+33361,"['French', 'European']"
+33364,"['Greek', 'Fast Food', 'Turkish']"
+33370,
+33380,['Bar']
+33382,
+33384,
+33387,
+33396,"['Spanish', 'Mediterranean']"
+33404,
+33406,
+33408,
+33414,
+33415,
+33428,
+33439,
+33440,
+33443,['Spanish']
+33461,"['European', 'Cafe', 'Danish']"
+33471,"['French', 'European', 'Austrian']"
+33472,['Italian']
+33473,"['Spanish', 'Bar', 'Pub', 'Mediterranean']"
+33478,
+33482,
+33483,"['Soups', 'Asian', 'Vietnamese']"
+33489,
+33491,
+33495,['French']
+33497,"['European', 'Austrian', 'Vegetarian Friendly']"
+33507,
+33510,"['European', 'Dutch']"
+33513,
+33515,
+33521,
+33527,['Cafe']
+33536,['Spanish']
+33538,['German']
+33539,
+33551,['Cafe']
+33580,"['French', 'Bar', 'Pub']"
+33581,
+33584,"['Bar', 'Cafe', 'Italian']"
+33596,"['European', 'Central European']"
+33597,"['Cafe', 'Italian', 'Mediterranean']"
+33601,
+33602,['German']
+33616,
+33617,
+33619,
+33625,
+33630,
+33633,['German']
+33637,
+33644,
+33645,
+33646,
+33649,
+33650,
+33654,['Halal']
+33655,"['Spanish', 'Mediterranean']"
+33657,
+33662,"['European', 'Portuguese']"
+33664,['French']
+33668,"['Bar', 'Cafe', 'Swiss']"
+33675,
+33676,"['European', 'Cafe', 'Vegetarian Friendly']"
+33691,"['French', 'European', 'Bar', 'Wine Bar']"
+33694,['Indian']
+33696,
+33697,['Italian']
+33700,"['Italian', 'Swiss', 'German']"
+33710,
+33711,
+33714,"['Street Food', 'Fast Food']"
+33729,['German']
+33730,"['European', 'Bar', 'Barbecue']"
+33733,"['European', 'Cafe', 'Scandinavian']"
+33738,['Indian']
+33744,"['Lebanese', 'Mediterranean']"
+33745,
+33747,
+33749,
+33751,
+33758,
+33761,"['Turkish', 'Middle Eastern']"
+33766,"['Fast Food', 'Turkish']"
+33769,
+33771,
+33772,
+33773,['Healthy']
+33775,
+33776,
+33781,"['European', 'Central European']"
+33795,"['Cafe', 'Italian', 'Vegetarian Friendly']"
+33803,
+33808,
+33809,
+33810,['Sushi']
+33813,
+33815,"['Cafe', 'Italian']"
+33819,
+33822,"['Bar', 'Pub']"
+33830,"['Spanish', 'Mexican', 'Latin']"
+33832,"['European', 'Cafe', 'Portuguese']"
+33833,"['Italian', 'Mediterranean']"
+33834,"['Healthy', 'Soups']"
+33846,"['British', 'Bar', 'Pub']"
+33850,
+33854,
+33859,"['Cafe', 'Vegetarian Friendly']"
+33860,
+33867,
+33868,"['Bar', 'Cafe', 'Mediterranean']"
+33873,"['European', 'Fusion']"
+33875,
+33877,
+33879,"['Italian', 'Vegetarian Friendly', 'Mediterranean']"
+33881,
+33883,"['Fast Food', 'Middle Eastern', 'Mediterranean']"
+33894,['French']
+33897,"['Italian', 'Vegetarian Friendly']"
+33900,
+33903,
+33904,"['Vegetarian Friendly', 'Asian', 'Vietnamese']"
+33906,
+33909,
+33911,"['Italian', 'Vegetarian Friendly']"
+33918,"['Indian', 'Vegetarian Friendly']"
+33923,"['Chinese', 'Asian']"
+33926,['American']
+33929,
+33930,
+33938,['French']
+33944,
+33945,"['Cafe', 'Vegetarian Friendly', 'German']"
+33948,"['Spanish', 'Mediterranean']"
+33951,"['Fast Food', 'Turkish', 'Middle Eastern']"
+33952,['Vegetarian Friendly']
+33954,
+33955,"['Cafe', 'German']"
+33957,['Cafe']
+33959,['Diner']
+33963,"['Cafe', 'Vegetarian Friendly']"
+33968,
+33969,['Cafe']
+33971,['Vegetarian Friendly']
+33977,
+33980,
+33990,
+33993,
+33997,
+33999,"['Chinese', 'Asian']"
+34001,['French']
+34007,"['European', 'Italian', 'Swiss']"
+34015,
+34019,"['Japanese', 'Asian']"
+34026,
+34031,
+34033,
+34047,
+34049,"['Bar', 'Pub', 'Mediterranean']"
+34051,"['Bar', 'Pub', 'International', 'German']"
+34054,
+34061,"['Street Food', 'Healthy', 'European', 'Belgian']"
+34065,
+34067,
+34069,
+34070,
+34071,
+34081,"['Lebanese', 'Middle Eastern', 'Mediterranean']"
+34085,['Cafe']
+34087,
+34093,
+34094,
+34095,['Cafe']
+34096,
+34097,
+34098,"['Cafe', 'Italian']"
+34101,
+34110,
+34113,
+34115,
+34122,['Italian']
+34129,"['Vegetarian Friendly', 'Mexican']"
+34132,"['Bar', 'Chinese', 'Barbecue']"
+34135,['Sushi']
+34137,"['Spanish', 'Bar', 'Wine Bar', 'Mediterranean']"
+34138,['Spanish']
+34139,"['European', 'Swedish']"
+34140,['Spanish']
+34141,"['European', 'Portuguese']"
+34142,
+34148,['Cafe']
+34152,
+34161,"['Japanese', 'Chinese', 'Asian']"
+34162,"['Italian', 'Vegetarian Friendly']"
+34163,
+34170,
+34175,
+34178,
+34180,"['European', 'Central European']"
+34183,
+34184,
+34187,['French']
+34196,"['Italian', 'Pizza', 'Mediterranean']"
+34198,
+34199,['French']
+34201,
+34203,
+34204,
+34205,
+34209,['Chinese']
+34212,
+34219,
+34221,
+34223,"['European', 'Italian']"
+34225,
+34228,"['Spanish', 'Mediterranean']"
+34229,['Cafe']
+34230,
+34244,['Italian']
+34245,['Pizza']
+34247,
+34248,['French']
+34250,
+34252,"['Spanish', 'Mexican', 'Latin']"
+34257,"['Cafe', 'Vegetarian Friendly']"
+34259,['Indian']
+34261,['French']
+34264,
+34273,
+34278,['Fast Food']
+34284,
+34290,"['Italian', 'Seafood', 'Vegetarian Friendly']"
+34298,"['Brew Pub', 'Pub', 'German']"
+34303,
+34305,
+34306,['Italian']
+34315,['Spanish']
+34317,['Spanish']
+34320,"['Japanese', 'Chinese', 'Sushi']"
+34325,"['Cambodian', 'Vegetarian Friendly', 'Asian', 'Vietnamese']"
+34327,
+34330,['German']
+34333,
+34337,['Cafe']
+34338,"['Spanish', 'Vegetarian Friendly']"
+34339,['Spanish']
+34348,"['Cafe', 'Vegetarian Friendly']"
+34352,
+34353,
+34356,"['Italian', 'Vegetarian Friendly', 'Pizza']"
+34365,['French']
+34366,
+34378,
+34383,
+34385,
+34386,"['Italian', 'Vegetarian Friendly', 'Pizza']"
+34389,
+34391,
+34393,"['Spanish', 'Vegetarian Friendly', 'Mediterranean']"
+34397,
+34399,
+34412,
+34413,
+34416,
+34435,
+34436,['German']
+34437,"['Croatian', 'European']"
+34446,
+34448,"['Italian', 'Pizza', 'Fast Food']"
+34455,
+34460,
+34463,"['Japanese', 'Sushi']"
+34470,"['Italian', 'Pizza']"
+34473,
+34474,
+34478,
+34482,"['Italian', 'Fast Food']"
+34487,"['Healthy', 'Soups', 'Cafe']"
+34492,"['European', 'Portuguese']"
+34502,['Spanish']
+34504,
+34509,
+34512,
+34529,
+34533,"['Cafe', 'Italian']"
+34539,
+34543,
+34544,
+34547,
+34549,
+34565,
+34567,['French']
+34570,"['American', 'Spanish', 'Latin']"
+34572,
+34579,
+34585,"['Bar', 'Pub', 'German']"
+34597,
+34608,['Indian']
+34610,"['European', 'Bar', 'Danish']"
+34616,"['European', 'Austrian', 'German']"
+34620,
+34625,
+34629,
+34639,"['European', 'Cafe', 'Danish']"
+34640,
+34641,['Fast Food']
+34645,['French']
+34652,"['French', 'Bar']"
+34656,"['Bar', 'Pub']"
+34661,
+34666,"['European', 'Cafe', 'Swedish']"
+34667,
+34670,
+34671,
+34685,['Spanish']
+34687,
+34690,"['Gastropub', 'Pub']"
+34693,"['Bar', 'Italian', 'Vegetarian Friendly', 'Wine Bar']"
+34702,
+34705,
+34706,
+34707,
+34713,
+34718,"['American', 'Vegetarian Friendly', 'Fast Food']"
+34721,"['Italian', 'Pizza']"
+34725,"['Italian', 'Pizza', 'Fast Food']"
+34730,"['Cafe', 'Vegetarian Friendly']"
+34733,['French']
+34736,['Sushi']
+34737,"['Bar', 'Pub']"
+34739,"['Eastern European', 'European']"
+34744,['Cafe']
+34745,
+34752,['Seafood']
+34754,['Pizza']
+34761,"['European', 'Swedish']"
+34763,['Italian']
+34766,"['Vegetarian Friendly', 'Chinese', 'Asian']"
+34779,
+34780,['Cafe']
+34781,"['Thai', 'Cambodian', 'Asian']"
+34783,
+34784,['French']
+34785,
+34788,"['Bar', 'Pub']"
+34789,
+34792,"['Italian', 'Vegetarian Friendly', 'Pizza']"
+34794,['Pub']
+34798,"['Lebanese', 'Middle Eastern', 'Mediterranean']"
+34800,
+34810,"['Italian', 'Pizza']"
+34817,
+34818,
+34823,['Cafe']
+34825,
+34827,['Italian']
+34828,
+34831,
+34832,
+34836,
+34837,['European']
+34843,
+34851,['Chinese']
+34854,
+34855,
+34858,
+34860,
+34863,
+34864,
+34870,
+34880,"['Greek', 'Mediterranean']"
+34888,
+34892,"['Bar', 'Pub']"
+34900,
+34901,"['European', 'Belgian']"
+34904,
+34909,
+34913,"['Spanish', 'Bar', 'Cafe', 'Pub']"
+34914,"['Spanish', 'Bar', 'Pub']"
+34916,"['Bar', 'Pub']"
+34917,"['Italian', 'Vegetarian Friendly']"
+34918,
+34921,
+34922,
+34924,
+34925,
+34929,"['French', 'International']"
+34931,"['European', 'Central European', 'German']"
+34934,
+34941,
+34949,"['Cafe', 'Vegetarian Friendly']"
+34950,['Spanish']
+34957,"['Cafe', 'Portuguese']"
+34962,
+34973,"['Cafe', 'Fast Food', 'Mediterranean']"
+34977,
+34982,
+34983,
+34985,"['European', 'Fast Food']"
+34993,['Vegetarian Friendly']
+34998,
+35009,"['Italian', 'Vegetarian Friendly']"
+35010,
+35011,"['Spanish', 'Mediterranean']"
+35012,"['Italian', 'Pizza']"
+35015,
+35018,"['American', 'Steakhouse']"
+35020,"['Cafe', 'Brew Pub', 'Pub', 'Mediterranean']"
+35032,['Polish']
+35042,
+35045,
+35049,"['European', 'Scandinavian', 'Danish']"
+35054,['Cafe']
+35056,['Spanish']
+35060,
+35066,
+35069,['Healthy']
+35070,['Vegetarian Friendly']
+35080,"['American', 'Peruvian', 'South American']"
+35082,
+35084,
+35095,['Spanish']
+35097,"['Spanish', 'Mediterranean']"
+35098,
+35101,
+35103,['Spanish']
+35104,
+35109,"['European', 'Polish']"
+35111,['Chinese']
+35116,['French']
+35118,"['Bar', 'Wine Bar']"
+35123,
+35124,
+35131,"['Vegetarian Friendly', 'Fast Food']"
+35139,"['French', 'Belgian']"
+35140,
+35141,"['European', 'Portuguese']"
+35142,
+35145,
+35146,"['Italian', 'Pizza']"
+35148,
+35150,
+35155,
+35159,
+35160,['Italian']
+35161,
+35165,"['French', 'Belgian']"
+35168,['American']
+35179,"['Spanish', 'International']"
+35186,"['Chinese', 'Asian']"
+35189,
+35190,
+35195,
+35196,
+35203,
+35204,
+35207,"['Bar', 'Pub']"
+35212,"['Italian', 'Vegetarian Friendly', 'Pizza']"
+35216,['Fast Food']
+35217,
+35223,"['Steakhouse', 'Brazilian', 'Latin']"
+35224,
+35230,"['Thai', 'Chinese', 'Asian']"
+35239,"['Spanish', 'Steakhouse']"
+35244,"['European', 'Austrian', 'Central European', 'Vegetarian Friendly']"
+35249,['Italian']
+35251,
+35254,
+35259,
+35264,"['Cafe', 'Italian']"
+35265,"['Japanese', 'Sushi', 'Asian']"
+35266,"['European', 'Bar', 'Pub']"
+35272,"['Spanish', 'Colombian', 'Latin']"
+35276,
+35280,
+35283,['Fast Food']
+35290,['Pizza']
+35291,
+35294,
+35296,"['Vegetarian Friendly', 'Pizza', 'Vegan Options']"
+35297,['French']
+35298,
+35302,
+35304,
+35306,"['Italian', 'Pizza', 'Fast Food']"
+35309,
+35310,
+35311,['Spanish']
+35315,
+35323,"['Fast Food', 'Mexican']"
+35329,
+35332,
+35334,['Cafe']
+35336,"['Italian', 'Pizza']"
+35341,"['Cafe', 'Vegetarian Friendly']"
+35342,
+35348,"['Bar', 'Italian', 'Wine Bar']"
+35355,
+35368,
+35369,"['European', 'Cafe', 'Portuguese']"
+35370,
+35375,"['European', 'Brew Pub', 'Pub', 'Czech']"
+35376,
+35379,
+35383,"['European', 'Portuguese']"
+35384,
+35394,
+35396,"['European', 'Fast Food', 'Belgian']"
+35397,
+35398,
+35401,
+35403,"['British', 'Diner']"
+35408,
+35416,
+35417,
+35418,
+35431,"['Bar', 'Pub']"
+35432,
+35435,"['Bar', 'Pub']"
+35442,
+35447,['Vegetarian Friendly']
+35448,"['European', 'Seafood', 'Mediterranean']"
+35454,['Chinese']
+35457,['Cafe']
+35459,"['Vegetarian Friendly', 'Vegan Options']"
+35463,
+35469,"['Chinese', 'Asian']"
+35474,
+35477,
+35489,
+35491,
+35494,"['Lebanese', 'Mediterranean']"
+35502,
+35503,"['Spanish', 'Gluten Free Options', 'Mediterranean']"
+35504,['British']
+35527,
+35528,
+35530,
+35532,
+35545,
+35548,
+35550,"['Cafe', 'Diner', 'International']"
+35552,
+35554,
+35557,"['Spanish', 'Bar', 'Pub']"
+35559,
+35572,['Vegetarian Friendly']
+35580,"['Cafe', 'Italian', 'Pizza']"
+35586,['Fast Food']
+35595,"['Chinese', 'Asian']"
+35602,
+35608,"['European', 'Portuguese']"
+35609,"['Vegetarian Friendly', 'Vegan Options']"
+35616,
+35620,['Portuguese']
+35634,
+35635,"['French', 'Cafe']"
+35637,"['European', 'Cafe']"
+35639,"['French', 'Vegetarian Friendly']"
+35640,"['European', 'Seafood', 'Portuguese']"
+35648,
+35650,"['Cafe', 'Peruvian', 'Latin']"
+35658,
+35659,['Bar']
+35660,
+35663,
+35666,['Italian']
+35670,
+35672,"['European', 'Grill']"
+35675,"['Spanish', 'Mediterranean']"
+35677,"['Spanish', 'Mediterranean']"
+35679,['Thai']
+35684,"['European', 'Bar', 'Wine Bar', 'Portuguese']"
+35692,['Italian']
+35703,
+35704,
+35710,"['European', 'Spanish']"
+35715,"['Japanese', 'Sushi']"
+35716,
+35720,['Turkish']
+35735,
+35739,"['American', 'Vegetarian Friendly', 'Fast Food']"
+35748,"['Vegetarian Friendly', 'Chinese', 'Asian']"
+35749,"['French', 'European', 'Belgian']"
+35752,
+35754,
+35756,"['French', 'Italian', 'Vegetarian Friendly']"
+35763,"['European', 'Central European', 'Vegetarian Friendly']"
+35766,
+35773,['Asian']
+35785,
+35788,
+35791,"['Fast Food', 'Turkish', 'Middle Eastern']"
+35797,
+35798,
+35801,
+35803,
+35807,
+35816,"['Fast Food', 'Middle Eastern']"
+35817,"['Italian', 'Pizza']"
+35818,"['Italian', 'Pizza']"
+35825,
+35828,
+35835,
+35837,"['Japanese', 'Sushi', 'Asian']"
+35839,['Fast Food']
+35845,
+35846,
+35856,
+35865,
+35866,"['Gastropub', 'Pub']"
+35871,
+35879,"['Street Food', 'American', 'Fast Food']"
+35882,"['European', 'German']"
+35886,
+35889,
+35890,
+35891,
+35922,
+35923,"['French', 'European']"
+35934,
+35935,['Cafe']
+35939,"['European', 'Bar', 'Barbecue', 'Portuguese']"
+35942,
+35949,
+35952,['German']
+35953,
+35954,"['Vegetarian Friendly', 'Middle Eastern', 'Mediterranean']"
+35957,"['Cafe', 'German']"
+35959,
+35969,
+35977,
+35983,
+35985,
+35987,"['Spanish', 'Bar', 'Barbecue']"
+35996,
+36000,
+36001,
+36003,
+36009,
+36018,['Italian']
+36019,"['Chinese', 'Asian', 'Vietnamese']"
+36024,
+36036,
+36040,
+36041,
+36045,"['Vegetarian Friendly', 'Vegan Options', 'German']"
+36046,"['Vegetarian Friendly', 'Vegan Options']"
+36050,
+36053,"['Cafe', 'Vegetarian Friendly']"
+36055,"['Bar', 'Cafe', 'Pub']"
+36060,
+36064,"['Italian', 'Vegetarian Friendly']"
+36068,
+36069,
+36072,
+36073,
+36074,"['Vegetarian Friendly', 'Vegan Options']"
+36080,"['French', 'Fast Food', 'Mediterranean']"
+36083,['Italian']
+36084,
+36088,
+36089,['Vegetarian Friendly']
+36091,"['Gastropub', 'Bar', 'Cafe', 'Pub']"
+36097,"['Asian', 'Vietnamese']"
+36100,
+36111,
+36112,['Vegetarian Friendly']
+36113,
+36119,
+36123,"['Italian', 'Vegetarian Friendly']"
+36126,['Pub']
+36133,['Cafe']
+36139,"['Indian', 'Vegetarian Friendly']"
+36149,
+36151,['Thai']
+36155,
+36156,
+36159,"['Bar', 'Vegetarian Friendly', 'Pub']"
+36161,"['Gluten Free Options', 'Ecuadorean', 'Latin']"
+36167,"['Vegetarian Friendly', 'Vegan Options', 'Mediterranean']"
+36169,
+36178,
+36179,
+36183,"['Spanish', 'Bar', 'Pub']"
+36190,"['Turkish', 'Middle Eastern', 'Grill']"
+36193,"['European', 'Spanish', 'Mediterranean']"
+36198,"['Japanese', 'Asian']"
+36203,
+36206,"['Greek', 'European', 'Swedish']"
+36211,
+36213,
+36215,
+36222,"['Vegetarian Friendly', 'Turkish', 'Mediterranean']"
+36223,"['French', 'African']"
+36231,
+36236,['Italian']
+36237,['French']
+36238,"['Bar', 'Pub']"
+36247,['Fast Food']
+36250,"['Italian', 'Vegetarian Friendly', 'Mediterranean']"
+36268,
+36272,
+36276,
+36279,
+36282,
+36283,['Cafe']
+36284,
+36285,['Cafe']
+36292,"['Vegetarian Friendly', 'Middle Eastern', 'Persian']"
+36299,['Spanish']
+36302,"['Street Food', 'Fast Food']"
+36306,"['Vegetarian Friendly', 'Vegan Options']"
+36310,['Fast Food']
+36311,
+36315,
+36316,
+36323,
+36327,
+36328,"['Bar', 'Pub']"
+36331,
+36334,
+36335,['Italian']
+36336,"['Cafe', 'Fast Food']"
+36337,['Cafe']
+36343,['French']
+36351,
+36352,
+36362,"['Spanish', 'Cafe', 'Vegetarian Friendly']"
+36363,['Cafe']
+36365,
+36366,
+36369,
+36375,
+36378,
+36380,
+36396,"['Italian', 'Pizza']"
+36399,"['Bar', 'Italian', 'Wine Bar']"
+36400,
+36407,['Italian']
+36409,['Fast Food']
+36415,
+36418,['Cafe']
+36425,"['European', 'Italian', 'Mediterranean']"
+36428,"['French', 'Vegetarian Friendly', 'Vietnamese']"
+36437,['French']
+36442,
+36443,
+36444,"['American', 'Bar', 'Vegetarian Friendly']"
+36445,
+36446,
+36448,"['Spanish', 'Steakhouse']"
+36449,
+36460,"['Spanish', 'Vegetarian Friendly']"
+36462,
+36465,
+36466,
+36467,"['Bar', 'Cafe', 'Pub']"
+36470,
+36472,
+36477,
+36481,
+36483,
+36486,['Spanish']
+36488,['Spanish']
+36490,"['Turkish', 'Middle Eastern']"
+36492,
+36495,"['Bar', 'Pub']"
+36498,
+36499,
+36506,['Spanish']
+36510,
+36512,"['European', 'Portuguese']"
+36513,
+36515,['Spanish']
+36518,
+36540,
+36544,"['European', 'Italian', 'Mediterranean']"
+36545,
+36546,"['European', 'Dutch']"
+36560,
+36563,
+36564,
+36571,['Spanish']
+36573,
+36575,"['Italian', 'Pizza']"
+36577,
+36580,
+36590,
+36591,
+36597,
+36606,
+36608,
+36609,"['European', 'Austrian', 'Vegetarian Friendly']"
+36613,"['European', 'Central European', 'German']"
+36614,['Pizza']
+36616,['French']
+36618,
+36619,['Italian']
+36622,['Spanish']
+36630,"['European', 'Austrian', 'Central European']"
+36634,['European']
+36635,['Chinese']
+36645,"['Spanish', 'Mediterranean']"
+36646,
+36648,
+36652,
+36654,['Fast Food']
+36660,
+36661,
+36663,
+36666,"['American', 'Bar', 'Fast Food', 'Barbecue']"
+36667,
+36675,
+36676,['French']
+36680,
+36682,['Turkish']
+36695,"['French', 'Cafe', 'Fast Food']"
+36699,['Cafe']
+36704,
+36712,"['European', 'Portuguese']"
+36724,['Fast Food']
+36731,"['European', 'Czech']"
+36734,
+36736,"['Italian', 'Vegetarian Friendly', 'Pizza']"
+36738,['German']
+36741,['Cafe']
+36752,['Healthy']
+36754,['Cafe']
+36759,
+36760,['International']
+36766,
+36772,
+36781,
+36791,
+36793,"['Spanish', 'Mediterranean']"
+36797,
+36802,"['Cafe', 'Fast Food', 'Mediterranean']"
+36805,['Fast Food']
+36806,['Pizza']
+36828,"['Bar', 'Pub', 'Wine Bar']"
+36832,
+36836,
+36846,
+36850,
+36854,
+36866,['Spanish']
+36872,['Sushi']
+36877,['Fast Food']
+36879,"['European', 'Vegetarian Friendly']"
+36881,['Cafe']
+36882,"['Bar', 'Cafe', 'Italian']"
+36884,['Chinese']
+36894,
+36901,['Vegetarian Friendly']
+36903,
+36908,"['Bar', 'Pub']"
+36913,['Italian']
+36918,['Cafe']
+36923,
+36925,
+36930,
+36935,['Italian']
+36936,
+36938,['Cafe']
+36945,['Cafe']
+36946,"['Vegetarian Friendly', 'Fast Food']"
+36950,
+36953,
+36955,"['Italian', 'Pizza']"
+36958,"['Italian', 'Vegetarian Friendly']"
+36964,
+36967,['Fast Food']
+36969,['Cafe']
+36980,
+36982,
+36989,
+36996,
+37003,['Italian']
+37005,['Pizza']
+37012,
+37015,['French']
+37016,['Spanish']
+37018,"['Bar', 'Pub', 'Czech']"
+37021,"['Japanese', 'Sushi']"
+37023,
+37025,['Middle Eastern']
+37026,"['French', 'Israeli']"
+37029,"['Italian', 'Pizza']"
+37034,
+37039,['Fast Food']
+37040,"['French', 'European', 'Cafe']"
+37049,"['Italian', 'Seafood', 'Pizza']"
+37052,"['French', 'European', 'Belgian']"
+37053,
+37054,"['Fast Food', 'Mexican']"
+37056,
+37057,"['American', 'Vegetarian Friendly', 'Diner']"
+37070,['International']
+37073,
+37079,"['Italian', 'Vegetarian Friendly', 'Pizza']"
+37084,
+37086,['Cafe']
+37089,['American']
+37098,"['Chinese', 'Asian']"
+37099,['Spanish']
+37108,['Healthy']
+37110,
+37112,['Cafe']
+37119,['Italian']
+37120,['Cafe']
+37121,
+37122,"['Bar', 'Pub']"
+37125,
+37129,"['Cafe', 'Vegetarian Friendly']"
+37130,
+37134,"['American', 'Fast Food']"
+37135,
+37136,"['Bar', 'Italian', 'Pub']"
+37137,['Fast Food']
+37143,"['Vegetarian Friendly', 'Hawaiian']"
+37144,
+37145,"['European', 'Italian', 'Vegetarian Friendly']"
+37148,"['Vegetarian Friendly', 'Pizza']"
+37152,
+37153,
+37158,"['European', 'Central European', 'Czech']"
+37165,['French']
+37167,
+37170,"['Italian', 'Mediterranean']"
+37174,"['French', 'European']"
+37179,['Turkish']
+37183,['Cafe']
+37184,"['Cafe', 'Fast Food']"
+37185,
+37190,['Mediterranean']
+37191,"['European', 'Portuguese']"
+37198,"['Spanish', 'Cafe']"
+37204,
+37207,
+37209,
+37210,['Cafe']
+37212,['Middle Eastern']
+37218,['Cafe']
+37219,"['Italian', 'Vegetarian Friendly', 'Pizza']"
+37223,
+37224,
+37225,
+37231,"['American', 'Peruvian', 'South American']"
+37235,
+37238,
+37239,
+37240,['Spanish']
+37241,"['British', 'Healthy', 'Cafe']"
+37243,
+37245,
+37252,"['Vegetarian Friendly', 'Chinese', 'Asian']"
+37254,
+37257,
+37260,"['Eastern European', 'European', 'Central European', 'Czech']"
+37262,
+37264,
+37267,"['European', 'Cafe', 'Vegetarian Friendly']"
+37268,
+37270,
+37279,"['Thai', 'Asian']"
+37290,
+37291,"['Italian', 'Pizza']"
+37292,
+37302,
+37313,"['Italian', 'Pizza']"
+37314,
+37321,"['American', 'Fast Food']"
+37323,"['Street Food', 'Soups', 'Chinese']"
+37332,"['Bar', 'Italian', 'Pub']"
+37335,"['European', 'Portuguese']"
+37337,"['European', 'Swedish']"
+37341,['French']
+37344,
+37347,"['Bar', 'Pub']"
+37350,
+37353,['German']
+37354,
+37357,
+37362,"['Bar', 'Pub']"
+37367,['Italian']
+37370,
+37371,['Cafe']
+37376,
+37380,"['American', 'Vegetarian Friendly']"
+37389,
+37393,"['American', 'Venezuelan', 'South American', 'Latin']"
+37395,"['European', 'Belgian']"
+37398,['Cafe']
+37411,"['American', 'Fast Food']"
+37412,['International']
+37414,['Italian']
+37415,
+37418,
+37422,
+37423,
+37425,
+37426,
+37434,['French']
+37436,
+37439,['Healthy']
+37442,['Spanish']
+37458,['German']
+37463,['Cafe']
+37469,
+37471,['Spanish']
+37477,
+37483,"['French', 'Vegetarian Friendly', 'Vegan Options']"
+37485,
+37486,
+37489,['Bar']
+37491,
+37492,
+37495,"['Fast Food', 'Turkish']"
+37501,"['Cafe', 'Vegetarian Friendly', 'German']"
+37503,"['Italian', 'Pizza', 'Fast Food']"
+37516,
+37529,['French']
+37530,['Cafe']
+37532,"['Cafe', 'Vegetarian Friendly']"
+37538,"['Bar', 'Pub']"
+37539,
+37540,['Spanish']
+37541,"['Cafe', 'Vegetarian Friendly', 'German']"
+37547,"['Spanish', 'Pizza', 'Mediterranean']"
+37548,['Chinese']
+37550,
+37557,['Pizza']
+37570,
+37571,"['Spanish', 'Vegetarian Friendly', 'Mediterranean']"
+37572,"['American', 'Fast Food']"
+37581,
+37595,"['European', 'Italian', 'Vegetarian Friendly']"
+37598,['Pizza']
+37604,['Vegetarian Friendly']
+37627,
+37632,"['Bar', 'German']"
+37634,
+37636,
+37648,
+37653,
+37657,['French']
+37660,"['Japanese', 'Sushi', 'Asian']"
+37662,['Spanish']
+37668,
+37670,['Spanish']
+37672,
+37677,"['French', 'Bar', 'Pub']"
+37680,['Cafe']
+37689,"['European', 'Vegetarian Friendly', 'Portuguese']"
+37692,"['Italian', 'Vegetarian Friendly']"
+37696,"['European', 'Austrian', 'Vegetarian Friendly']"
+37700,['Spanish']
+37719,['Korean']
+37721,"['French', 'Vegetarian Friendly']"
+37725,
+37726,"['Bar', 'Cafe', 'Pub']"
+37735,['Cafe']
+37753,"['French', 'European', 'Bar']"
+37754,['French']
+37757,"['British', 'Cafe', 'Vegetarian Friendly']"
+37758,
+37760,
+37764,
+37769,['Spanish']
+37770,['Indian']
+37771,['Cafe']
+37777,"['European', 'Czech']"
+37785,['Fast Food']
+37794,
+37798,
+37799,['French']
+37800,
+37803,"['Moroccan', 'Mediterranean']"
+37804,['French']
+37807,
+37818,"['Spanish', 'Mediterranean']"
+37820,"['Italian', 'Pizza']"
+37821,['Fast Food']
+37824,['French']
+37826,['European']
+37828,"['Italian', 'Pub', 'Pizza', 'Contemporary']"
+37829,
+37834,
+37837,"['Italian', 'Pizza', 'Fast Food']"
+37841,"['Arabic', 'Fast Food']"
+37844,"['Italian', 'Pizza']"
+37847,
+37851,
+37853,"['Indian', 'Vegetarian Friendly', 'Asian']"
+37856,['Cafe']
+37858,"['Cafe', 'Italian', 'Fast Food']"
+37859,
+37860,"['Japanese', 'Chinese', 'Asian']"
+37865,
+37866,['Cafe']
+37870,"['Cafe', 'Italian', 'Fast Food']"
+37888,
+37890,
+37893,
+37899,['Fast Food']
+37903,
+37906,['Fast Food']
+37916,
+37930,
+37933,
+37935,"['Austrian', 'Cafe', 'German']"
+37944,['Italian']
+37947,
+37950,
+37954,
+37957,['Cafe']
+37972,
+37979,"['Croatian', 'Middle Eastern', 'Persian']"
+37988,['Cafe']
+37994,"['French', 'Vegetarian Friendly']"
+37996,"['European', 'Austrian', 'Cafe']"
+38005,"['French', 'Gastropub', 'Vegetarian Friendly']"
+38007,
+38008,"['Israeli', 'Middle Eastern']"
+38010,"['French', 'Bar', 'Cafe']"
+38015,
+38025,
+38031,
+38033,
+38035,
+38036,
+38040,['Indian']
+38041,"['French', 'European']"
+38044,
+38049,"['Croatian', 'European', 'Vegetarian Friendly']"
+38050,
+38051,
+38054,
+38064,"['British', 'Cafe']"
+38079,
+38080,['Cafe']
+38082,
+38089,"['Cafe', 'Mediterranean']"
+38093,"['Chinese', 'Asian']"
+38096,
+38101,
+38104,"['Italian', 'Pizza']"
+38115,['Vegetarian Friendly']
+38117,['Vegetarian Friendly']
+38121,
+38124,['Fast Food']
+38125,
+38126,
+38129,"['Bar', 'Pub']"
+38133,
+38146,
+38147,['Cafe']
+38149,['French']
+38166,
+38167,['Spanish']
+38181,['Cafe']
+38182,['European']
+38183,"['Indian', 'Vegetarian Friendly']"
+38193,
+38197,['French']
+38198,
+38205,['Spanish']
+38206,
+38207,['Asian']
+38212,"['Japanese', 'Chinese', 'Sushi']"
+38215,
+38221,
+38222,"['French', 'Mediterranean', 'German']"
+38223,
+38231,
+38235,"['Spanish', 'Steakhouse']"
+38240,"['Pizza', 'Fast Food']"
+38246,
+38250,"['French', 'European']"
+38251,
+38253,"['Bar', 'Wine Bar']"
+38256,
+38258,['French']
+38266,"['Asian', 'Vietnamese']"
+38276,
+38282,"['Vegetarian Friendly', 'Chinese', 'Asian']"
+38284,
+38291,
+38298,['Pizza']
+38313,"['Spanish', 'Gluten Free Options', 'Mediterranean']"
+38315,
+38316,
+38325,['Cafe']
+38326,
+38330,
+38336,
+38337,['Turkish']
+38338,
+38339,
+38350,"['Asian', 'Fusion', 'Vietnamese']"
+38358,
+38363,"['Vegetarian Friendly', 'Fast Food']"
+38367,"['European', 'Steakhouse']"
+38373,"['European', 'Diner', 'German']"
+38374,
+38375,
+38377,['Spanish']
+38379,['German']
+38387,['European']
+38388,"['Vegetarian Friendly', 'Pub', 'Fast Food']"
+38393,"['European', 'Central European', 'Vegetarian Friendly']"
+38408,
+38413,
+38419,"['Cafe', 'Italian']"
+38424,"['French', 'European', 'Cafe']"
+38427,
+38430,
+38433,
+38434,['Seafood']
+38435,['Chinese']
+38436,
+38438,
+38442,
+38444,"['Japanese', 'Sushi', 'Asian']"
+38445,['Cafe']
+38448,
+38451,
+38455,"['Bar', 'Pub']"
+38457,
+38459,
+38469,
+38481,['Indian']
+38485,"['Italian', 'Vegetarian Friendly']"
+38496,['Vegetarian Friendly']
+38503,"['Seafood', 'Vegetarian Friendly', 'German']"
+38505,
+38506,"['European', 'Cafe', 'Central European', 'Swiss']"
+38513,['American']
+38515,['Pizza']
+38518,['French']
+38519,
+38524,
+38525,['French']
+38534,
+38535,
+38543,"['Italian', 'Pizza']"
+38548,
+38552,
+38554,
+38556,
+38557,"['Cafe', 'Vegetarian Friendly', 'Vegan Options']"
+38560,
+38564,['French']
+38567,
+38574,
+38575,"['Indian', 'Vegetarian Friendly']"
+38577,['Cafe']
+38578,
+38579,"['Bar', 'Dutch', 'Steakhouse', 'Barbecue']"
+38583,"['European', 'Central European', 'German']"
+38584,
+38586,
+38594,"['European', 'Fast Food', 'Belgian']"
+38595,
+38600,
+38602,['Fast Food']
+38605,['Vegetarian Friendly']
+38608,
+38611,
+38613,
+38615,
+38617,['Vegetarian Friendly']
+38619,
+38621,"['Cafe', 'Vegetarian Friendly', 'Vegan Options']"
+38622,
+38636,
+38640,
+38645,"['French', 'European', 'Belgian']"
+38647,
+38648,['Spanish']
+38655,
+38661,
+38670,
+38677,"['European', 'Czech']"
+38678,"['European', 'Czech']"
+38682,['Cafe']
+38684,['American']
+38687,['Cafe']
+38691,['Indian']
+38693,
+38698,['Fast Food']
+38700,"['Cuban', 'Caribbean']"
+38701,
+38702,"['Japanese', 'Chinese', 'Sushi']"
+38707,"['Steakhouse', 'Mexican']"
+38716,['Fast Food']
+38718,
+38720,
+38722,['Chinese']
+38723,"['European', 'Cafe', 'Central European']"
+38726,['Cafe']
+38727,['European']
+38732,
+38734,
+38737,
+38742,
+38743,
+38752,
+38756,['Fast Food']
+38760,
+38764,
+38769,"['European', 'Swedish']"
+38778,['Italian']
+38783,['German']
+38785,"['Bar', 'Pub', 'Grill']"
+38798,
+38799,['Fast Food']
+38805,
+38809,
+38814,
+38818,"['Cafe', 'Vegetarian Friendly', 'Vegan Options']"
+38820,
+38830,"['Vegetarian Friendly', 'Chinese', 'Asian']"
+38832,
+38837,
+38843,
+38854,
+38863,"['French', 'European', 'Bar']"
+38870,"['Italian', 'Fast Food']"
+38874,
+38878,
+38884,
+38894,
+38897,
+38900,
+38904,['Cafe']
+38909,
+38913,"['Italian', 'Vegetarian Friendly']"
+38919,"['Spanish', 'Italian', 'Mediterranean']"
+38920,
+38921,"['Asian', 'Fusion', 'Vietnamese']"
+38925,"['European', 'Portuguese']"
+38930,
+38934,
+38945,
+38946,"['Spanish', 'Peruvian', 'Mediterranean']"
+38947,"['European', 'Austrian']"
+38948,"['Spanish', 'Seafood', 'Mediterranean']"
+38955,"['Italian', 'Vegetarian Friendly', 'Pizza']"
+38962,
+38964,
+38974,
+38979,['British']
+38980,
+38983,
+38985,
+38987,
+38992,['Cafe']
+38994,"['European', 'Central European', 'German']"
+39002,"['Healthy', 'Cafe']"
+39012,"['European', 'Austrian', 'Central European', 'German']"
+39013,['American']
+39021,['Vegetarian Friendly']
+39024,['Seafood']
+39025,['Italian']
+39029,
+39031,"['Bar', 'Chinese', 'Pub']"
+39036,
+39038,"['European', 'Austrian']"
+39040,"['Thai', 'Halal']"
+39041,"['Japanese', 'Sushi', 'Asian']"
+39045,"['French', 'Italian']"
+39046,
+39049,
+39054,['Italian']
+39057,"['Vegetarian Friendly', 'Vegan Options', 'German']"
+39064,"['European', 'Seafood', 'Mediterranean']"
+39066,
+39069,['Spanish']
+39070,
+39072,
+39079,"['Spanish', 'Vegetarian Friendly', 'Mediterranean']"
+39082,
+39083,['Spanish']
+39090,['Asian']
+39091,
+39098,
+39100,
+39101,
+39108,
+39123,
+39124,
+39131,
+39141,
+39142,
+39150,
+39158,['Sushi']
+39159,"['Israeli', 'Vegetarian Friendly', 'Mediterranean']"
+39160,
+39169,
+39180,"['Pub', 'Fast Food', 'Grill']"
+39181,
+39185,
+39190,
+39192,
+39196,"['Spanish', 'Vegetarian Friendly', 'Mediterranean']"
+39199,"['Vegetarian Friendly', 'Chinese', 'Asian']"
+39203,
+39205,
+39207,"['European', 'Belgian']"
+39212,"['Spanish', 'International', 'Mediterranean']"
+39218,['Chinese']
+39228,
+39234,['Italian']
+39236,"['Gluten Free Options', 'Italian']"
+39238,
+39239,"['Bar', 'Pub']"
+39241,
+39246,"['Italian', 'Pizza']"
+39255,
+39269,
+39271,
+39274,
+39291,"['Japanese', 'Chinese', 'Sushi']"
+39294,
+39297,['Cafe']
+39299,['Sushi']
+39315,"['Bar', 'Pub']"
+39316,
+39319,
+39323,['Chinese']
+39325,
+39327,
+39330,"['Italian', 'Pizza', 'Mediterranean']"
+39334,
+39339,['Spanish']
+39340,
+39343,['International']
+39352,
+39365,"['Cafe', 'Vegetarian Friendly', 'German']"
+39370,
+39378,
+39382,"['European', 'Swiss']"
+39388,['Cafe']
+39390,
+39394,['Cafe']
+39395,
+39396,
+39407,"['American', 'Fast Food']"
+39410,['American']
+39414,"['Spanish', 'Vegetarian Friendly']"
+39421,
+39424,"['European', 'Vegetarian Friendly', 'Portuguese']"
+39426,
+39427,"['European', 'Italian', 'Mediterranean']"
+39430,"['Italian', 'Vegetarian Friendly', 'Vegan Options']"
+39435,"['British', 'Cafe', 'Vegetarian Friendly']"
+39436,
+39440,
+39452,
+39455,
+39471,"['Asian', 'Vietnamese']"
+39475,
+39477,
+39480,['Cafe']
+39486,"['Vegetarian Friendly', 'Fast Food']"
+39487,
+39493,
+39495,
+39496,"['Spanish', 'Italian', 'Pizza']"
+39498,
+39499,"['Street Food', 'Soups', 'Cafe']"
+39500,"['European', 'Italian', 'Swiss']"
+39506,
+39507,"['French', 'International']"
+39511,['Turkish']
+39512,['Spanish']
+39519,
+39522,['French']
+39523,
+39526,['Fast Food']
+39540,['Cafe']
+39549,
+39550,
+39552,
+39556,['Cafe']
+39557,"['Croatian', 'European', 'German']"
+39564,"['Bar', 'Cafe', 'Barbecue']"
+39567,['Spanish']
+39570,"['European', 'Italian']"
+39576,"['European', 'Portuguese']"
+39579,['Fast Food']
+39583,"['French', 'European']"
+39587,['Italian']
+39591,
+39596,
+39612,['Bar']
+39615,
+39629,
+39632,
+39638,
+39644,['Vegetarian Friendly']
+39649,
+39653,
+39659,
+39661,
+39663,
+39664,"['Vegetarian Friendly', 'German']"
+39674,
+39680,
+39681,
+39682,
+39683,"['Indian', 'Healthy', 'Diner']"
+39685,
+39688,
+39691,"['French', 'Vegetarian Friendly']"
+39703,
+39710,['Cafe']
+39712,
+39717,
+39724,
+39726,['Italian']
+39730,
+39731,['Cafe']
+39743,
+39746,"['European', 'Cafe', 'Vegetarian Friendly']"
+39756,
+39766,
+39767,
+39769,
+39776,
+39795,
+39796,"['European', 'Polish']"
+39813,"['Asian', 'Korean']"
+39820,['Fast Food']
+39821,
+39823,"['French', 'European']"
+39824,"['Spanish', 'Mediterranean']"
+39829,['Fast Food']
+39834,
+39843,"['Fast Food', 'Mexican']"
+39850,
+39853,"['French', 'European']"
+39854,['Cafe']
+39857,['German']
+39862,
+39864,"['Italian', 'Vegetarian Friendly', 'Pizza']"
+39867,"['European', 'Austrian']"
+39869,
+39876,"['Vegetarian Friendly', 'Asian', 'Vietnamese']"
+39883,
+39885,
+39886,['Fast Food']
+39898,"['Japanese', 'Chinese', 'Sushi']"
+39902,
+39907,
+39908,"['Greek', 'Vegetarian Friendly', 'Mediterranean']"
+39909,['French']
+39912,
+39914,
+39916,"['Croatian', 'Steakhouse', 'German']"
+39918,
+39923,['Spanish']
+39934,
+39935,"['Spanish', 'Cafe', 'Diner']"
+39941,"['Vegetarian Friendly', 'Vegan Options']"
+39947,"['European', 'International']"
+39953,
+39965,
+39975,"['European', 'Portuguese']"
+39981,
+39983,
+39986,
+39988,
+39993,['French']

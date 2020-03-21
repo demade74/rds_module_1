@@ -1,0 +1,2 @@
+for url /Restaurant_Review-g187309-d928965-Reviews-Cafe_Reitschule-Munich_Upper_Bavaria_Bavaria.html
+('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))

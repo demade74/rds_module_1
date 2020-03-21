@@ -1,0 +1,2 @@
+for url /Restaurant_Review-g187147-d8571955-Reviews-Da_Fu-Paris_Ile_de_France.html
+Exceeded 30 redirects.

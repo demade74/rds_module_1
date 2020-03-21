@@ -1,0 +1,2 @@
+for url /Restaurant_Review-g187147-d2425740-Reviews-Cafe_Pourpre-Paris_Ile_de_France.html
+Exceeded 30 redirects.

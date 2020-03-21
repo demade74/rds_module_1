@@ -1,0 +1,2 @@
+for url /Restaurant_Review-g187147-d3508391-Reviews-La_Mauvaise_Reputation-Paris_Ile_de_France.html
+Exceeded 30 redirects.

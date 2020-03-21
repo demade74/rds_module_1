@@ -1,0 +1,2 @@
+for url /Restaurant_Review-g187147-d1337250-Reviews-Elisee_Boetie-Paris_Ile_de_France.html
+Exceeded 30 redirects.
